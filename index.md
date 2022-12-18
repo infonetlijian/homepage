@@ -1,7 +1,5 @@
-
-
 <body>
-	<img align="left" width="15%" height="15%" hspace = 30 src="/homepage/images/Photo-lijian.JPG"/>
+	<img align="left" width="15%" height="15%" hspace = 10 src="/homepage/images/Photo-lijian.JPG"/>
 		<span>
 			<h2 size="8" face="" color="black">Jian Li</h2>
 			<p>
@@ -13,13 +11,12 @@
 			<p>
 				<a href="https://scholar.google.com/citations?user=ZuP2MtEAAAAJ&hl=zh-CN">[Google Scholar]</a> <a href="http://if.ustc.edu.cn/member.php">[INFONET]</a>
 			</p>
-			<p>
-				<a href="/homepage/">News</a> | <a href="/homepage/CV.html">CV</a> | <a href="/homepage/publications.html">Publications</a> | <a href="/homepage/projects.html">Projects</a>
-			</p>
 		</span>
 </body>
 
 ***
+
+[News](/homepage/) | [CV](/homepage/CV.html) | [Publications](/homepage/publications.html) | [Projects](/homepage/projects.html) 
 
 ## <font color=#6EB1EC>News</font>
 - 2022.8, our paper "Fidelity-Guaranteed Entanglement Routing in Quantum Networks" is accepted by IEEE Transactions on Communications!
