@@ -5,11 +5,21 @@ E-Mail: <lijian9@ustc.edu.cn>
 \[ [Google Scholar](https://scholar.google.com/citations?user=ZuP2MtEAAAAJ&hl=zh-CN) \] \[ [INFONET](http://if.ustc.edu.cn/member.php) \]   
 [News](/homepage/) | [CV](/homepage/CV.html) | [Publications](/homepage/publications.html) | [Projects](/homepage/projects.html) |  
 
-<div align="left"><img width="15%" height="15%" src="/homepage/images/Photo-lijian.JPG"/ style="margin: 10px;"><span>Jian Li<br>Ph.D, Research Associate, IEEE Member<br>E-Mail: lijian9@ustc.edu.cn<br>
-<p>
-<a href="https://scholar.google.com/citations?user=ZuP2MtEAAAAJ&hl=zh-CN">Google Scholar</a>
-</p>
-</span></div>
+<body>
+	<img align="left" width="15%" height="15%" src="/homepage/images/Photo-lijian.JPG"/>
+		<span>
+			<h2 size="6" face="" color="black">Jian Li</h2>
+			<p>
+				Ph.D, Research Associate, IEEE Member
+			</p>
+			<p>
+				E-Mail: lijian9@ustc.edu.cn
+			</p>
+			<p>
+				<a href="https://scholar.google.com/citations?user=ZuP2MtEAAAAJ&hl=zh-CN">Google Scholar</a>
+			</p>
+		</span>
+</body>
 
 ***
 
