@@ -21,8 +21,13 @@ Jian Li received his B.S. degree from the Department of Electronics and Informat
 
 ***
 
-## <font color=#6EB1EC>Work experience</font>   
-* School of Cyber Science and Technology, 2020.12 - Current  
+## <font color=#6EB1EC>Work experience</font>  
+* School of Cyber Science and Technology, 2022.11 - Current  
+  * Research Associate 
+  * University of Science and Technology of China  
+  * Hefei, China  
+  * Advisor: Prof. Jun Lu (Academician of Chinese Academy of Engineering)   
+* School of Cyber Science and Technology, 2020.12 - 2022.11 
   * PostDoctoral Fellow  
   * University of Science and Technology of China  
   * Hefei, China  
