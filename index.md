@@ -1,9 +1,9 @@
-<div align="right"><img width="15%" height="15%" src="C:\Users\Administrator\Documents\GitHub\homepage\images\Photo-lijian.JPG"/ style="position:relative; top:100px; float:right; margin: 10px;"></div>
+<div align="right"><img width="15%" height="15%" src="C:\Users\Administrator\Documents\GitHub\homepage\images\Photo-lijian.JPG"/ style="position:relative; top:10px; float:right; margin: 10px;"></div>
 
 # Jian Li
 Ph.D, Research Associate, IEEE Member  
-\[[E-Mail](lijian9@ustc.edu.cn)\] | 
-\[[Google Scholar](https://scholar.google.com/citations?user=ZuP2MtEAAAAJ&hl=zh-CN)\] | \[[INFONET](http://if.ustc.edu.cn/member.php)\]   
+\[ [E-Mail](lijian9@ustc.edu.cn) \]
+\[ [Google Scholar](https://scholar.google.com/citations?user=ZuP2MtEAAAAJ&hl=zh-CN) \] \[ [INFONET](http://if.ustc.edu.cn/member.php) \]   
 [News](/homepage/) | [CV](/homepage/CV.html) | [Publications](/homepage/publications.html) | [Projects](/homepage/projects.html) |  
 
 ***

@@ -21,7 +21,7 @@ Jian Li received his B.S. degree from the Department of Electronics and Informat
 
 ***
 
-## <font color=#6EB1EC>Work experience</font>  
+## <font color=#6EB1EC>Experience</font>  
 * School of Cyber Science and Technology, 2022.11 - Current  
   * Research Associate 
   * University of Science and Technology of China  
@@ -41,7 +41,7 @@ Jian Li received his B.S. degree from the Department of Electronics and Informat
   
 ***
 
-## <font color=#6EB1EC>Service and Leadership</font>  
+## <font color=#6EB1EC>Professional Activities</font>  
 * Reviewer: IEEE TCOM, IEEE TWC, IEEE TVT, IEEE TNSM, IEEE Network, IET Communications, IEEE Globecom, IEEE ICC  
 * Session Chiar: IWQoS 2021 (Session 14-Systems)  
 * Oral Presentation: ICC 2017 (Paris, France)  
