@@ -1,8 +1,3 @@
-<style>
-h2 {
-    border-bottom: none
-}
-</style>
 
 # Jian Li
 Ph.D, Research Associate, IEEE Member  
