@@ -1,4 +1,4 @@
-<div align="right"><img width="15%" height="15%" src="/homepage/images/Photo-lijian.JPG"/ style="position:relative; top:190px; right:1px; margin: 10px;"></div>
+<div align="right"><img width="15%" height="15%" src="/homepage/images/Photo-lijian.JPG"/ style="position:relative; top:200px; right:1px; margin: 10px;"></div>
 
 # Jian Li
 Ph.D, Research Associate, IEEE Member  
