@@ -1,4 +1,4 @@
-<div align="right"><img width="13%" height="13%" src="/homepage/images/profile.jpg"/ style="float:right; margin: 1px;"></div>
+<div align="right"><img width="13%" height="13%" src="/homepage/images/Photo-lijian.JPG"/ style="float:right; margin: 1px;"></div>
 # Jian Li
 Ph.D, IEEE Member  
 <lijian9@ustc.edu.cn> | <http://if.ustc.edu.cn/member.php>   
