@@ -2,7 +2,7 @@
 # Jian Li
 Ph.D, IEEE Member  
 <lijian9@ustc.edu.cn> | <http://if.ustc.edu.cn/member.php>   
-[CV](/homepage/CV.html) | [Publications](/homepage/publications.html) | [Projects](/homepage/projects.html) | [Google Scholar](https://scholar.google.com/citations?user=ZuP2MtEAAAAJ&hl=zh-CN)
+[News](/homepage/) | [CV](/homepage/CV.html) | [Publications](/homepage/publications.html) | [Projects](/homepage/projects.html) | [Google Scholar](https://scholar.google.com/citations?user=ZuP2MtEAAAAJ&hl=zh-CN)
 
 ***
 
