@@ -6,7 +6,7 @@ Ph.D, IEEE Member
 
 ***
 
-## <font color=Blue>News</font>
+## <font color=#6EB1EC>News</font>
 - 2022.8, our paper "Fidelity-Guaranteed Entanglement Routing in Quantum Networks" is accepted by IEEE Transactions on Communications!
 - 2022.8, our papers "Content-Aware Routing based on Cached Content Prediction in Satellite Networks", "Privacy-preserving Truth Discovery with Outlier Detection in Mobile Crowdsensing Systems", "Forward Private Multi-Client Searchable Encryption with Efficient Access Control in Cloud Storage" are accepted by Globecom 2022!
 - 2022.7, our paper "An Asynchronous Entanglement Distribution Protocol for Quantum Networks" is accepted by IEEE Network!

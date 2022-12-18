@@ -6,13 +6,13 @@ Ph.D, IEEE Member
 
 ***
 
-## Preprints
+## <font color=#6EB1EC>Preprints</font>
 
 arXiv
 
 ***
 
-## 2022
+## <font color=#6EB1EC>2022</font>
 
 **An Asynchronous Entanglement Distribution Protocol for Quantum Networks**  
 Zhaoying Wang; Jian Li; Kaiping Xue; Shaoyin Cheng; Nenghai Yu; Qibin Sun; Jun Lu  
@@ -46,7 +46,7 @@ Zhonghui Li; Kaiping Xue; Jian Li; Nenghai Yu; David S.L. Wei; Ruidong Li
 
 ***
 
-## 2021
+## <font color=#6EB1EC>2021</font>
 **Building a Large-Scale and Wide-Area Quantum Internet Based on an OSI-alike Model**  
 Zhonghui Li; Kaiping Xue; Jian Li; Nenghai Yu; Jianqing Liu; David S. L. Wei; Qibin Sun; Jun Lu  
 **China Communications**, Volume: 18, Issue: 10  
