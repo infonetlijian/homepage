@@ -6,7 +6,7 @@ E-Mail: <lijian9@ustc.edu.cn>
 [News](/homepage/) | [CV](/homepage/CV.html) | [Publications](/homepage/publications.html) | [Projects](/homepage/projects.html) |  
 
 <body>
-	<img align="left" width="15%" height="15%" src="/homepage/images/Photo-lijian.JPG"/>
+	<img align="left" width="15%" height="15%" hspace = 30 src="/homepage/images/Photo-lijian.JPG"/>
 		<span>
 			<h2 size="6" face="" color="black">Jian Li</h2>
 			<p>
