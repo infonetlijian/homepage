@@ -16,7 +16,7 @@
 
 ***
 
-[News](/homepage/) | [CV](/homepage/CV.html) | [Publications](/homepage/publications.html) | [Projects](/homepage/projects.html) 
+| [News](/homepage/) | [CV](/homepage/CV.html) | [Publications](/homepage/publications.html) | [Projects](/homepage/projects.html) |
 
 ## <font color=#6EB1EC>News</font>
 - 2022.8, our paper "Fidelity-Guaranteed Entanglement Routing in Quantum Networks" is accepted by IEEE Transactions on Communications!
