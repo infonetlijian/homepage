@@ -21,8 +21,8 @@
 ## <font color=#6EB1EC>Preprints</font>
 
 **Routing in small satellite networks: A GNN-based learning approach**  
-Mengjie Liu, Jian Li, Hancheng Lu 
-[arXiv](arXiv preprint arXiv:2108.08523)
+Mengjie Liu, Jian Li, Hancheng Lu  
+[arXiv](https://arxiv.org/abs/2108.08523)
 
 
 ## <font color=#6EB1EC>2022</font>
