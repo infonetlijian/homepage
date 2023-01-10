@@ -24,8 +24,28 @@
 Mengjie Liu, Jian Li, Hancheng Lu  
 [arXiv](https://arxiv.org/abs/2108.08523)
 
+## <font color=#6EB1EC>2023</font>
+
+**SimQN: a Network-layer Simulator for the Quantum Network Investigation**    
+Lutong Chen, Kaiping Xue, Jian Li, Nenghai Yu, Ruidong Li, Qibin Sun, Jun Lu    
+**IEEE Network**,Accepted    
 
 ## <font color=#6EB1EC>2022</font>
+
+**Content-Aware Routing based on Cached Content Prediction in Satellite Networks**  
+Jin Tang, Jian Li, Lan Zhang, Kaiping Xue, Qibin Sun, Jun Lu  
+**2022 IEEE Global Communications Conference (GLOBECOM)**    
+[PDF](http://staff.ustc.edu.cn/~kpxue/paper/Globecom2022-JingTang.pdf)
+
+**Privacy-preserving Truth Discovery with Outlier Detection in Mobile Crowdsensing Systems**  
+Jingchen Zhao, Bin Zhu, Jian Li, Shaoxian Yuan, Kaiping Xue, Xianchao Zhang   
+**2022 IEEE Global Communications Conference (GLOBECOM)**    
+[PDF](http://staff.ustc.edu.cn/~kpxue/paper/Globecom2022-JingchenZhao.pdf)
+
+**Forward Private Multi-Client Searchable Encryption with Efficient Access Control in Cloud Storage**   
+Jinjiang Yang, Feng Liu, Xinyi Luo, Jianan Hong, Jian Li, Kaiping Xue    
+**2022 IEEE Global Communications Conference (GLOBECOM)**    
+[PDF](http://staff.ustc.edu.cn/~kpxue/paper/Globecom2022-JinjiangYang.pdf)
 
 **An Asynchronous Entanglement Distribution Protocol for Quantum Networks**  
 Zhaoying Wang; Jian Li; Kaiping Xue; Shaoyin Cheng; Nenghai Yu; Qibin Sun; Jun Lu  
