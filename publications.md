@@ -26,44 +26,60 @@ Mengjie Liu, Jian Li, Hancheng Lu
 
 ## <font color=#6EB1EC>2023</font>
 
+**TCCC: A Throughput Consistency Congestion Control Algorithm for MPTCP in Mixed Transmission of Long and Short Flows**  
+Jiayu Yang, Jiangping Han*, Kaiping Xue*, Yansen Wang; Jian Li, Yitao Xing, Hao Yue, David S.L. Wei     
+**IEEE Transactions on Network and Service Management**, Accepted   
+[Online](https://ieeexplore.ieee.org/document/10036968) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10036968)
+
 **SimQN: a Network-layer Simulator for the Quantum Network Investigation**    
-Lutong Chen, Kaiping Xue, Jian Li, Nenghai Yu, Ruidong Li, Qibin Sun, Jun Lu    
-**IEEE Network**,Accepted    
+Lutong Chen, Kaiping Xue*, Jian Li*, Nenghai Yu, Ruidong Li, Qibin Sun, Jun Lu    
+**IEEE Network**, Accepted    
+[Online](https://ieeexplore.ieee.org/abstract/document/10024900/) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10024900)  
 
 ## <font color=#6EB1EC>2022</font>
 
 **Content-Aware Routing based on Cached Content Prediction in Satellite Networks**  
-Jin Tang, Jian Li, Lan Zhang, Kaiping Xue, Qibin Sun, Jun Lu  
-**2022 IEEE Global Communications Conference (GLOBECOM)**    
+Jin Tang, Jian Li*, Lan Zhang, Kaiping Xue, Qibin Sun, Jun Lu  
+**2022 IEEE Global Communications Conference (GLOBECOM)**, December 2022      
 [PDF](http://staff.ustc.edu.cn/~kpxue/paper/Globecom2022-JingTang.pdf)
 
 **Privacy-preserving Truth Discovery with Outlier Detection in Mobile Crowdsensing Systems**  
-Jingchen Zhao, Bin Zhu, Jian Li, Shaoxian Yuan, Kaiping Xue, Xianchao Zhang   
-**2022 IEEE Global Communications Conference (GLOBECOM)**    
+Jingchen Zhao, Bin Zhu, Jian Li, Shaoxian Yuan, Kaiping Xue*, Xianchao Zhang*   
+**2022 IEEE Global Communications Conference (GLOBECOM)**, December 2022      
 [PDF](http://staff.ustc.edu.cn/~kpxue/paper/Globecom2022-JingchenZhao.pdf)
 
 **Forward Private Multi-Client Searchable Encryption with Efficient Access Control in Cloud Storage**   
-Jinjiang Yang, Feng Liu, Xinyi Luo, Jianan Hong, Jian Li, Kaiping Xue    
-**2022 IEEE Global Communications Conference (GLOBECOM)**    
+Jinjiang Yang, Feng Liu, Xinyi Luo, Jianan Hong, Jian Li, Kaiping Xue*    
+**2022 IEEE Global Communications Conference (GLOBECOM)**, December 2022    
 [PDF](http://staff.ustc.edu.cn/~kpxue/paper/Globecom2022-JinjiangYang.pdf)
 
+**Connection-oriented and Connectionless Remote Entanglement Distribution Strategies in Quantum Networks**  
+Zhonghui Li; Kaiping Xue*; Jian Li; Nenghai Yu; David S.L. Wei; Ruidong Li  
+**IEEE Network**, Volume: 36, Issue: 6, November/December 2022    
+[Online](https://ieeexplore.ieee.org/abstract/document/9839638) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9839638)
+
 **An Asynchronous Entanglement Distribution Protocol for Quantum Networks**  
-Zhaoying Wang; Jian Li; Kaiping Xue; Shaoyin Cheng; Nenghai Yu; Qibin Sun; Jun Lu  
+Zhaoying Wang; Jian Li*; Kaiping Xue; Shaoyin Cheng; Nenghai Yu; Qibin Sun; Jun Lu  
 **IEEE Network**,Volume: 36, Issue: 5, September/October 2022    
 [Online](https://ieeexplore.ieee.org/abstract/document/9963998) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9963998)
 
 **A Heuristic Remote Entanglement Distribution Algorithm on Memory-Limited Quantum Paths**  
-Lutong Chen; Kaiping Xue; Jian Li; Nenghai Yu; Ruidong Li; Jianqing Liu; Qibin Sun; Jun Lu  
+Lutong Chen; Kaiping Xue*; Jian Li*; Nenghai Yu; Ruidong Li; Jianqing Liu; Qibin Sun; Jun Lu  
 **IEEE Transactions on Communications**, Volume: 70, Issue: 11, November 2022  
 [Online](https://ieeexplore.ieee.org/abstract/document/9885237) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9885237)
 
 **Fidelity-Guaranteed Entanglement Routing in Quantum Networks**  
-Jian Li; Mingjun Wang; Kaiping Xue; Ruidong Li; Nenghai Yu; Qibin Sun; Jun Lu  
+Jian Li; Mingjun Wang; Kaiping Xue*; Ruidong Li; Nenghai Yu; Qibin Sun; Jun Lu  
 **IEEE Transactions on Communications**, Volume: 70, Issue: 10, October 2022   
 [Online](https://ieeexplore.ieee.org/abstract/document/9862987) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9862987)
 
+**CSEVP: A Collaborative, Secure, and Efficient Content Validation Protection Framework for Information Centric Networking**  
+Kaiping Xue*, Jiayu Yang, Qiudong Xia, David SL Wei, Jian Li*, Qibin Sun, Jun Lu   
+**IEEE Transactions on Network and Service Management**, Volume: 19, Issue: 2, June 2022   
+[Online](https://ieeexplore.ieee.org/abstract/document/9656562) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9656562)
+
 **A Connection-Oriented Entanglement Distribution Design in Quantum Networks**  
-Jian Li; Qidong Jia; Kaiping Xue; David S. L. Wei; Nenghai Yu  
+Jian Li; Qidong Jia; Kaiping Xue*; David S. L. Wei; Nenghai Yu  
 **IEEE Transactions on Quantum Engineering**, Volume: 3, May 2022    
 [Online](https://ieeexplore.ieee.org/abstract/document/9779492) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9779492)
 
@@ -77,29 +93,29 @@ Zhonghui Li, Kaiping Xue, Qidong Jia, Jian Li, David S. L. Wei, Jianqing Liu , N
 **Quantum Information Processing**, Volume: 21, Article number: 192 (2022)  
 [Online](https://link.springer.com/article/10.1007/s11128-022-03528-3) - [PDF](https://link.springer.com/content/pdf/10.1007/s11128-022-03528-3.pdf?pdf=button)
 
-**Connection-oriented and Connectionless Remote Entanglement Distribution Strategies in Quantum Networks**  
-Zhonghui Li; Kaiping Xue; Jian Li; Nenghai Yu; David S.L. Wei; Ruidong Li  
-**IEEE Network** ( Early Access )  
-[Online](https://ieeexplore.ieee.org/abstract/document/9839638) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9839638)
+**A Blockchain based User Subscription Data Management and Access Control Scheme in Mobile Communication Networks**  
+Kaiping Xue, Xinyi Luo, Hangyu Tian, Jianan Hong, David SL Wei, Jian Li*    
+**IEEE Transactions on Vehicular Technology**, Volume: 71, Issue: 3, March 2022   
+[Online](https://ieeexplore.ieee.org/abstract/document/9663019) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9663019)
 
 ## <font color=#6EB1EC>2021</font>  
 **Low Priority Congestion Control for Multipath TCP**  
-Yuan Zhang, Jian Li, Jiayu Yang, Yitao Xing, Rui Zhuang, Kaiping Xue  
-**2021 IEEE Global Communications Conference (GLOBECOM)**    
+Yuan Zhang, Jian Li*, Jiayu Yang, Yitao Xing, Rui Zhuang, Kaiping Xue  
+**2021 IEEE Global Communications Conference (GLOBECOM)**, December 2021      
 [Online](https://ieeexplore.ieee.org/abstract/document/9686024) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9686024)
 
 **Privacy-Preserving Truth Discovery for Sparse Data in Mobile Crowdsensing Systems**  
-Feng Liu, Bin Zhu, Shaoxian Yuan, Jian Li, Kaiping Xue   
-**2021 IEEE Global Communications Conference (GLOBECOM)**    
+Feng Liu, Bin Zhu, Shaoxian Yuan, Jian Li, Kaiping Xue*   
+**2021 IEEE Global Communications Conference (GLOBECOM)**, December 2021      
 [Online](https://ieeexplore.ieee.org/abstract/document/9685134) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9685134)
 
 **A Fog-Aided Privacy-Preserving Truth Discovery Framework over Crowdsensed Data Streams**  
-Shaoxian Yuan, Bin Zhu, Feng Liu, Jian Li, Kaiping Xue  
-**2021 IEEE Global Communications Conference (GLOBECOM)**    
+Shaoxian Yuan, Bin Zhu, Feng Liu, Jian Li, Kaiping Xue*  
+**2021 IEEE Global Communications Conference (GLOBECOM)**, December 2021      
 [Online](https://ieeexplore.ieee.org/abstract/document/9685817) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9685817)
 
 **Service Prioritization in Information Centric Networking with Heterogeneous Content Providers**  
-Jin Qin, Kaiping Xue, Jian Li, Qibin Sun, Jun Lu  
+Jin Qin, Kaiping Xue*, Jian Li, Qibin Sun, Jun Lu  
 **IEEE Transactions on Network and Service Management**, Volume: 18, Issue: 4, December 2021    
 [Online](https://ieeexplore.ieee.org/abstract/document/9514612) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9514612)
 
@@ -119,48 +135,55 @@ Zhonghui Li; Kaiping Xue; Jian Li; Nenghai Yu; Jianqing Liu; David S. L. Wei; Qi
 [Online](https://ieeexplore.ieee.org/abstract/document/9597613) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9597613)
 
 **Secure Transmission by Leveraging Multiple Intelligent Reflecting Surfaces in MISO Systems**  
-Jian Li, Lan Zhang, Kaiping Xue, Yuguang Fang, Qibin Sun  
-**IEEE Transactions on Mobile Computing**,   
+Jian Li, Lan Zhang, Kaiping Xue, Yuguang Fang*, Qibin Sun  
+**IEEE Transactions on Mobile Computing**, Accepted  
 [Online](https://ieeexplore.ieee.org/abstract/document/9543618) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9543618)
 
-**CSEVP: A Collaborative, Secure, and Efficient Content Validation Protection Framework for Information Centric Networking**  
-Kaiping Xue, Jiayu Yang, Qiudong Xia, David SL Wei, Jian Li, Qibin Sun, Jun Lu   
-**IEEE Transactions on Network and Service Management**, Volume: 19, Issue: 2, June 2022   
-[Online](https://ieeexplore.ieee.org/abstract/document/9656562) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9656562)
 
-**A Blockchain based User Subscription Data Management and Access Control Scheme in Mobile Communication Networks**  
-Kaiping Xue, Xinyi Luo, Hangyu Tian, Jianan Hong, David SL Wei, Jian Li    
-**IEEE Transactions on Vehicular Technology**, Volume: 71, Issue: 3, March 2022   
-[Online](https://ieeexplore.ieee.org/abstract/document/9663019) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9663019)
 
 ## <font color=#6EB1EC>2016-2020</font>
 
+**Large-scale Small Satellite Network Simulator: Design and Evaluation**  
+Mengjie Liu, Yongqiang Gui, Jian Li, Hancheng Lu*      
+**2020 3rd International Conference on Hot Information-Centric Networking (HotICN)**, December 2020    
+[Online](https://ieeexplore.ieee.org/abstract/document/9350838) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9350838)
+
 **A User-Centric Handover Scheme for Ultra-Dense LEO Satellite Networks**  
-Jian Li, Kaiping Xue, Jianqing Liu, Yongdong Zhang    
+Jian Li, Kaiping Xue*, Jianqing Liu, Yongdong Zhang    
 **IEEE Wireless Communications Letters**, Volume: 9, Issue: 11, November 2020   
 [Online](https://ieeexplore.ieee.org/abstract/document/9134390) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9134390)
 
 **Energy Efficiency and Traffic Offloading Optimization in Integrated Satellite/Terrestrial Radio Access Networks**   
-Jian Li, Kaiping Xue, David S. L. Wei, Jianqing Liu, Yongdong Zhang  
+Jian Li, Kaiping Xue*, David S. L. Wei, Jianqing Liu, Yongdong Zhang  
 **IEEE Transactions on Wireless Communications**, Volume: 19, Issue: 4, April 2020    
 [Online](https://ieeexplore.ieee.org/abstract/document/8957364) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8957364)
 
 **An ICN/SDN-based Network Architecture and Efficient Content Retrieval for Future Satellite-Terrestrial Integrated Networks**  
-Jian Li, Kaiping Xue, Jianqing Liu, Yongdong Zhang, Yuguang Fang   
+Jian Li, Kaiping Xue*, Jianqing Liu, Yongdong Zhang, Yuguang Fang   
 **IEEE Network**, 2019, Volume: 34, Issue: 1, January/February 2020   
 [Online](https://ieeexplore.ieee.org/abstract/document/8770536) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8770536)
 
 **Temporal Netgrid Model-based Dynamic Routing in Large-Scale Small Satellite Networks**  
-Jian Li, Hancheng Lu, Kaiping Xue, Yongdong Zhang  
+Jian Li, Hancheng Lu*, Kaiping Xue, Yongdong Zhang  
 **IEEE Transactions on Vehicular Technology**, Volume: 68, Issue: 6, June 2019  
 [Online](https://ieeexplore.ieee.org/abstract/document/8688478) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8688478)
 
-**Temporal Netgrid Model-based Dynamic Routing in Large-Scale Small Satellite Networks**  
-Jian Li, Hancheng Lu, Kaiping Xue, Yongdong Zhang  
-**2017 IEEE International Conference on Communications (ICC)**    
-[Online](https://ieeexplore.ieee.org/abstract/document/8688478) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8688478)
+**Service Function Chain Mapping with Resource Fragmentation Avoidance**  
+Zhikai Zhu, Hancheng Lu*, Jian Li, Xiaoda Jiang    
+**2017 IEEE Global Communications Conference (GLOBECOM)**, December 2017    
+[Online](https://ieeexplore.ieee.org/abstract/document/8254441/) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8254441)
+
+**Robust Satellite Image Transmission over Bandwidth-constrained Wireless Channels**  
+Yali Wang, Hancheng Lu*, Zexue Li, Jian Li     
+**2017 IEEE International Conference on Communications (ICC)**, May 2017    
+[Online](https://ieeexplore.ieee.org/abstract/document/7997077) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7997077)
+
+**Temporal Netgrid Model based Routing Optimization in Satellite Networks**  
+Jian Li, Hancheng Lu*, Yali Wang   
+**2017 IEEE International Conference on Communications (ICC)**, May 2017    
+[Online](https://ieeexplore.ieee.org/abstract/document/7996551) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7996551)
 
 **A Two-Layer Caching Model for Content Delivery Services in Satellite-Terrestrial Networks**  
-Hao Wu, Jian Li, Hancheng Lu, Peilin Hong  
-**2016 IEEE Global Communications Conference (GLOBECOM)**    
+Hao Wu, Jian Li, Hancheng Lu*, Peilin Hong  
+**2016 IEEE Global Communications Conference (GLOBECOM)**, December 2016    
 [Online](https://ieeexplore.ieee.org/abstract/document/7841557) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7841557)

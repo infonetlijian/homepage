@@ -20,10 +20,10 @@
 
 ## <font color=#6EB1EC>Bio</font>  
 
-Jian Li received his B.S. degree from the Department of Electronics and Information Engineering, Anhui University, in 2015, and received Ph.D degree from the Department of Electronic Engineering and Information Science (EEIS), University of Science and Technology of China (USTC), in 2020. From Nov. 2019 to Nov. 2020, he was a visiting scholar with the Department of Electronic and Computer Engineering, University of Florida. From Dec. 2020 to Nov. 2022, he was a Post-Doctoral fellow in the School of Cyber Science and Technology, USTC. He is currently a Research Associate in the School of Cyber Science and Technology, USTC. His research interests include wireless networks, next-generation Internet architecture, and quantum networks.
+Jian Li received his B.S. degree from the Department of Electronics and Information Engineering, Anhui University, in 2015, and received Ph.D degree from the Department of Electronic Engineering and Information Science (EEIS), University of Science and Technology of China (USTC), in 2020. From Nov. 2019 to Nov. 2020, he was a visiting scholar with the Department of Electronic and Computer Engineering, University of Florida. From Dec. 2020 to Dec. 2022, he was a Post-Doctoral fellow in the School of Cyber Science and Technology, USTC. He is currently a Research Associate in the School of Cyber Science and Technology, USTC. His research interests include wireless networks, next-generation Internet architecture, and quantum networks.
 
 ## <font color=#6EB1EC>Professional Activities</font>  
-* Reviewer: IEEE TCOM, IEEE TWC, IEEE TVT, IEEE TNSM, IEEE Network, IET Communications, IEEE Globecom, IEEE ICC  
+* Reviewer: IEEE TCOM, IEEE TWC, IEEE TVT, IEEE TNSM, IEEE Communications, IEEE Network, IET Communications, IEEE Globecom, IEEE ICC  
 * Session Chiar: IWQoS 2021 (Session 14-Systems)  
 * Oral Presentation: ICC 2017 (Paris, France)  
 
