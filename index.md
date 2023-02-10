@@ -20,8 +20,8 @@
 
 ## <font color=#6EB1EC>News</font>
 - 2023.1, our paper "TCCC: A Throughput Consistency Congestion Control Algorithm for MPTCP in Mixed Transmission of Long and Short Flows" is accepted by IEEE Transactions on Network and Service Management!
-- 2023.1, our paper "SimQN: a Network-layer Simulator for the Quantum Network Investigation" is accepted by IEEE Network! [SimQN Project](https://qnlab-ustc.com/projects/simqn/)
-- 2022.9, our published paper "Building a Large-Scale and Wide-Area Quantum Internet Based on an OSI-alike Model" receives the Seventh China Association for Science and Technology Outstanding Scientific and Technological Paper Award! [Link](https://cybersec.ustc.edu.cn/2022/1012/c23847a575449/page.htm)
+- 2023.1, our paper "SimQN: a Network-layer Simulator for the Quantum Network Investigation" is accepted by IEEE Network! \[[SimQN Project](https://qnlab-ustc.com/projects/simqn/)\]
+- 2022.9, our published paper "Building a Large-Scale and Wide-Area Quantum Internet Based on an OSI-alike Model" receives the Seventh China Association for Science and Technology Outstanding Scientific and Technological Paper Award! \[[Link](https://cybersec.ustc.edu.cn/2022/1012/c23847a575449/page.htm)\]
 - 2022.9, our paper "Achieving Flexible and Lightweight Multipath Congestion Control through Online Learning" is accepted by IEEE Transactions on Network and Service Management!
 - 2022.9, our paper "A Stream-Aware MPQUIC Scheduler for HTTP Traffic in Mobile Networks" is accepted by IEEE Transactions on Wireless Communications!
 - 2022.9, our paper "A Heuristic Remote Entanglement Distribution Algorithm on Memory-Limited Quantum Paths" is accepted by IEEE Transactions on Communications!
