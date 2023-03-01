@@ -9,7 +9,7 @@
 				E-Mail: lijian9@ustc.edu.cn
 			</p>
 			<p>
-				<a href="https://scholar.google.com/citations?user=ZuP2MtEAAAAJ&hl=zh-CN">[Google Scholar]</a> <a href="http://if.ustc.edu.cn/member.php">[INFONET]</a>
+				<a href="https://scholar.google.com/citations?user=ZuP2MtEAAAAJ&hl=zh-CN">[Google Scholar]</a> <a href="http://if.ustc.edu.cn/member.php">[Infonet-Lab]</a> <a href="https://qnlab-ustc.com/">[QN-Lab]</a>
 			</p>
 		</span>
 </body>
@@ -26,15 +26,24 @@ Mengjie Liu, Jian Li, Hancheng Lu
 
 ## <font color=#6EB1EC>2023</font>
 
+**A Segment-based Multipath Distribution Method in Partially-Trusted Relay Quantum Networks**   
+Mingjun Wang, Jian Li*, Kaiping Xue*, Ruidong Li, Nenghai Yu, Yangyang Li, Yifeng Liu, Qibin Sun, Jun Lu   
+**IEEE Communications Magazine**, Accepted  
+
+**An Online Learning Assisted Packet Scheduler for MPTCP in Mobile Networks**   
+Yitao Xing, Kaiping Xue*, Yuan Zhang, Jiangping Han, Jian Li, David SL Wei    
+**IEEE Transactions on Networking**,  February 2023  
+[Online](https://ieeexplore.ieee.org/abstract/document/10049750/) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10049750)
+
 **TCCC: A Throughput Consistency Congestion Control Algorithm for MPTCP in Mixed Transmission of Long and Short Flows**  
 Jiayu Yang, Jiangping Han*, Kaiping Xue*, Yansen Wang; Jian Li, Yitao Xing, Hao Yue, David S.L. Wei     
-**IEEE Transactions on Network and Service Management**, Accepted   
+**IEEE Transactions on Network and Service Management**, February 2023     
 [Online](https://ieeexplore.ieee.org/document/10036968) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10036968)
 
 **SimQN: a Network-layer Simulator for the Quantum Network Investigation**    
 Lutong Chen, Kaiping Xue*, Jian Li*, Nenghai Yu, Ruidong Li, Qibin Sun, Jun Lu    
-**IEEE Network**, Accepted    
-[Online](https://ieeexplore.ieee.org/abstract/document/10024900/) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10024900)  
+**IEEE Network**, January 2023    
+[Online](https://ieeexplore.ieee.org/abstract/document/10024900/) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10024900) - [Github](https://github.com/ertuil/SimQN)    
 
 ## <font color=#6EB1EC>2022</font>
 
@@ -71,7 +80,7 @@ Lutong Chen; Kaiping Xue*; Jian Li*; Nenghai Yu; Ruidong Li; Jianqing Liu; Qibin
 **Fidelity-Guaranteed Entanglement Routing in Quantum Networks**  
 Jian Li; Mingjun Wang; Kaiping Xue*; Ruidong Li; Nenghai Yu; Qibin Sun; Jun Lu  
 **IEEE Transactions on Communications**, Volume: 70, Issue: 10, October 2022   
-[Online](https://ieeexplore.ieee.org/abstract/document/9862987) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9862987)
+[Online](https://ieeexplore.ieee.org/abstract/document/9862987) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9862987) - [Github](https://github.com/infonetlijian/Fidelity-Guaranteed-Entanglement-Routing)  
 
 **CSEVP: A Collaborative, Secure, and Efficient Content Validation Protection Framework for Information Centric Networking**  
 Kaiping Xue*, Jiayu Yang, Qiudong Xia, David SL Wei, Jian Li*, Qibin Sun, Jun Lu   
@@ -166,7 +175,7 @@ Jian Li, Kaiping Xue*, Jianqing Liu, Yongdong Zhang, Yuguang Fang
 **Temporal Netgrid Model-based Dynamic Routing in Large-Scale Small Satellite Networks**  
 Jian Li, Hancheng Lu*, Kaiping Xue, Yongdong Zhang  
 **IEEE Transactions on Vehicular Technology**, Volume: 68, Issue: 6, June 2019  
-[Online](https://ieeexplore.ieee.org/abstract/document/8688478) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8688478)
+[Online](https://ieeexplore.ieee.org/abstract/document/8688478) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8688478) - [Github](https://github.com/infonetlijian/Large-Scale-Satellite-Network-Simulator-LSNS)
 
 **Service Function Chain Mapping with Resource Fragmentation Avoidance**  
 Zhikai Zhu, Hancheng Lu*, Jian Li, Xiaoda Jiang    

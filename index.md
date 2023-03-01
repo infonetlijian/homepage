@@ -9,7 +9,7 @@
 				E-Mail: lijian9@ustc.edu.cn
 			</p>
 			<p>
-				<a href="https://scholar.google.com/citations?user=ZuP2MtEAAAAJ&hl=zh-CN">[Google Scholar]</a> <a href="http://if.ustc.edu.cn/member.php">[INFONET]</a>
+				<a href="https://scholar.google.com/citations?user=ZuP2MtEAAAAJ&hl=zh-CN">[Google Scholar]</a> <a href="http://if.ustc.edu.cn/member.php">[Infonet-Lab]</a> <a href="https://qnlab-ustc.com/">[QN-Lab]</a>
 			</p>
 		</span>
 </body>
@@ -19,6 +19,7 @@
 | [News](/homepage/) | [CV](/homepage/CV.html) | [Publications](/homepage/publications.html) | [Projects](/homepage/projects.html) | [Patents](/homepage/patents.html) | [Teaching](/homepage/teaching.html) |  
 
 ## <font color=#6EB1EC>News</font>
+
 - 2023.1, our paper "TCCC: A Throughput Consistency Congestion Control Algorithm for MPTCP in Mixed Transmission of Long and Short Flows" is accepted by IEEE Transactions on Network and Service Management!
 - 2023.1, our paper "SimQN: a Network-layer Simulator for the Quantum Network Investigation" is accepted by IEEE Network! \[[SimQN Project](https://qnlab-ustc.com/projects/simqn/)\]
 - 2022.9, our published paper "Building a Large-Scale and Wide-Area Quantum Internet Based on an OSI-alike Model" receives the Seventh China Association for Science and Technology Outstanding Scientific and Technological Paper Award! \[[Link](https://cybersec.ustc.edu.cn/2022/1012/c23847a575449/page.htm)\]

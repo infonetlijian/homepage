@@ -9,7 +9,7 @@
 				E-Mail: lijian9@ustc.edu.cn
 			</p>
 			<p>
-				<a href="https://scholar.google.com/citations?user=ZuP2MtEAAAAJ&hl=zh-CN">[Google Scholar]</a> <a href="http://if.ustc.edu.cn/member.php">[INFONET]</a>
+				<a href="https://scholar.google.com/citations?user=ZuP2MtEAAAAJ&hl=zh-CN">[Google Scholar]</a> <a href="http://if.ustc.edu.cn/member.php">[Infonet-Lab]</a> <a href="https://qnlab-ustc.com/">[QN-Lab]</a>
 			</p>
 		</span>
 </body>

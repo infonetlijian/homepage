@@ -9,7 +9,7 @@
         E-Mail: lijian9@ustc.edu.cn
       </p>
       <p>
-        <a href="https://scholar.google.com/citations?user=ZuP2MtEAAAAJ&hl=zh-CN">[Google Scholar]</a> <a href="http://if.ustc.edu.cn/member.php">[INFONET]</a>
+        <a href="https://scholar.google.com/citations?user=ZuP2MtEAAAAJ&hl=zh-CN">[Google Scholar]</a> <a href="http://if.ustc.edu.cn/member.php">[Infonet-Lab]</a> <a href="https://qnlab-ustc.com/">[QN-Lab]</a>
       </p>
     </span>
 </body>
@@ -23,10 +23,10 @@
 Jian Li received his B.S. degree from the Department of Electronics and Information Engineering, Anhui University, in 2015, and received Ph.D degree from the Department of Electronic Engineering and Information Science (EEIS), University of Science and Technology of China (USTC), in 2020. From Nov. 2019 to Nov. 2020, he was a visiting scholar with the Department of Electronic and Computer Engineering, University of Florida. From Dec. 2020 to Dec. 2022, he was a Post-Doctoral fellow in the School of Cyber Science and Technology, USTC. He is currently a Associate Researcher in the School of Cyber Science and Technology, USTC. His research interests include wireless networks, next-generation Internet architecture, and quantum networks.
 
 ## <font color=#6EB1EC>Research Interests</font>
-Wireless networks: 5G/B5G cellular networks, radio access networks, satellite-terrestrial integrated networks
-Quantum networks: QKD networks, quantum internet
-The next generation network architecture: future Internet, ICN
-Network security
+* Wireless networks: 5G/B5G cellular networks, radio access networks, satellite-terrestrial integrated networks  
+* Quantum networks: QKD networks, quantum internet  
+* The next generation network architecture: ICN  
+* Network security  
 
 ## <font color=#6EB1EC>Professional Activities</font>
 * Editor: China Communications (2023-Current)
