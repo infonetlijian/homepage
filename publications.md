@@ -26,26 +26,20 @@ Mengjie Liu, Jian Li, Hancheng Lu
 
 ## <font color=#6EB1EC>2023</font>
 
-<<<<<<< Updated upstream
 **A Segment-based Multipath Distribution Method in Partially-Trusted Relay Quantum Networks**   
 Mingjun Wang, Jian Li*, Kaiping Xue*, Ruidong Li, Nenghai Yu, Yangyang Li, Yifeng Liu, Qibin Sun, Jun Lu   
-**IEEE Communications Magazine**, Accepted  
+**IEEE Communications Magazine**, Accepted   
 
 **An Online Learning Assisted Packet Scheduler for MPTCP in Mobile Networks**   
 Yitao Xing, Kaiping Xue*, Yuan Zhang, Jiangping Han, Jian Li, David SL Wei    
 **IEEE Transactions on Networking**,  February 2023  
 [Online](https://ieeexplore.ieee.org/abstract/document/10049750/) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10049750)
-=======
-**A Segment-based Multipath Distribution Method in Partially-Trusted Relay Quantum Networks**  
-Mingjun Wang, Jian Li*, Kaiping Xue*, Ruidong Li, Nenghai Yu, Qibin Sun, Jun Lu       
-**IEEE Communications Magazine**, February 2023     
-Accepted  
+
 
 **EdAR: An Experience-driven Multipath Scheduler for Seamless Handoff in Mobile Networks**  
 Jiangping Han, Kaiping Xue*, Jian Li, Rui Zhuang, Ruidong Li, Ruozhou Yu, Guoliang Xue, Qibin Sun       
 **IEEE Transactions on Wireless Communications**, February 2023     
 [Online](https://ieeexplore.ieee.org/abstract/document/10053647/) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10053647)
->>>>>>> Stashed changes
 
 **TCCC: A Throughput Consistency Congestion Control Algorithm for MPTCP in Mixed Transmission of Long and Short Flows**  
 Jiayu Yang, Jiangping Han*, Kaiping Xue*, Yansen Wang; Jian Li, Yitao Xing, Hao Yue, David S.L. Wei     
@@ -54,13 +48,8 @@ Jiayu Yang, Jiangping Han*, Kaiping Xue*, Yansen Wang; Jian Li, Yitao Xing, Hao 
 
 **SimQN: a Network-layer Simulator for the Quantum Network Investigation**    
 Lutong Chen, Kaiping Xue*, Jian Li*, Nenghai Yu, Ruidong Li, Qibin Sun, Jun Lu    
-<<<<<<< Updated upstream
 **IEEE Network**, January 2023    
 [Online](https://ieeexplore.ieee.org/abstract/document/10024900/) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10024900) - [Github](https://github.com/ertuil/SimQN)    
-=======
-**IEEE Network**, January 2023     
-[Online](https://ieeexplore.ieee.org/abstract/document/10024900/) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10024900)  
->>>>>>> Stashed changes
 
 ## <font color=#6EB1EC>2022</font>
 
