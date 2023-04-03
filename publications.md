@@ -26,25 +26,29 @@ Mengjie Liu, Jian Li, Hancheng Lu
 
 ## <font color=#6EB1EC>2023</font>
 
+**Make Rental Reliable: Blockchain-based Network Slice Management Framework with SLA Guarantee Series Mobile Communications and Networks**   
+Kaiping Xue*, Xinyi Luo, Jian Li, Ruidong Li, David S.L. Wei   
+**IEEE Communications Magazine**, Accepted  
+
 **A Segment-based Multipath Distribution Method in Partially-Trusted Relay Quantum Networks**   
 Mingjun Wang, Jian Li*, Kaiping Xue*, Ruidong Li, Nenghai Yu, Yangyang Li, Yifeng Liu, Qibin Sun, Jun Lu   
-**IEEE Communications Magazine**, Accepted   
+**IEEE Communications Magazine**, March 2023     
+[Online](https://ieeexplore.ieee.org/abstract/document/10061626/) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10061626)  
 
 **An Online Learning Assisted Packet Scheduler for MPTCP in Mobile Networks**   
 Yitao Xing, Kaiping Xue*, Yuan Zhang, Jiangping Han, Jian Li, David SL Wei    
 **IEEE Transactions on Networking**,  February 2023  
-[Online](https://ieeexplore.ieee.org/abstract/document/10049750/) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10049750)
-
+[Online](https://ieeexplore.ieee.org/abstract/document/10049750/) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10049750)  
 
 **EdAR: An Experience-driven Multipath Scheduler for Seamless Handoff in Mobile Networks**  
 Jiangping Han, Kaiping Xue*, Jian Li, Rui Zhuang, Ruidong Li, Ruozhou Yu, Guoliang Xue, Qibin Sun       
 **IEEE Transactions on Wireless Communications**, February 2023     
-[Online](https://ieeexplore.ieee.org/abstract/document/10053647/) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10053647)
+[Online](https://ieeexplore.ieee.org/abstract/document/10053647/) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10053647)  
 
 **TCCC: A Throughput Consistency Congestion Control Algorithm for MPTCP in Mixed Transmission of Long and Short Flows**  
 Jiayu Yang, Jiangping Han*, Kaiping Xue*, Yansen Wang; Jian Li, Yitao Xing, Hao Yue, David S.L. Wei     
 **IEEE Transactions on Network and Service Management**, February 2023     
-[Online](https://ieeexplore.ieee.org/document/10036968) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10036968)
+[Online](https://ieeexplore.ieee.org/document/10036968) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10036968)  
 
 **SimQN: a Network-layer Simulator for the Quantum Network Investigation**    
 Lutong Chen, Kaiping Xue*, Jian Li*, Nenghai Yu, Ruidong Li, Qibin Sun, Jun Lu    

@@ -30,6 +30,7 @@ Jian Li received his B.S. degree from the Department of Electronics and Informat
 
 ## <font color=#6EB1EC>Professional Activities</font>
 * Editor: China Communications (2023-Current)
+* TPC Member: ICCCN 2023  
 * Session Chiar: IWQoS 2021 (Session 14-Systems)
 * Reviewer: IEEE TCOM, IEEE TWC, IEEE TVT, IEEE TNSM, IEEE Communications, IEEE Network, IET Communications, IEEE INFOCOM, IEEE Globecom, IEEE ICC  
 * Oral Presentation: ICC 2017 (Paris, France)  
