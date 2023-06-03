@@ -3,7 +3,7 @@
 		<span>
 			<h2 size="8" face="" color="black">Jian Li</h2>
 			<p>
-				Ph.D, Associate Researcher, IEEE Member
+				Ph.D, Research Associate, IEEE Member
 			</p>
 			<p>
 				E-Mail: lijian9@ustc.edu.cn
@@ -21,11 +21,15 @@
 ## <font color=#6EB1EC>Projects (PI)</font>  
 ### <font color=#6EB1EC>Ongoing</font>  
 
+- Research on Machine Learning based Critical Networking Technology in Large-Scale Satellite Networks
+	- Sponsored by ISN Open Project, 2023.04-2025.04, PI  
 - Research of Caching-enabled Efficient Content Transmission in Space-Terrestrial Integrated Information Networks  
-	- Sponsored by National Natural Science Foundation of China, 2023.01-2025.12, PI
+	- Sponsored by National Natural Science Foundation of China, 2023.01-2025.12, PI  
 
 ### <font color=#6EB1EC>Completed</font>  
 
+- Edge Congestion Control System
+	- Sponsored by Pengcheng National Laboratory, 2023.01-2022.06, PI  
 - Research on Graph Neural Network based Intelligent Routing Mechanism Space-Terrestrial Integrated Information Networks    
 	- Sponsored by China Postdoctoral Science Foundation, 2021.12-2022.12, PI  
 

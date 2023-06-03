@@ -3,7 +3,7 @@
 		<span>
 			<h2 size="8" face="" color="black">Jian Li</h2>
 			<p>
-				Ph.D, Associate Researcher, IEEE Member
+				Ph.D, Research Associate, IEEE Member
 			</p>
 			<p>
 				E-Mail: lijian9@ustc.edu.cn
@@ -25,6 +25,14 @@ Mengjie Liu, Jian Li, Hancheng Lu
 [arXiv](https://arxiv.org/abs/2108.08523)
 
 ## <font color=#6EB1EC>2023</font>
+
+**Q-DDCA: Decentralized Dynamic Congestion Avoid Routing in Large-Scale Quantum Networks**   
+**IEEE Transactions on Networking**, Accepted  
+
+**Swapping-based Entanglement Routing Design for Congestion Mitigation in Quantum Networks**   
+Zhonghui Li, Jian Li*, Kaiping Xue*,  David S. L. Wei, Ruidong Li, Nenghai Yu, Qibin Sun, Jun Lu   
+**IEEE Transactions on Network and Service Management**, Accepted    
+[Online](https://ieeexplore.ieee.org/abstract/document/10123997) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10123997)    
 
 **Make Rental Reliable: Blockchain-based Network Slice Management Framework with SLA Guarantee Series Mobile Communications and Networks**   
 Kaiping Xue*, Xinyi Luo, Jian Li, Ruidong Li, David S.L. Wei   
@@ -73,22 +81,22 @@ Jinjiang Yang, Feng Liu, Xinyi Luo, Jianan Hong, Jian Li, Kaiping Xue*
 [PDF](http://staff.ustc.edu.cn/~kpxue/paper/Globecom2022-JinjiangYang.pdf)
 
 **Connection-oriented and Connectionless Remote Entanglement Distribution Strategies in Quantum Networks**  
-Zhonghui Li; Kaiping Xue*; Jian Li; Nenghai Yu; David S.L. Wei; Ruidong Li  
+Zhonghui Li, Kaiping Xue*, Jian Li, Nenghai Yu, David S.L. Wei, Ruidong Li  
 **IEEE Network**, Volume: 36, Issue: 6, November/December 2022    
 [Online](https://ieeexplore.ieee.org/abstract/document/9839638) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9839638)
 
 **An Asynchronous Entanglement Distribution Protocol for Quantum Networks**  
-Zhaoying Wang; Jian Li*; Kaiping Xue; Shaoyin Cheng; Nenghai Yu; Qibin Sun; Jun Lu  
+Zhaoying Wang, Jian Li*, Kaiping Xue, Shaoyin Cheng, Nenghai Yu, Qibin Sun, Jun Lu  
 **IEEE Network**,Volume: 36, Issue: 5, September/October 2022    
 [Online](https://ieeexplore.ieee.org/abstract/document/9963998) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9963998)
 
 **A Heuristic Remote Entanglement Distribution Algorithm on Memory-Limited Quantum Paths**  
-Lutong Chen; Kaiping Xue*; Jian Li*; Nenghai Yu; Ruidong Li; Jianqing Liu; Qibin Sun; Jun Lu  
+Lutong Chen, Kaiping Xue*, Jian Li*, Nenghai Yu, Ruidong Li, Jianqing Liu, Qibin Sun, Jun Lu  
 **IEEE Transactions on Communications**, Volume: 70, Issue: 11, November 2022  
 [Online](https://ieeexplore.ieee.org/abstract/document/9885237) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9885237)
 
 **Fidelity-Guaranteed Entanglement Routing in Quantum Networks**  
-Jian Li; Mingjun Wang; Kaiping Xue*; Ruidong Li; Nenghai Yu; Qibin Sun; Jun Lu  
+Jian Li, Mingjun Wang, Kaiping Xue*, Ruidong Li, Nenghai Yu, Qibin Sun, Jun Lu  
 **IEEE Transactions on Communications**, Volume: 70, Issue: 10, October 2022   
 [Online](https://ieeexplore.ieee.org/abstract/document/9862987) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9862987) - [Github](https://github.com/infonetlijian/Fidelity-Guaranteed-Entanglement-Routing)  
 
@@ -98,7 +106,7 @@ Kaiping Xue*, Jiayu Yang, Qiudong Xia, David SL Wei, Jian Li*, Qibin Sun, Jun Lu
 [Online](https://ieeexplore.ieee.org/abstract/document/9656562) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9656562)
 
 **A Connection-Oriented Entanglement Distribution Design in Quantum Networks**  
-Jian Li; Qidong Jia; Kaiping Xue*; David S. L. Wei; Nenghai Yu  
+Jian Li, Qidong Jia, Kaiping Xue*, David S. L. Wei, Nenghai Yu  
 **IEEE Transactions on Quantum Engineering**, Volume: 3, May 2022    
 [Online](https://ieeexplore.ieee.org/abstract/document/9779492) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9779492)
 
@@ -144,12 +152,12 @@ Jiangping Han, Kaiping Xue, Yitao Xing, Jian Li, Wenjia Wei, David SL Wei, Guoli
 [Online](https://ieeexplore.ieee.org/abstract/document/9449942) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9449942)
 
 **A Low-Latency MPTCP Scheduler for Live Video Streaming in Mobile Networks**  
-Yitao Xing; Kaiping Xue; Yuan Zhang; Jiangping Han; Jian Li; Jianqing Liu; Ruidong Li   
+Yitao Xing, Kaiping Xue, Yuan Zhang, Jiangping Han, Jian Li, Jianqing Liu, Ruidong Li   
 **IEEE Transactions on Wireless Communications**, Volume: 20, Issue: 11, November 2021    
 [Online](https://ieeexplore.ieee.org/abstract/document/9440790) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9440790)
 
 **Building a Large-Scale and Wide-Area Quantum Internet Based on an OSI-alike Model**  
-Zhonghui Li; Kaiping Xue; Jian Li; Nenghai Yu; Jianqing Liu; David S. L. Wei; Qibin Sun; Jun Lu  
+Zhonghui Li, Kaiping Xue, Jian Li, Nenghai Yu, Jianqing Liu, David S. L. Wei, Qibin Sun, Jun Lu  
 **China Communications**, Volume: 18, Issue: 10, October 2021  
 [Online](https://ieeexplore.ieee.org/abstract/document/9597613) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9597613)
 
