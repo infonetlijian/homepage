@@ -26,8 +26,16 @@ Mengjie Liu, Jian Li, Hancheng Lu
 
 ## <font color=#6EB1EC>2023</font>
 
+**DECC: Achieving Low Latency in Data Center Networks with Deep Reinforcement Learning**  
+Yi Liu, Jiangping Han*, Kaiping Xue*, Jian Li, Qibin Sun, Jun Lu    
+**IEEE Transactions on Network and Service Management**, Accepted  
+
 **Q-DDCA: Decentralized Dynamic Congestion Avoid Routing in Large-Scale Quantum Networks**   
 **IEEE Transactions on Networking**, Accepted  
+
+**L2BM: Switch Buffer Management for Hybrid Traffic in Data Center Networks**  
+Yi Liu, Jiangping Han, Kaiping Xue, Ruidong Li and Jian Li      
+**IEEE International Conference on Distributed Computing Systems (ICDCS) 2023**, Accepted  
 
 **Swapping-based Entanglement Routing Design for Congestion Mitigation in Quantum Networks**   
 Zhonghui Li, Jian Li*, Kaiping Xue*,  David S. L. Wei, Ruidong Li, Nenghai Yu, Qibin Sun, Jun Lu   
