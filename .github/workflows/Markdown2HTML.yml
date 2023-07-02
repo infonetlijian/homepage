@@ -33,7 +33,7 @@ jobs:
       - name: Build
         run: |
           npm init --yes
-          #npm install
+          npm install -g build
           npm run build
       
       # 2、部署到 GitHub Pages
