@@ -3,7 +3,7 @@ name: GitHubPages
 on:
   push:
     branches:
-      - gh-pages  # 指定了用于部署的源码所在的分支
+      - main  # 指定了用于部署的源码所在的分支
     paths-ignore:
       - 'README.md'
       - '.env'
