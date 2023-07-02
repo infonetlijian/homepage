@@ -24,19 +24,34 @@ jobs:
           submodules: true  # Fetch Hugo themes (true OR recursive)
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
 
-      # 1、生成静态文件
-      - name: Build
-        run: npm install && npm init && npm run build
-
-      # 2、部署到 GitHub Pages
-      - name: Deploy
-        uses: JamesIves/github-pages-deploy-action@releases/v3
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
         with:
-          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-          REPOSITORY_NAME: infonetlijian/infonetlijian.github.io
-          BRANCH: gh-pages
-          #FOLDER: public
-          #注意这里的 public 是仓库根目录下的 public，也就是 npm run build 生成静态资源的路径，比如有的人是 `docs/.vuepress/dist`
+          hugo-version: 'latest'
+          extended: true
+
+      - name: Build
+        run: hugo --minify
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: gh-page
+          
+#       # 1、生成静态文件
+#       - name: Build
+#         run: npm install && npm init && npm run build
+
+#       # 2、部署到 GitHub Pages
+#       - name: Deploy
+#         uses: JamesIves/github-pages-deploy-action@releases/v3
+#         with:
+#           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+#           REPOSITORY_NAME: infonetlijian/infonetlijian.github.io
+#           BRANCH: gh-pages
+#           #FOLDER: public
+#           #注意这里的 public 是仓库根目录下的 public，也就是 npm run build 生成静态资源的路径，比如有的人是 `docs/.vuepress/dist`
 
 #       # 3、同步到 gitee 的仓库
 #       - name: Sync to Gitee
