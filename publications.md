@@ -32,7 +32,15 @@ Jiangping Han, Kaiping Xue*, Jian Li, Jing Zhang, Zixuan Huang, David SL Wei
 **An Efficient Scheduling Scheme of Swapping and Purification Operations for End-to-End Entanglement Distribution in Quantum Networks**  
 Zhaoying Wang, Jian Li*, Kaiping Xue*, David SL Wei, Ruidong Li, Nenghai Yu, Qibin Sun, Jun Lu    
 **IEEE Transactions on Network Science and Engineering**, Accepted  
-[Online](https://ieeexplore.ieee.org/abstract/document/10147899) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10147899)   
+[Online](https://ieeexplore.ieee.org/abstract/document/10147899) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10147899) - <details><summary>[BibTeX]</summary>
+@article{wang2023efficient,
+  title={An Efficient Scheduling Scheme of Swapping and Purification Operations for End-to-End Entanglement Distribution in Quantum Networks},
+  author={Wang, Zhaoying and Li, Jian and Xue, Kaiping and Wei, David SL and Li, Ruidong and Yu, Nenghai and Sun, Qibin and Lu, Jun},
+  journal={IEEE Transactions on Network Science and Engineering},
+  year={2023},
+  publisher={IEEE}
+}
+</details>  
 
 **Entanglement-Assisted Quantum Networks: Mechanics, Enabling Technologies, Challenges, and Research Directions**   
 Zhonghui Li, Kaiping Xue*, Jian Li, David S. L. Wei, Ruidong Li, Nenghai Yu, Qibin Sun, Jun Lu  
@@ -56,7 +64,7 @@ Yi Liu, Jiangping Han, Kaiping Xue, Ruidong Li and Jian Li
 **Swapping-based Entanglement Routing Design for Congestion Mitigation in Quantum Networks**   
 Zhonghui Li, Jian Li*, Kaiping Xue*,  David S. L. Wei, Ruidong Li, Nenghai Yu, Qibin Sun, Jun Lu   
 **IEEE Transactions on Network and Service Management**, Accepted    
-[Online](https://ieeexplore.ieee.org/abstract/document/10123997) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10123997)    
+[Online](https://ieeexplore.ieee.org/abstract/document/10123997) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10123997) - [cite](https://scholar.googleusercontent.com/scholar.bib?q=info:XM9tCzpPglAJ:scholar.google.com/&output=citation&scisdr=ClHxIjslEMa1qXWIneo:AFWwaeYAAAAAZNOOheq7x5cIowgbOXjtLaUeYMQ&scisig=AFWwaeYAAAAAZNOOhV_MYrxJSe_GS3qM5rOIMfg&scisf=4&ct=citation&cd=-1&hl=zh-CN)    
 
 **Make Rental Reliable: Blockchain-based Network Slice Management Framework with SLA Guarantee Series Mobile Communications and Networks**   
 Kaiping Xue*, Xinyi Luo, Jian Li, Ruidong Li, David S.L. Wei   
