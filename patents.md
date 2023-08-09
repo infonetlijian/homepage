@@ -16,11 +16,12 @@
 
 ***
 
-| [News](/homepage/) | [CV](/homepage/CV.html) | [Publications](/homepage/publications.html) | [Projects](/homepage/projects.html) | [Patents](/homepage/patents.html) | [Teaching](/homepage/teaching.html) |  
+| [News](/homepage/) | [CV](/homepage/CV.html) | [Professional Services](/homepage/services.html) | [Publications](/homepage/publications.html) | [Projects](/homepage/projects.html) | [Patents](/homepage/patents.html) | [Teaching](/homepage/teaching.html) |  
 
 ## <font color=#6EB1EC>Patents</font>
-- 一种在IPSec协议中动态融合量子密钥的数据保护方法 （申请中）
+- 一种在IPSec协议中动态融合量子密钥的数据保护方法
 	- 李健,王明君,陈鲁同,薛开平,俞能海,孙启彬,陆军
+	- 专利号：ZL 2023 1 0399867.8
 - 一种基于分段的部分可信中继的QKD网络密钥分发方法 （申请中）
 	- 李健,王明君,薛开平,陈鲁同,俞能海,孙启彬,陆军
 

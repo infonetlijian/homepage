@@ -16,7 +16,7 @@
 
 ***
 
-| [News](/homepage/) | [CV](/homepage/CV.html) | [Publications](/homepage/publications.html) | [Projects](/homepage/projects.html) | [Patents](/homepage/patents.html) | [Teaching](/homepage/teaching.html) |  
+| [News](/homepage/) | [CV](/homepage/CV.html) | [Professional Services](/homepage/services.html) | [Publications](/homepage/publications.html) | [Projects](/homepage/projects.html) | [Patents](/homepage/patents.html) | [Teaching](/homepage/teaching.html) |  
 
 ## <font color=#6EB1EC>Preprints</font>
 
@@ -25,13 +25,29 @@ Mengjie Liu, Jian Li, Hancheng Lu
 [arXiv](https://arxiv.org/abs/2108.08523)
 
 ## <font color=#6EB1EC>2023</font>
+**Enabling In-Network Caching in Traditional IP Networks: Selective Router Upgrades and Cooperative Cache Strategies**
+Jiangping Han, Kaiping Xue*, Jian Li, Jing Zhang, Zixuan Huang, David SL Wei      
+**IEEE Transactions on Network Science and Engineering**, Accepted    
+
+**An Efficient Scheduling Scheme of Swapping and Purification Operations for End-to-End Entanglement Distribution in Quantum Networks**  
+Zhaoying Wang, Jian Li*, Kaiping Xue*, David SL Wei, Ruidong Li, Nenghai Yu, Qibin Sun, Jun Lu    
+**IEEE Transactions on Network Science and Engineering**, Accepted  
+[Online](https://ieeexplore.ieee.org/abstract/document/10147899) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10147899)   
+
+**Entanglement-Assisted Quantum Networks: Mechanics, Enabling Technologies, Challenges, and Research Directions**   
+Zhonghui Li, Kaiping Xue*, Jian Li, David S. L. Wei, Ruidong Li, Nenghai Yu, Qibin Sun, Jun Lu  
+**IEEE Communications Surveys and Tutorials**, Accepted  
+[Online](https://ieeexplore.ieee.org/abstract/document/10177948) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10177948) - [arXiv](https://arxiv.org/pdf/2307.12490.pdf)   
 
 **DECC: Achieving Low Latency in Data Center Networks with Deep Reinforcement Learning**  
 Yi Liu, Jiangping Han*, Kaiping Xue*, Jian Li, Qibin Sun, Jun Lu    
 **IEEE Transactions on Network and Service Management**, Accepted  
+[Online](https://ieeexplore.ieee.org/abstract/document/10147899) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10147899)   
 
 **Q-DDCA: Decentralized Dynamic Congestion Avoid Routing in Large-Scale Quantum Networks**   
+Lutong Chen, Kaiping Xue*, Jian Li, Ruidong Li, Nenghai Yu, Qibin Sun, Jun Lu  
 **IEEE Transactions on Networking**, Accepted  
+[Online](https://ieeexplore.ieee.org/abstract/document/10158747) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10158747)    
 
 **L2BM: Switch Buffer Management for Hybrid Traffic in Data Center Networks**  
 Yi Liu, Jiangping Han, Kaiping Xue, Ruidong Li and Jian Li      
