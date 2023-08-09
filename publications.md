@@ -32,14 +32,19 @@ Jiangping Han, Kaiping Xue*, Jian Li, Jing Zhang, Zixuan Huang, David SL Wei
 **An Efficient Scheduling Scheme of Swapping and Purification Operations for End-to-End Entanglement Distribution in Quantum Networks**  
 Zhaoying Wang, Jian Li*, Kaiping Xue*, David SL Wei, Ruidong Li, Nenghai Yu, Qibin Sun, Jun Lu    
 **IEEE Transactions on Network Science and Engineering**, Accepted  
-[Online](https://ieeexplore.ieee.org/abstract/document/10147899) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10147899) - <details><summary>[BibTeX]</summary>
-@article{wang2023efficient,
-  title={An Efficient Scheduling Scheme of Swapping and Purification Operations for End-to-End Entanglement Distribution in Quantum Networks},
-  author={Wang, Zhaoying and Li, Jian and Xue, Kaiping and Wei, David SL and Li, Ruidong and Yu, Nenghai and Sun, Qibin and Lu, Jun},
-  journal={IEEE Transactions on Network Science and Engineering},
-  year={2023},
-  publisher={IEEE}
-}
+[Online](https://ieeexplore.ieee.org/abstract/document/10147899) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10147899)
+<details><summary>[BibTeX]</summary>
+	<html> // Tab开头
+    	<title>
+	@article{wang2023efficient,
+	  title={An Efficient Scheduling Scheme of Swapping and Purification Operations for End-to-End Entanglement Distribution in Quantum Networks},
+	  author={Wang, Zhaoying and Li, Jian and Xue, Kaiping and Wei, David SL and Li, Ruidong and Yu, Nenghai and Sun, Qibin and Lu, Jun},
+	  journal={IEEE Transactions on Network Science and Engineering},
+	  year={2023},
+	  publisher={IEEE}
+	}
+		</title>
+	</html>
 </details>  
 
 **Entanglement-Assisted Quantum Networks: Mechanics, Enabling Technologies, Challenges, and Research Directions**   
