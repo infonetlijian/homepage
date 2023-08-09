@@ -32,7 +32,7 @@
 - **[Paper]** 2023.2, our paper "An Online Learning Assisted Packet Scheduler for MPTCP in Mobile Networks" is accepted by IEEE Transactions on Networking!    
 - **[Paper]** 2023.2, our paper "EdAR: An Experience-driven Multipath Scheduler for Seamless Handoff in Mobile Networks" is accepted by IEEE Transactions on Wireless Communications!  
 - **[Paper]** 2023.1, our paper "TCCC: A Throughput Consistency Congestion Control Algorithm for MPTCP in Mixed Transmission of Long and Short Flows" is accepted by IEEE Transactions on Network and Service Management!
-- ## **[Paper/Project]** 2023.1, our paper "SimQN: a Network-layer Simulator for the Quantum Network Investigation" is accepted by IEEE Network! \[[SimQN Project](https://qnlab-ustc.com/projects/simqn/)\]
+- **[Paper/Project] 2023.1, our paper "SimQN: a Network-layer Simulator for the Quantum Network Investigation" is accepted by IEEE Network! \[[SimQN Project](https://qnlab-ustc.com/projects/simqn/)\]**
 - **[Award]** 2022.9, our published paper "Building a Large-Scale and Wide-Area Quantum Internet Based on an OSI-alike Model" receives the Seventh China Association for Science and Technology Outstanding Scientific and Technological Paper Award! \[[Link](https://cybersec.ustc.edu.cn/2022/1012/c23847a575449/page.htm)\]
 - **[Paper]** 2022.9, our paper "Achieving Flexible and Lightweight Multipath Congestion Control through Online Learning" is accepted by IEEE Transactions on Network and Service Management!
 - **[Paper]** 2022.9, our paper "A Stream-Aware MPQUIC Scheduler for HTTP Traffic in Mobile Networks" is accepted by IEEE Transactions on Wireless Communications!
