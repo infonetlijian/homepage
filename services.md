@@ -19,7 +19,7 @@
 | [News](/homepage/) | [CV](/homepage/CV.html) | [Professional Services](/homepage/services.html) | [Publications](/homepage/publications.html) | [Projects](/homepage/projects.html) | [Patents](/homepage/patents.html) | [Teaching](/homepage/teaching.html) |  
 
 ## <font color=#6EB1EC>Editorial Board</font>
-Editor of [China Communications](http://www.cic-chinacommunications.cn/EN/column/column12.shtml), since Feb. 2023
+* Editor of [China Communications](http://www.cic-chinacommunications.cn/EN/column/column12.shtml), since Feb. 2023
 
 ## <font color=#6EB1EC>Organizing Committee</font>
 * Session Chiar, IEEE/ACM International Symposium on Quality of Service ([IWQoS](https://iwqos2023.ieee-iwqos.org/)), 2023  
