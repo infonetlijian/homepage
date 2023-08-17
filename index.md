@@ -19,7 +19,7 @@
 | [News](/homepage/) | [CV](/homepage/CV.html) | [Professional Services](/homepage/services.html) | [Publications](/homepage/publications.html) | [Projects](/homepage/projects.html) | [Patents](/homepage/patents.html) | [Teaching](/homepage/teaching.html) |  
 
 ## <font color=#6EB1EC>News</font>
-- **[Paper]** 2023.7, our paper "AEnabling In-Network Caching in Traditional IP Networks: Selective Router Upgrades and Cooperative Cache Strategies" is accepted by IEEE Transactions on Network Science and Engineering! 
+- **[Paper]** 2023.7, our paper "Enabling In-Network Caching in Traditional IP Networks: Selective Router Upgrades and Cooperative Cache Strategies" is accepted by IEEE Transactions on Network Science and Engineering! 
 - **[Paper]** 2023.7, our paper "An Efficient Scheduling Scheme of Swapping and Purification Operations for End-to-End Entanglement Distribution in Quantum Networks" is accepted by IEEE Transactions on Network Science and Engineering! 
 - **[Paper]** 2023.7, our paper "Efficient Remote Entanglement Distribution in Quantum Networks: A Segment-based Method" is accepted by IEEE Transactions on Network and Service Management! 
 - **[Paper]** 2023.7, our paper "Entanglement-Assisted Quantum Networks: Mechanics, Enabling Technologies, Challenges, and Research Directions" is accepted by IEEE Communications Surveys and Tutorials! \[[arXiv](https://arxiv.org/pdf/2307.12490.pdf)\]

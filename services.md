@@ -29,12 +29,11 @@
 * International Conference on Computing, Networking and Communications ([ICNC](http://www.conf-icnc.org/2024/)), 2024  
 
 ## <font color=#6EB1EC>Reviewers</font>
-* Transactions: IEEE Transactions on Networking (ToN), IEEE Transactions on Communications (TCOM), IEEE Transactions on Vehicular Technology (TVT), IEEE Transactions on Wireless Computing (TWC), IET Communications 
-* Magazines: IEEE Communications, IEEE Network
-* Conferences: IEEE INFOCOM, IEEE Globecom, IEEE ICC
+* **Transactions:** IEEE Transactions on Networking (ToN), IEEE Transactions on Communications (TCOM), IEEE Transactions on Vehicular Technology (TVT), IEEE Transactions on Wireless Computing (TWC), IET Communications 
+* **Magazines:** IEEE Communications, IEEE Network
+* **Conferences:** IEEE INFOCOM, IEEE Globecom, IEEE ICC
 
 
 ## <font color=#6EB1EC>Other Professional Activities</font>
 * Member, IEEE Communications Society (ComSoc)
-* Oral Presentation: ICC 2017 (Paris, France)  
 
