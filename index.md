@@ -59,4 +59,4 @@
 - **[Experience]** 2020.11, I successfully defense of my doctoral dissertation and get my Ph.D!
 
 
-[Blog](/blog/blog.html)
+[Blog](/homepage/blog/blog.html)
