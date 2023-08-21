@@ -33,17 +33,7 @@ Jiangping Han, Kaiping Xue*, Jian Li, Jing Zhang, Zixuan Huang, David SL Wei
 Zhaoying Wang, Jian Li*, Kaiping Xue*, David SL Wei, Ruidong Li, Nenghai Yu, Qibin Sun, Jun Lu    
 **IEEE Transactions on Network Science and Engineering**, Accepted  
 [Online](https://ieeexplore.ieee.org/abstract/document/10147899) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10147899)  
-<details><summary>[BibTeX]</summary>
-	<pre><code>
-	@article{wang2023efficient,
-	  title={An Efficient Scheduling Scheme of Swapping and Purification Operations for End-to-End Entanglement Distribution in Quantum Networks},
-	  author={Wang, Zhaoying and Li, Jian and Xue, Kaiping and Wei, David SL and Li, Ruidong and Yu, Nenghai and Sun, Qibin and Lu, Jun},
-	  journal={IEEE Transactions on Network Science and Engineering},
-	  year={2023},
-	  publisher={IEEE}
-	}
-	</code></pre>
-</details>  
+ 
 
 **Entanglement-Assisted Quantum Networks: Mechanics, Enabling Technologies, Challenges, and Research Directions**   
 Zhonghui Li, Kaiping Xue*, Jian Li, David S. L. Wei, Ruidong Li, Nenghai Yu, Qibin Sun, Jun Lu  
@@ -213,17 +203,17 @@ Mengjie Liu, Yongqiang Gui, Jian Li, Hancheng Lu*
 **A User-Centric Handover Scheme for Ultra-Dense LEO Satellite Networks**  
 Jian Li, Kaiping Xue*, Jianqing Liu, Yongdong Zhang    
 **IEEE Wireless Communications Letters**, Volume: 9, Issue: 11, November 2020   
-[Online](https://ieeexplore.ieee.org/abstract/document/9134390) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9134390)
+[Online](https://ieeexplore.ieee.org/abstract/document/9134390) - <a href="https://infonetlijian.github.io/homepage/PDF_files/2020-A User-Centric Handover Scheme for Ultra-Dense LEO Satellite Networks.pdf" target="_blank">PDF</a> 
 
 **Energy Efficiency and Traffic Offloading Optimization in Integrated Satellite/Terrestrial Radio Access Networks**   
 Jian Li, Kaiping Xue*, David S. L. Wei, Jianqing Liu, Yongdong Zhang  
 **IEEE Transactions on Wireless Communications**, Volume: 19, Issue: 4, April 2020    
-[Online](https://ieeexplore.ieee.org/abstract/document/8957364) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8957364) - <a href="https://infonetlijian.github.io/homepage/PDF_files/2020-Energy_efficiency_and_traffic_offloading_optimization_in_integrated_satelliteterrestrial_radio_access_networks.pdf" target="_blank">PDF</a>  
+[Online](https://ieeexplore.ieee.org/abstract/document/8957364) - <a href="https://infonetlijian.github.io/homepage/PDF_files/2020-Energy_efficiency_and_traffic_offloading_optimization_in_integrated_satelliteterrestrial_radio_access_networks.pdf" target="_blank">PDF</a>  
 
 **An ICN/SDN-based Network Architecture and Efficient Content Retrieval for Future Satellite-Terrestrial Integrated Networks**  
 Jian Li, Kaiping Xue*, Jianqing Liu, Yongdong Zhang, Yuguang Fang   
 **IEEE Network**, 2019, Volume: 34, Issue: 1, January/February 2020   
-[Online](https://ieeexplore.ieee.org/abstract/document/8770536) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8770536)
+[Online](https://ieeexplore.ieee.org/abstract/document/8770536) - <a href="https://infonetlijian.github.io/homepage/PDF_files/2019-An ICNSDN-Based Network Architecture and Efficient Content Retrieval for Future.pdf" target="_blank">PDF</a>
 
 **Temporal Netgrid Model-based Dynamic Routing in Large-Scale Small Satellite Networks**  
 Jian Li, Hancheng Lu*, Kaiping Xue, Yongdong Zhang  
