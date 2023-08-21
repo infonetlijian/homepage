@@ -218,7 +218,7 @@ Jian Li, Kaiping Xue*, Jianqing Liu, Yongdong Zhang
 **Energy Efficiency and Traffic Offloading Optimization in Integrated Satellite/Terrestrial Radio Access Networks**   
 Jian Li, Kaiping Xue*, David S. L. Wei, Jianqing Liu, Yongdong Zhang  
 **IEEE Transactions on Wireless Communications**, Volume: 19, Issue: 4, April 2020    
-[Online](https://ieeexplore.ieee.org/abstract/document/8957364) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8957364)
+[Online](https://ieeexplore.ieee.org/abstract/document/8957364) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8957364) - <a href="https://infonetlijian.github.io/homepage/PDF_files/2020-Energy_efficiency_and_traffic_offloading_optimization_in_integrated_satelliteterrestrial_radio_access_networks.pdf" target="_blank">PDF</a>  
 
 **An ICN/SDN-based Network Architecture and Efficient Content Retrieval for Future Satellite-Terrestrial Integrated Networks**  
 Jian Li, Kaiping Xue*, Jianqing Liu, Yongdong Zhang, Yuguang Fang   
