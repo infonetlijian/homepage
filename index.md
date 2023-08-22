@@ -3,7 +3,7 @@
 		<span>
 			<h2 size="8" face="" color="black">Jian Li</h2>
 			<p>
-				Ph.D, Research Associate, IEEE Member
+				Ph.D, Research Associate, IEEE Senior Member
 			</p>
 			<p>
 				E-Mail: lijian9@ustc.edu.cn
@@ -19,6 +19,7 @@
 | [News](/homepage/) | [CV](/homepage/CV.html) | [Professional Services](/homepage/services.html) | [Publications](/homepage/publications.html) | [Projects](/homepage/projects.html) | [Patents](/homepage/patents.html) | [Teaching](/homepage/teaching.html) |  
 
 ## <font color=#6EB1EC>News</font>
+- **[Activity]** 2023.8, I receive the elevation to the grade of IEEE Senior Member! 
 - **[Paper]** 2023.7, our paper "Enabling In-Network Caching in Traditional IP Networks: Selective Router Upgrades and Cooperative Cache Strategies" is accepted by IEEE Transactions on Network Science and Engineering! 
 - **[Paper]** 2023.7, our paper "An Efficient Scheduling Scheme of Swapping and Purification Operations for End-to-End Entanglement Distribution in Quantum Networks" is accepted by IEEE Transactions on Network Science and Engineering! 
 - **[Paper]** 2023.7, our paper "Efficient Remote Entanglement Distribution in Quantum Networks: A Segment-based Method" is accepted by IEEE Transactions on Network and Service Management! 
