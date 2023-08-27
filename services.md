@@ -35,5 +35,5 @@
 
 
 ## <font color=#6EB1EC>Other Professional Activities</font>
-* Member, IEEE Communications Society (ComSoc)
+* Senior Member, IEEE Communications Society (ComSoc)
 

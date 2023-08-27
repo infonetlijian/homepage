@@ -28,27 +28,28 @@ Mengjie Liu, Jian Li, Hancheng Lu
 **Enabling In-Network Caching in Traditional IP Networks: Selective Router Upgrades and Cooperative Cache Strategies**
 Jiangping Han, Kaiping Xue*, Jian Li, Jing Zhang, Zixuan Huang, David SL Wei      
 **IEEE Transactions on Network Science and Engineering**, Accepted    
+[Online](https://ieeexplore.ieee.org/abstract/document/10219010) - <a href="https://infonetlijian.github.io/homepage/PDF_files/2023-Enabling_In-Network_Caching_in_Traditional_IP_Networks_Selective_Router_Upgrades_and_Cooperative_Cache_Strategies.pdf" target="_blank">PDF</a>   
 
 **An Efficient Scheduling Scheme of Swapping and Purification Operations for End-to-End Entanglement Distribution in Quantum Networks**  
 Zhaoying Wang, Jian Li*, Kaiping Xue*, David SL Wei, Ruidong Li, Nenghai Yu, Qibin Sun, Jun Lu    
 **IEEE Transactions on Network Science and Engineering**, Accepted  
-[Online](https://ieeexplore.ieee.org/abstract/document/10147899) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10147899)  
+[Online](https://ieeexplore.ieee.org/abstract/document/10147899) - <a href="https://infonetlijian.github.io/homepage/PDF_files/2023-An_Efficient_Scheduling_Scheme_of_Swapping_and_Purification_Operations_for_End-to-End_Entanglement_Distribution_in_Quantum_Networks.pdf" target="_blank">PDF</a>   
  
 
 **Entanglement-Assisted Quantum Networks: Mechanics, Enabling Technologies, Challenges, and Research Directions**   
 Zhonghui Li, Kaiping Xue*, Jian Li, David S. L. Wei, Ruidong Li, Nenghai Yu, Qibin Sun, Jun Lu  
 **IEEE Communications Surveys and Tutorials**, Accepted  
-[Online](https://ieeexplore.ieee.org/abstract/document/10177948) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10177948) - [arXiv](https://arxiv.org/pdf/2307.12490.pdf)   
+[Online](https://ieeexplore.ieee.org/abstract/document/10177948) - <a href="https://infonetlijian.github.io/homepage/PDF_files/2023-Entanglement-Assisted_Quantum_Networks_Mechanics_Enabling_Technologies_Challenges_and_Research_Directions.pdf" target="_blank">PDF</a> - [arXiv](https://arxiv.org/pdf/2307.12490.pdf)   
 
 **DECC: Achieving Low Latency in Data Center Networks with Deep Reinforcement Learning**  
 Yi Liu, Jiangping Han*, Kaiping Xue*, Jian Li, Qibin Sun, Jun Lu    
 **IEEE Transactions on Network and Service Management**, Accepted  
-[Online](https://ieeexplore.ieee.org/abstract/document/10147899) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10147899)   
+[Online](https://ieeexplore.ieee.org/abstract/document/10147899) - <a href="https://infonetlijian.github.io/homepage/PDF_files/2023-DECC_Achieving_Low_Latency_in_Data_Center_Networks_with_Deep_Reinforcement_Learning.pdf" target="_blank">PDF</a>  
 
 **Q-DDCA: Decentralized Dynamic Congestion Avoid Routing in Large-Scale Quantum Networks**   
 Lutong Chen, Kaiping Xue*, Jian Li, Ruidong Li, Nenghai Yu, Qibin Sun, Jun Lu  
 **IEEE Transactions on Networking**, Accepted  
-[Online](https://ieeexplore.ieee.org/abstract/document/10158747) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10158747)    
+[Online](https://ieeexplore.ieee.org/abstract/document/10158747) - <a href="https://infonetlijian.github.io/homepage/PDF_files/2023-Q-DDCA_Decentralized_Dynamic_Congestion_Avoid_Routing_in_Large-Scale_Quantum_Networks.pdf" target="_blank">PDF</a>  
 
 **L2BM: Switch Buffer Management for Hybrid Traffic in Data Center Networks**  
 Yi Liu, Jiangping Han, Kaiping Xue, Ruidong Li and Jian Li      
@@ -57,36 +58,37 @@ Yi Liu, Jiangping Han, Kaiping Xue, Ruidong Li and Jian Li
 **Swapping-based Entanglement Routing Design for Congestion Mitigation in Quantum Networks**   
 Zhonghui Li, Jian Li*, Kaiping Xue*,  David S. L. Wei, Ruidong Li, Nenghai Yu, Qibin Sun, Jun Lu   
 **IEEE Transactions on Network and Service Management**, Accepted    
-[Online](https://ieeexplore.ieee.org/abstract/document/10123997) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10123997)     
+[Online](https://ieeexplore.ieee.org/abstract/document/10123997) - <a href="https://infonetlijian.github.io/homepage/PDF_files/2023-Swapping-based_Entanglement_Routing_Design_for_Congestion_Mitigation_in_Quantum_Networks.pdf" target="_blank">PDF</a>  
 
 **Make Rental Reliable: Blockchain-based Network Slice Management Framework with SLA Guarantee Series Mobile Communications and Networks**   
 Kaiping Xue*, Xinyi Luo, Jian Li, Ruidong Li, David S.L. Wei   
-**IEEE Communications Magazine**, Accepted  
+**IEEE Communications Magazine**, Volume: 61, Issue: 7, July 2023  
+[Online](https://ieeexplore.ieee.org/abstract/document/10192303) - <a href="https://infonetlijian.github.io/homepage/PDF_files/2023-Make_Rental_Reliable_Blockchain-Based_Network_Slice_Management_Framework_with_SLA_Guarantee.pdf" target="_blank">PDF</a>  
 
 **A Segment-based Multipath Distribution Method in Partially-Trusted Relay Quantum Networks**   
 Mingjun Wang, Jian Li*, Kaiping Xue*, Ruidong Li, Nenghai Yu, Yangyang Li, Yifeng Liu, Qibin Sun, Jun Lu   
 **IEEE Communications Magazine**, March 2023     
-[Online](https://ieeexplore.ieee.org/abstract/document/10061626/) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10061626)  
+[Online](https://ieeexplore.ieee.org/abstract/document/10061626/) - <a href="https://infonetlijian.github.io/homepage/PDF_files/2023-A_Segment-based_Multipath_Distribution_Method_in_Partially-Trusted_Relay_Quantum_Networks.pdf" target="_blank">PDF</a>   
 
 **An Online Learning Assisted Packet Scheduler for MPTCP in Mobile Networks**   
 Yitao Xing, Kaiping Xue*, Yuan Zhang, Jiangping Han, Jian Li, David SL Wei    
 **IEEE Transactions on Networking**,  February 2023  
-[Online](https://ieeexplore.ieee.org/abstract/document/10049750/) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10049750)  
+[Online](https://ieeexplore.ieee.org/abstract/document/10049750/) - <a href="https://infonetlijian.github.io/homepage/PDF_files/2023-An_Online_Learning_Assisted_Packet_Scheduler_for_MPTCP_in_Mobile_Networks.pdf" target="_blank">PDF</a>   
 
 **EdAR: An Experience-driven Multipath Scheduler for Seamless Handoff in Mobile Networks**  
 Jiangping Han, Kaiping Xue*, Jian Li, Rui Zhuang, Ruidong Li, Ruozhou Yu, Guoliang Xue, Qibin Sun       
 **IEEE Transactions on Wireless Communications**, February 2023     
-[Online](https://ieeexplore.ieee.org/abstract/document/10053647/) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10053647)  
+[Online](https://ieeexplore.ieee.org/abstract/document/10053647/) - <a href="https://infonetlijian.github.io/homepage/PDF_files/2023-EdAR_An_Experience-driven_Multipath_Scheduler_for_Seamless_Handoff_in_Mobile_Networks.pdf" target="_blank">PDF</a>   
 
 **TCCC: A Throughput Consistency Congestion Control Algorithm for MPTCP in Mixed Transmission of Long and Short Flows**  
 Jiayu Yang, Jiangping Han*, Kaiping Xue*, Yansen Wang; Jian Li, Yitao Xing, Hao Yue, David S.L. Wei     
 **IEEE Transactions on Network and Service Management**, February 2023     
-[Online](https://ieeexplore.ieee.org/document/10036968) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10036968)  
+[Online](https://ieeexplore.ieee.org/document/10036968) - <a href="https://infonetlijian.github.io/homepage/PDF_files/2023-TCCC_A_Throughput_Consistency_Congestion_Control_Algorithm_for_MPTCP_in_Mixed_Transmission_of_Long_and_Short_Flows.pdf" target="_blank">PDF</a>   
 
 **SimQN: a Network-layer Simulator for the Quantum Network Investigation**    
 Lutong Chen, Kaiping Xue*, Jian Li*, Nenghai Yu, Ruidong Li, Qibin Sun, Jun Lu    
 **IEEE Network**, January 2023    
-[Online](https://ieeexplore.ieee.org/abstract/document/10024900/) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10024900) - [Github](https://github.com/ertuil/SimQN)    
+[Online](https://ieeexplore.ieee.org/abstract/document/10024900/) - <a href="https://infonetlijian.github.io/homepage/PDF_files/2023-SimQN_a_Network-layer_Simulator_for_the_Quantum_Network_Investigation.pdf" target="_blank">PDF</a> - [Github](https://github.com/ertuil/SimQN)    
 
 ## <font color=#6EB1EC>2022</font>
 
@@ -218,7 +220,7 @@ Jian Li, Kaiping Xue*, Jianqing Liu, Yongdong Zhang, Yuguang Fang
 **Temporal Netgrid Model-based Dynamic Routing in Large-Scale Small Satellite Networks**  
 Jian Li, Hancheng Lu*, Kaiping Xue, Yongdong Zhang  
 **IEEE Transactions on Vehicular Technology**, Volume: 68, Issue: 6, June 2019  
-[Online](https://ieeexplore.ieee.org/abstract/document/8688478) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8688478) - [Github](https://github.com/infonetlijian/Large-Scale-Satellite-Network-Simulator-LSNS)
+[Online](https://ieeexplore.ieee.org/abstract/document/8688478) - <a href="https://infonetlijian.github.io/homepage/PDF_files/2019-Temporal_Netgrid_Model-Based_Dynamic_Routing_in_Large-Scale_Small_Satellite_Networks.pdf" target="_blank">PDF</a> - [Github](https://github.com/infonetlijian/Large-Scale-Satellite-Network-Simulator-LSNS)
 
 **Service Function Chain Mapping with Resource Fragmentation Avoidance**  
 Zhikai Zhu, Hancheng Lu*, Jian Li, Xiaoda Jiang    
