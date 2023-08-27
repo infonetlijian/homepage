@@ -48,7 +48,7 @@ Yi Liu, Jiangping Han*, Kaiping Xue*, Jian Li, Qibin Sun, Jun Lu
 
 **Q-DDCA: Decentralized Dynamic Congestion Avoid Routing in Large-Scale Quantum Networks**   
 Lutong Chen, Kaiping Xue*, Jian Li, Ruidong Li, Nenghai Yu, Qibin Sun, Jun Lu  
-**IEEE Transactions on Networking**, Accepted  
+**IEEE/ACM Transactions on Networking**, Accepted  
 [Online](https://ieeexplore.ieee.org/abstract/document/10158747) - <a href="https://infonetlijian.github.io/homepage/PDF_files/2023-Q-DDCA_Decentralized_Dynamic_Congestion_Avoid_Routing_in_Large-Scale_Quantum_Networks.pdf" target="_blank">PDF</a>  
 
 **L2BM: Switch Buffer Management for Hybrid Traffic in Data Center Networks**  
@@ -72,7 +72,7 @@ Mingjun Wang, Jian Li*, Kaiping Xue*, Ruidong Li, Nenghai Yu, Yangyang Li, Yifen
 
 **An Online Learning Assisted Packet Scheduler for MPTCP in Mobile Networks**   
 Yitao Xing, Kaiping Xue*, Yuan Zhang, Jiangping Han, Jian Li, David SL Wei    
-**IEEE Transactions on Networking**,  February 2023  
+**IEEE/ACM Transactions on Networking**,  February 2023  
 [Online](https://ieeexplore.ieee.org/abstract/document/10049750/) - <a href="https://infonetlijian.github.io/homepage/PDF_files/2023-An_Online_Learning_Assisted_Packet_Scheduler_for_MPTCP_in_Mobile_Networks.pdf" target="_blank">PDF</a>   
 
 **EdAR: An Experience-driven Multipath Scheduler for Seamless Handoff in Mobile Networks**  
