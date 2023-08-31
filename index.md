@@ -23,7 +23,7 @@
 - **[Paper]** 2023.7, our paper "Enabling In-Network Caching in Traditional IP Networks: Selective Router Upgrades and Cooperative Cache Strategies" is accepted by IEEE Transactions on Network Science and Engineering! 
 - **[Paper]** 2023.7, our paper "An Efficient Scheduling Scheme of Swapping and Purification Operations for End-to-End Entanglement Distribution in Quantum Networks" is accepted by IEEE Transactions on Network Science and Engineering! 
 - **[Paper]** 2023.7, our paper "Efficient Remote Entanglement Distribution in Quantum Networks: A Segment-based Method" is accepted by IEEE Transactions on Network and Service Management! 
-- **[Paper]** 2023.7, our paper "Entanglement-Assisted Quantum Networks: Mechanics, Enabling Technologies, Challenges, and Research Directions" is accepted by IEEE Communications Surveys and Tutorials! \[[arXiv](https://arxiv.org/pdf/2307.12490.pdf)\]
+- **[Paper]** 2023.7, our paper "Entanglement-Assisted Quantum Networks: Mechanics, Enabling Technologies, Challenges, and Research Directions" is accepted by IEEE Communications Surveys and Tutorials! \[[arXiv](https://arxiv.org/pdf/2307.12490.pdf)\]\[[News](https://news.ustc.edu.cn/info/1055/84366.htm)\]
 - **[Paper]** 2023.6, our paper "Swapping-based Entanglement Routing Design for Congestion Mitigation in Quantum Networks" is accepted by IEEE Transactions on Networking! 
 - **[Paper]** 2023.4, our paper "PLR: An In-Network Proactive Loss Recovery Scheme for Named Data Networking" is accepted by IEEE ICCCN 2023! 
 - **[Paper]** 2023.4, our paper "L2BM: Switch Buffer Management for Hybrid Traffic in Data Center Networks" is accepted by IEEE ICDCS 2023! 
