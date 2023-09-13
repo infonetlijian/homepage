@@ -90,108 +90,108 @@ Lutong Chen, Kaiping Xue*, Jian Li*, Nenghai Yu, Ruidong Li, Qibin Sun, Jun Lu
 **IEEE Network**, January 2023    
 [Online](https://ieeexplore.ieee.org/abstract/document/10024900/) - <a href="https://infonetlijian.github.io/homepage/PDF_files/2023-SimQN_a_Network-layer_Simulator_for_the_Quantum_Network_Investigation.pdf" target="_blank">PDF</a> - [Github](https://github.com/ertuil/SimQN)    
 
+**Secure Transmission by Leveraging Multiple Intelligent Reflecting Surfaces in MISO Systems**  
+Jian Li, Lan Zhang, Kaiping Xue, Yuguang Fang*, Qibin Sun  
+**IEEE Transactions on Mobile Computing**, Volume: 22, Issue: 4, April 2023   
+[Online](https://ieeexplore.ieee.org/abstract/document/9543618) - <a href="https://infonetlijian.github.io/homepage/PDF_files/2023-Secure_Transmission_by_Leveraging_Multiple_Intelligent_Reflecting_Surfaces_in_MISO_Systems.pdf" target="_blank">PDF</a>  
+
 ## <font color=#6EB1EC>2022</font>
 
 **Content-Aware Routing based on Cached Content Prediction in Satellite Networks**  
 Jin Tang, Jian Li*, Lan Zhang, Kaiping Xue, Qibin Sun, Jun Lu  
 **2022 IEEE Global Communications Conference (GLOBECOM)**, December 2022      
-[PDF](http://staff.ustc.edu.cn/~kpxue/paper/Globecom2022-JingTang.pdf)
+[Online](https://ieeexplore.ieee.org/abstract/document/10001143) - <a href="https://infonetlijian.github.io/homepage/PDF_files/2022-Content-Aware_Routing_based_on_Cached_Content_Prediction_in_Satellite_Networks.pdf" target="_blank">PDF</a>
 
 **Privacy-preserving Truth Discovery with Outlier Detection in Mobile Crowdsensing Systems**  
 Jingchen Zhao, Bin Zhu, Jian Li, Shaoxian Yuan, Kaiping Xue*, Xianchao Zhang*   
 **2022 IEEE Global Communications Conference (GLOBECOM)**, December 2022      
-[PDF](http://staff.ustc.edu.cn/~kpxue/paper/Globecom2022-JingchenZhao.pdf)
+[Online](https://ieeexplore.ieee.org/abstract/document/10000662) - <a href="https://infonetlijian.github.io/homepage/PDF_files/2022-Privacy-preserving_Truth_Discovery_with_Outlier_Detection_in_Mobile_Crowdsensing_Systems.pdf" target="_blank">PDF</a>
 
 **Forward Private Multi-Client Searchable Encryption with Efficient Access Control in Cloud Storage**   
 Jinjiang Yang, Feng Liu, Xinyi Luo, Jianan Hong, Jian Li, Kaiping Xue*    
 **2022 IEEE Global Communications Conference (GLOBECOM)**, December 2022    
-[PDF](http://staff.ustc.edu.cn/~kpxue/paper/Globecom2022-JinjiangYang.pdf)
+[Online](https://ieeexplore.ieee.org/abstract/document/10001146) - <a href="https://infonetlijian.github.io/homepage/PDF_files/2023-SimQN_a_Network-layer_Simulator_for_the_Quantum_Network_Investigation.pdf" target="_blank">PDF</a>
 
 **Connection-oriented and Connectionless Remote Entanglement Distribution Strategies in Quantum Networks**  
 Zhonghui Li, Kaiping Xue*, Jian Li, Nenghai Yu, David S.L. Wei, Ruidong Li  
 **IEEE Network**, Volume: 36, Issue: 6, November/December 2022    
-[Online](https://ieeexplore.ieee.org/abstract/document/9839638) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9839638)
+[Online](https://ieeexplore.ieee.org/abstract/document/9839638) - <a href="https://infonetlijian.github.io/homepage/PDF_files/2022-Connection-Oriented_and_Connectionless_Remote_Entanglement_Distribution_Strategies_in_Quantum_Networks.pdf" target="_blank">PDF</a>  
 
 **An Asynchronous Entanglement Distribution Protocol for Quantum Networks**  
 Zhaoying Wang, Jian Li*, Kaiping Xue, Shaoyin Cheng, Nenghai Yu, Qibin Sun, Jun Lu  
 **IEEE Network**,Volume: 36, Issue: 5, September/October 2022    
-[Online](https://ieeexplore.ieee.org/abstract/document/9963998) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9963998)
+[Online](https://ieeexplore.ieee.org/abstract/document/9963998) - <a href="https://infonetlijian.github.io/homepage/PDF_files/2022-An_Asynchronous_Entanglement_Distribution_Protocol_for_Quantum_Networks.pdf" target="_blank">PDF</a>  
 
 **A Heuristic Remote Entanglement Distribution Algorithm on Memory-Limited Quantum Paths**  
 Lutong Chen, Kaiping Xue*, Jian Li*, Nenghai Yu, Ruidong Li, Jianqing Liu, Qibin Sun, Jun Lu  
 **IEEE Transactions on Communications**, Volume: 70, Issue: 11, November 2022  
-[Online](https://ieeexplore.ieee.org/abstract/document/9885237) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9885237)
+[Online](https://ieeexplore.ieee.org/abstract/document/9885237) - <a href="https://infonetlijian.github.io/homepage/PDF_files/2022-A_Heuristic_Remote_Entanglement_Distribution_Algorithm_on_Memory-Limited_Quantum_Paths.pdf" target="_blank">PDF</a>  
 
 **Fidelity-Guaranteed Entanglement Routing in Quantum Networks**  
 Jian Li, Mingjun Wang, Kaiping Xue*, Ruidong Li, Nenghai Yu, Qibin Sun, Jun Lu  
 **IEEE Transactions on Communications**, Volume: 70, Issue: 10, October 2022   
-[Online](https://ieeexplore.ieee.org/abstract/document/9862987) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9862987) - [Github](https://github.com/infonetlijian/Fidelity-Guaranteed-Entanglement-Routing)  
+[Online](https://ieeexplore.ieee.org/abstract/document/9862987) - <a href="https://infonetlijian.github.io/homepage/PDF_files/2022-Fidelity-Guaranteed_Entanglement_Routing_in_Quantum_Networks.pdf" target="_blank">PDF</a> - [Github](https://github.com/infonetlijian/Fidelity-Guaranteed-Entanglement-Routing)  
 
 **CSEVP: A Collaborative, Secure, and Efficient Content Validation Protection Framework for Information Centric Networking**  
 Kaiping Xue*, Jiayu Yang, Qiudong Xia, David SL Wei, Jian Li*, Qibin Sun, Jun Lu   
 **IEEE Transactions on Network and Service Management**, Volume: 19, Issue: 2, June 2022   
-[Online](https://ieeexplore.ieee.org/abstract/document/9656562) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9656562)
+[Online](https://ieeexplore.ieee.org/abstract/document/9656562) - <a href="https://infonetlijian.github.io/homepage/PDF_files/2022-CSEVP_A_Collaborative_Secure_and_Efficient_Content_Validation_Protection_Framework_for_Information_Centric_Networking.pdf" target="_blank">PDF</a>  
 
 **A Connection-Oriented Entanglement Distribution Design in Quantum Networks**  
 Jian Li, Qidong Jia, Kaiping Xue*, David S. L. Wei, Nenghai Yu  
 **IEEE Transactions on Quantum Engineering**, Volume: 3, May 2022    
-[Online](https://ieeexplore.ieee.org/abstract/document/9779492) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9779492)
+[Online](https://ieeexplore.ieee.org/abstract/document/9779492) - <a href="https://infonetlijian.github.io/homepage/PDF_files/2022-A_Connection-Oriented_Entanglement_Distribution_Design_in_Quantum_Networks.pdf" target="_blank">PDF</a>  
 
 **A Distributed Authentication Scheme Based on Smart Contract for Roaming Service in Mobile Vehicular Networks**  
 Kaiping Xue, Xinyi Luo, Yongjin Ma, Jian Li, Jianqing Liu, David SL Wei    
 **IEEE Transactions on Vehicular Technology**, Volume: 71, Issue: 5, May 2022   
-[Online](https://ieeexplore.ieee.org/abstract/document/9705106) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9705106)
+[Online](https://ieeexplore.ieee.org/abstract/document/9705106) - <a href="https://infonetlijian.github.io/homepage/PDF_files/2022-A_Distributed_Authentication_Scheme_Based_on_Smart_Contract_for_Roaming_Service_in_Mobile_Vehicular_Networks.pdf" target="_blank">PDF</a>  
 
 **A Cluster-based Networking Approach for Large-scale and Wide-area Quantum Key Agreement**  
 Zhonghui Li, Kaiping Xue, Qidong Jia, Jian Li, David S. L. Wei, Jianqing Liu , Nenghai Yu  
 **Quantum Information Processing**, Volume: 21, Article number: 192 (2022)  
-[Online](https://link.springer.com/article/10.1007/s11128-022-03528-3) - [PDF](https://link.springer.com/content/pdf/10.1007/s11128-022-03528-3.pdf?pdf=button)
+[Online](https://link.springer.com/article/10.1007/s11128-022-03528-3) - <a href="https://infonetlijian.github.io/homepage/PDF_files/2022-A Cluster-based Networking Approach for Large-scale and Wide-area Quantum Key Agreement.pdf" target="_blank">PDF</a>  
 
 **A Blockchain based User Subscription Data Management and Access Control Scheme in Mobile Communication Networks**  
 Kaiping Xue, Xinyi Luo, Hangyu Tian, Jianan Hong, David SL Wei, Jian Li*    
 **IEEE Transactions on Vehicular Technology**, Volume: 71, Issue: 3, March 2022   
-[Online](https://ieeexplore.ieee.org/abstract/document/9663019) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9663019)
+[Online](https://ieeexplore.ieee.org/abstract/document/9663019) - <a href="https://infonetlijian.github.io/homepage/PDF_files/2022-A_Blockchain_Based_User_Subscription_Data_Management_and_Access_Control_Scheme_in_Mobile_Communication_Networks.pdf" target="_blank">PDF</a>  
 
 ## <font color=#6EB1EC>2021</font>  
 **Low Priority Congestion Control for Multipath TCP**  
 Yuan Zhang, Jian Li*, Jiayu Yang, Yitao Xing, Rui Zhuang, Kaiping Xue  
 **2021 IEEE Global Communications Conference (GLOBECOM)**, December 2021      
-[Online](https://ieeexplore.ieee.org/abstract/document/9686024) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9686024)
+[Online](https://ieeexplore.ieee.org/abstract/document/9686024) - <a href="https://infonetlijian.github.io/homepage/PDF_files/2021-Low_Priority_Congestion_Control_for_Multipath_TCP.pdf" target="_blank">PDF</a>  
 
 **Privacy-Preserving Truth Discovery for Sparse Data in Mobile Crowdsensing Systems**  
 Feng Liu, Bin Zhu, Shaoxian Yuan, Jian Li, Kaiping Xue*   
 **2021 IEEE Global Communications Conference (GLOBECOM)**, December 2021      
-[Online](https://ieeexplore.ieee.org/abstract/document/9685134) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9685134)
+[Online](https://ieeexplore.ieee.org/abstract/document/9685134) - <a href="https://infonetlijian.github.io/homepage/PDF_files/2021-Privacy-Preserving_Truth_Discovery_for_Sparse_Data_in_Mobile_Crowdsensing_Systems.pdf" target="_blank">PDF</a>  
 
 **A Fog-Aided Privacy-Preserving Truth Discovery Framework over Crowdsensed Data Streams**  
 Shaoxian Yuan, Bin Zhu, Feng Liu, Jian Li, Kaiping Xue*  
 **2021 IEEE Global Communications Conference (GLOBECOM)**, December 2021      
-[Online](https://ieeexplore.ieee.org/abstract/document/9685817) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9685817)
+[Online](https://ieeexplore.ieee.org/abstract/document/9685817) - <a href="https://infonetlijian.github.io/homepage/PDF_files/2021-A_Fog-Aided_Privacy-Preserving_Truth_Discovery_Framework_over_Crowdsensed_Data_Streams.pdf" target="_blank">PDF</a>  
 
 **Service Prioritization in Information Centric Networking with Heterogeneous Content Providers**  
 Jin Qin, Kaiping Xue*, Jian Li, Qibin Sun, Jun Lu  
 **IEEE Transactions on Network and Service Management**, Volume: 18, Issue: 4, December 2021    
-[Online](https://ieeexplore.ieee.org/abstract/document/9514612) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9514612)
+[Online](https://ieeexplore.ieee.org/abstract/document/9514612) - <a href="https://infonetlijian.github.io/homepage/PDF_files/2021-Service_Prioritization_in_Information_Centric_Networking_With_Heterogeneous_Content_Providers.pdf" target="_blank">PDF</a>  
 
 **Leveraging Coupled BBR and Adaptive Packet Scheduling to Boost MPTCP**  
 Jiangping Han, Kaiping Xue, Yitao Xing, Jian Li, Wenjia Wei, David SL Wei, Guoliang Xue  
 **IEEE Transactions on Wireless Communications**, Volume: 20, Issue: 11, November 2021      
-[Online](https://ieeexplore.ieee.org/abstract/document/9449942) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9449942)
+[Online](https://ieeexplore.ieee.org/abstract/document/9449942) - <a href="https://infonetlijian.github.io/homepage/PDF_files/2021-Leveraging_Coupled_BBR_and_Adaptive_Packet_Scheduling_to_Boost_MPTCP.pdf" target="_blank">PDF</a>  
 
 **A Low-Latency MPTCP Scheduler for Live Video Streaming in Mobile Networks**  
 Yitao Xing, Kaiping Xue, Yuan Zhang, Jiangping Han, Jian Li, Jianqing Liu, Ruidong Li   
 **IEEE Transactions on Wireless Communications**, Volume: 20, Issue: 11, November 2021    
-[Online](https://ieeexplore.ieee.org/abstract/document/9440790) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9440790)
+[Online](https://ieeexplore.ieee.org/abstract/document/9440790) - <a href="https://infonetlijian.github.io/homepage/PDF_files/2021-A_Low-Latency_MPTCP_Scheduler_for_Live_Video_Streaming_in_Mobile_Networks.pdf" target="_blank">PDF</a>  
 
 **Building a Large-Scale and Wide-Area Quantum Internet Based on an OSI-alike Model**  
 Zhonghui Li, Kaiping Xue, Jian Li, Nenghai Yu, Jianqing Liu, David S. L. Wei, Qibin Sun, Jun Lu  
 **China Communications**, Volume: 18, Issue: 10, October 2021  
-[Online](https://ieeexplore.ieee.org/abstract/document/9597613) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9597613)
-
-**Secure Transmission by Leveraging Multiple Intelligent Reflecting Surfaces in MISO Systems**  
-Jian Li, Lan Zhang, Kaiping Xue, Yuguang Fang*, Qibin Sun  
-**IEEE Transactions on Mobile Computing**, Accepted  
-[Online](https://ieeexplore.ieee.org/abstract/document/9543618) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9543618)
+[Online](https://ieeexplore.ieee.org/abstract/document/9597613) - <a href="https://infonetlijian.github.io/homepage/PDF_files/2021-Building_a_large-scale_and_wide-area_quantum_Internet_based_on_an_OSI-alike_model.pdf" target="_blank">PDF</a>  
 
 
 
@@ -200,7 +200,7 @@ Jian Li, Lan Zhang, Kaiping Xue, Yuguang Fang*, Qibin Sun
 **Large-scale Small Satellite Network Simulator: Design and Evaluation**  
 Mengjie Liu, Yongqiang Gui, Jian Li, Hancheng Lu*      
 **2020 3rd International Conference on Hot Information-Centric Networking (HotICN)**, December 2020    
-[Online](https://ieeexplore.ieee.org/abstract/document/9350838) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9350838)
+[Online](https://ieeexplore.ieee.org/abstract/document/9350838) - <a href="https://infonetlijian.github.io/homepage/PDF_files/2020-Large-Scale_Small_Satellite_Network_Simulator_Design_and_Evaluation.pdf" target="_blank">PDF</a>  
 
 **A User-Centric Handover Scheme for Ultra-Dense LEO Satellite Networks**  
 Jian Li, Kaiping Xue*, Jianqing Liu, Yongdong Zhang    
@@ -225,19 +225,20 @@ Jian Li, Hancheng Lu*, Kaiping Xue, Yongdong Zhang
 **Service Function Chain Mapping with Resource Fragmentation Avoidance**  
 Zhikai Zhu, Hancheng Lu*, Jian Li, Xiaoda Jiang    
 **2017 IEEE Global Communications Conference (GLOBECOM)**, December 2017    
-[Online](https://ieeexplore.ieee.org/abstract/document/8254441/) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8254441)
+[Online](https://ieeexplore.ieee.org/abstract/document/8254441/) - <a href="https://infonetlijian.github.io/homepage/PDF_files/2017-Service_Function_Chain_Mapping_with_Resource_Fragmentation_Avoidance.pdf" target="_blank">PDF</a> - [Github](https://github.com/infonetlijian/Large-Scale-Satellite-Network-Simulator-LSNS)
 
 **Robust Satellite Image Transmission over Bandwidth-constrained Wireless Channels**  
 Yali Wang, Hancheng Lu*, Zexue Li, Jian Li     
 **2017 IEEE International Conference on Communications (ICC)**, May 2017    
-[Online](https://ieeexplore.ieee.org/abstract/document/7997077) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7997077)
+[Online](https://ieeexplore.ieee.org/abstract/document/7997077) - <a href="https://infonetlijian.github.io/homepage/PDF_files/2017-Robust_satellite_image_transmission_over_bandwidth-constrained_wireless_channels.pdf" target="_blank">PDF</a> - [Github](https://github.com/infonetlijian/Large-Scale-Satellite-Network-Simulator-LSNS)
+
 
 **Temporal Netgrid Model based Routing Optimization in Satellite Networks**  
 Jian Li, Hancheng Lu*, Yali Wang   
 **2017 IEEE International Conference on Communications (ICC)**, May 2017    
-[Online](https://ieeexplore.ieee.org/abstract/document/7996551) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7996551)
+[Online](https://ieeexplore.ieee.org/abstract/document/7996551) - <a href="https://infonetlijian.github.io/homepage/PDF_files/2017-Temporal_netgrid_model_based_routing_optimization_in_satellite_networks.pdf" target="_blank">PDF</a> - [Github](https://github.com/infonetlijian/Large-Scale-Satellite-Network-Simulator-LSNS)  
 
 **A Two-Layer Caching Model for Content Delivery Services in Satellite-Terrestrial Networks**  
 Hao Wu, Jian Li, Hancheng Lu*, Peilin Hong  
 **2016 IEEE Global Communications Conference (GLOBECOM)**, December 2016    
-[Online](https://ieeexplore.ieee.org/abstract/document/7841557) - [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7841557)
+[Online](https://ieeexplore.ieee.org/abstract/document/7841557) - <a href="https://infonetlijian.github.io/homepage/PDF_files/2016-A_Two-Layer_Caching_Model_for_Content_Delivery_Services_in_Satellite-Terrestrial_Networks.pdf" target="_blank">PDF</a> - [Github](https://github.com/infonetlijian/Large-Scale-Satellite-Network-Simulator-LSNS)
