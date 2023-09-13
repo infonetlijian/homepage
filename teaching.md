@@ -3,7 +3,7 @@
 		<span>
 			<h2 size="8" face="" color="black">Jian Li</h2>
 			<p>
-				Ph.D, Research Associate, IEEE Member
+				Ph.D, Associate Researcher, IEEE Senior Member
 			</p>
 			<p>
 				E-Mail: lijian9@ustc.edu.cn
@@ -19,5 +19,4 @@
 | [News](/homepage/) | [CV](/homepage/CV.html) | [Professional Services](/homepage/services.html) | [Publications](/homepage/publications.html) | [Projects](/homepage/projects.html) | [Patents](/homepage/patents.html) | [Teaching](/homepage/teaching.html) |  
 
 ## <font color=#6EB1EC>Courses</font>
--  Computer Networks, Fall 2023 (In preparation)
-
+-  Computer Networks, Fall 2023 
