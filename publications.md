@@ -20,13 +20,22 @@
 
 ## <font color=#6EB1EC>Preprints</font>
 
-**Routing in small satellite networks: A GNN-based learning approach**  
+**Routing in Small Satellite Networks: A GNN-based Learning Approach**  
 Mengjie Liu, Jian Li, Hancheng Lu  
 [arXiv](https://arxiv.org/abs/2108.08523)
 
 ## <font color=#6EB1EC>2023</font>
+
+**FMPTCP: Achieving High Bandwidth Utilization and Low Latency in Data Center Networks**
+Jiangping Han, Kaiping Xue*, Jian Li, Yitao Xing, Ruozhou Yu, David S. L. Wei, Guoliang Xue      
+**IEEE Transactions on Communications**, Accepted       
+
+**A Connectionless Entanglement Distribution Protocol Design in Quantum Networks**  
+Zirui Xiao, Jian Li*, Kaiping Xue*, Zhonghui Li, Nenghai Yu, Qibin Sun, Jun Lu    
+**IEEE Network**, Accepted  
+
 **Enabling In-Network Caching in Traditional IP Networks: Selective Router Upgrades and Cooperative Cache Strategies**
-Jiangping Han, Kaiping Xue*, Jian Li, Jing Zhang, Zixuan Huang, David SL Wei      
+Jiangping Han, Kaiping Xue*, Jian Li, Jing Zhang, Zixuan Huang, David S. L. Wei      
 **IEEE Transactions on Network Science and Engineering**, Accepted    
 [Online](https://ieeexplore.ieee.org/abstract/document/10219010) - <a href="https://infonetlijian.github.io/homepage/PDF_files/2023-Enabling_In-Network_Caching_in_Traditional_IP_Networks_Selective_Router_Upgrades_and_Cooperative_Cache_Strategies.pdf" target="_blank">PDF</a>   
 
