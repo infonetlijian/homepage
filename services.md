@@ -22,7 +22,8 @@
 * Editor of [China Communications](http://www.cic-chinacommunications.cn/EN/column/column12.shtml), since Feb. 2023
 
 ## <font color=#6EB1EC>Organizing Committee</font>
-* Session Chiar, IEEE/ACM International Symposium on Quality of Service ([IWQoS](https://iwqos2023.ieee-iwqos.org/)), 2023  
+* Session Chiar, IEEE Global Communications Conference ([GLOBECOM](https://globecom2023.ieee-globecom.org/technical-program#S1569622219)), 2023  
+* Session Chiar, IEEE/ACM International Symposium on Quality of Service ([IWQoS](https://iwqos2023.ieee-iwqos.org/)), 2021  
 
 ## <font color=#6EB1EC>Technical Program Committee</font>
 * International Conference on Computer Communications and Networks ([ICCCN](http://www.icccn.org/index.html)), 2023  
