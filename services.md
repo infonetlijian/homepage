@@ -3,7 +3,7 @@
     <span>
       <h2 size="8" face="" color="black">Jian Li</h2>
       <p>
-        Ph.D, Associate Researcher, IEEE Senior Member
+        Ph.D, Associate Researcher, IEEE Senior Member, ACM Member
       </p>
       <p>
         E-Mail: lijian9@ustc.edu.cn
@@ -22,12 +22,13 @@
 * Editor of [China Communications](http://www.cic-chinacommunications.cn/EN/column/column12.shtml), since Feb. 2023
 
 ## <font color=#6EB1EC>Organizing Committee</font>
-* Session Chiar, IEEE Global Communications Conference ([GLOBECOM](https://globecom2023.ieee-globecom.org/technical-program#S1569622219)), 2023  
-* Session Chiar, IEEE/ACM International Symposium on Quality of Service ([IWQoS](https://iwqos2023.ieee-iwqos.org/)), 2021  
+* Session Chiar (Session 14), IEEE/ACM International Symposium on Quality of Service ([IWQoS](https://iwqos2023.ieee-iwqos.org/)), 2021  
+* Session Chiar (IS-17 CISS), IEEE Global Communications Conference ([GLOBECOM](https://globecom2023.ieee-globecom.org/technical-program#S1569622219)), 2023  
 
-## <font color=#6EB1EC>Technical Program Committee</font>
+## <font color=#6EB1EC>Technical Program Committee (TPC)</font>
 * International Conference on Computer Communications and Networks ([ICCCN](http://www.icccn.org/index.html)), 2023  
 * International Conference on Computing, Networking and Communications ([ICNC](http://www.conf-icnc.org/2024/)), 2024  
+* IEEE IEEE International Conference on Computer Communications ([INFOCOM](https://infocom2024.ieee-infocom.org/)) Poster, 2024
 
 ## <font color=#6EB1EC>Reviewers</font>
 * **Transactions:** IEEE Transactions on Networking (ToN), IEEE Transactions on Communications (TCOM), IEEE Transactions on Vehicular Technology (TVT), IEEE Transactions on Wireless Computing (TWC), IET Communications 
