@@ -29,11 +29,12 @@
 * International Conference on Computer Communications and Networks ([ICCCN](http://www.icccn.org/index.html)), 2023  
 * International Conference on Computing, Networking and Communications ([ICNC](http://www.conf-icnc.org/2024/)), 2024  
 * IEEE International Conference on Computer Communications ([INFOCOM](https://infocom2024.ieee-infocom.org/)) Poster, 2024
+* International Conference on Computer Communications and Networks ([ICCCN](http://www.icccn.org/index.html)), 2024  
 
 ## <font color=#6EB1EC>Reviewers</font>
 * **Transactions:** IEEE Transactions on Networking (ToN), IEEE Transactions on Communications (TCOM), IEEE Transactions on Vehicular Technology (TVT), IEEE Transactions on Wireless Computing (TWC), IET Communications 
-* **Magazines:** IEEE Communications, IEEE Network
-* **Conferences:** IEEE INFOCOM, IEEE Globecom, IEEE ICC
+* **Magazines:** IEEE Wireless Communications, IEEE Communications, IEEE Network
+* **Conferences:** IEEE INFOCOM Poster, IEEE Globecom, IEEE ICC
 
 
 ## <font color=#6EB1EC>Other Professional Activities</font>
