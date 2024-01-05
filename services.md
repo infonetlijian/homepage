@@ -32,11 +32,13 @@
 * International Conference on Computer Communications and Networks ([ICCCN](http://www.icccn.org/index.html)), 2024  
 
 ## <font color=#6EB1EC>Reviewers</font>
-* **Transactions:** IEEE Transactions on Networking (ToN), IEEE Transactions on Communications (TCOM), IEEE Transactions on Vehicular Technology (TVT), IEEE Transactions on Wireless Computing (TWC), IET Communications 
-* **Magazines:** IEEE Wireless Communications, IEEE Communications, IEEE Network
-* **Conferences:** IEEE INFOCOM Poster, IEEE Globecom, IEEE ICC
+* **Journals:**  IEEE Transactions on Networking ([ToN](https://mc.manuscriptcentral.com/tnet-ieee)), IEEE Transactions on Communications ([TCOM](https://mc.manuscriptcentral.com/tCOM)), IEEE Transactions on Vehicular Technology ([TVT](https://mc.manuscriptcentral.com/tvt-ieee)), IEEE Transactions on Wireless Computing ([TWC](https://mc.manuscriptcentral.com/twc)), IEEE Transactions on Network and Service Management ([TNSM](https://mc.manuscriptcentral.com/tnsm))
+* **Magazines:**  [IEEE Wireless Communications](https://mc.manuscriptcentral.com/ieee-wcm), [IEEE Communications Magazine](https://mc.manuscriptcentral.com/commag-ieee), [IEEE Network](https://mc.manuscriptcentral.com/network-ieee)
+* **Conferences:**  IEEE INFOCOM Poster, IEEE Globecom, IEEE ICC
 
 
 ## <font color=#6EB1EC>Other Professional Activities</font>
-* Senior Member, IEEE Communications Society (ComSoc)
+* Senior Member, IEEE Communications Society ([IEEE ComSoc](https://www.comsoc.org/))
+* Member, Association for Computing Machinery ([ACM](https://www.acm.org/))
+* Member, China Computer Federation ([CCF](https://www.ccf.org.cn/))
 

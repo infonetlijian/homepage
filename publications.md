@@ -26,6 +26,19 @@ Mengjie Liu, Jian Li, Hancheng Lu
 
 ## <font color=#6EB1EC>2023</font>
 
+**REDP: Reliable Entanglement Distribution Protocol Design for Large-scale Quantum Networks**
+Lutong Chen, Kaiping Xue*, Jian Li, Zhonghui Li, Ruidong Li, Nenghai Yu, Qibin Sun, Jun Lu      
+**IEEE Journal on Seclected Areas in Communications**, Accepted  
+
+**Security-Enhanced WireGuard Protocol Design using Quantum Key Distribution**
+Lutong Chen, Kaiping Xue*, Jian Li*, Zhonghui Li, Ruidong Li, Nenghai Yu, Qibin Sun, Jun Lu      
+**IEEE International Conference on Computing, Networking and Communications (ICNC 2024)**, Accepted  
+
+**Volume-Hiding Range Searchable Symmetric Encryption for Large-Scale Datasets**
+Feng Liu, Kaiping Xue*, Jinjiang Yang, Jing Zhang, Zixuan Huang, Jian Li, David S. L. Wei      
+**IEEE Transactions on Dependable and Secure Computing**, Accepted  
+[Online](https://ieeexplore.ieee.org/abstract/document/10324376)   
+
 **FMPTCP: Achieving High Bandwidth Utilization and Low Latency in Data Center Networks**  
 Jiangping Han, Kaiping Xue*, Jian Li, Yitao Xing, Ruozhou Yu, David S. L. Wei, Guoliang Xue      
 **IEEE Transactions on Communications**, Accepted       
