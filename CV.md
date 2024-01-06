@@ -4,7 +4,6 @@
       <h2 size="8" face="" color="black">Jian Li</h2>
       <p>
         Ph.D, Associate Researcher, IEEE Senior Member, ACM Member
-        
       </p>
       <p>
         E-Mail: lijian9@ustc.edu.cn
