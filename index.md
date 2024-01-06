@@ -16,7 +16,7 @@
 
 ***
 
-| [News](/homepage/) | [CV](/homepage/CV.html) | [Professional Services](/homepage/services.html) | [Publications](/homepage/publications.html) | [Projects](/homepage/projects.html) | [Patents](/homepage/patents.html) | [Teaching](/homepage/teaching.html) |  
+| [News](/homepage/) | [CV](/homepage/CV.html) | [Professional Services](/homepage/services.html) | [Publications](/homepage/publications.html) | [Projects](/homepage/projects.html) | [Funding](/homepage/funding.html) | [Patents](/homepage/patents.html) | [Teaching](/homepage/teaching.html) |  
 
 ## <font color=#6EB1EC>News</font>
 - **[Activity]** 2023.8, I receive the elevation to the grade of IEEE Senior Member! 
