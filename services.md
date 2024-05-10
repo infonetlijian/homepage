@@ -32,6 +32,7 @@
 * PC Member, IEEE International Conference on Computer Communications and Networks ([ICCCN](http://www.icccn.org/index.html)), 2024  
 * PC Member, IEEE International Conference on Distributed Computing Systems ([ICDCS](https://icdcs2024.icdcs.org/)), 2024  
 * PC Member, IEEE International Conference on Quantum Communications, Networking, and Computing ([QCNC](https://www.ieee-qcnc.org/2024/index.php)), 2024  
+* PC Member, IEEE International Conference on Quantum Computing and Engineering ([QCE](https://qce.quantum.ieee.org/2024/)), 2024  
 
 ## <font color=#6EB1EC>Reviewers</font>
 * **Journals:**  IEEE Transactions on Networking ([ToN](https://mc.manuscriptcentral.com/tnet-ieee)), IEEE Transactions on Communications ([TCOM](https://mc.manuscriptcentral.com/tCOM)), IEEE Transactions on Vehicular Technology ([TVT](https://mc.manuscriptcentral.com/tvt-ieee)), IEEE Transactions on Wireless Computing ([TWC](https://mc.manuscriptcentral.com/twc)), IEEE Transactions on Network and Service Management ([TNSM](https://mc.manuscriptcentral.com/tnsm))

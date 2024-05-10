@@ -24,11 +24,29 @@
 Mengjie Liu, Jian Li, Hancheng Lu  
 [arXiv](https://arxiv.org/abs/2108.08523)
 
-## <font color=#6EB1EC>2023</font>
+## <font color=#6EB1EC>2024</font>
+
+**Cooperative Caching in Satellite-Terrestrial Integrated Networks: A Region Features aware Approach**  
+Jin Tang, Jian Li*, Xianhao Chen, Kaiping Xue, Lan Zhang, Qibin Sun, Jun Lu      
+**IEEE Transactions on Vehicular Technology**, 2024  
+[Online](https://ieeexplore.ieee.org/abstract/document/10444050)  
+
+**Opportunistic Content-aware Routing in Satellite-Terrestrial Integrated Networks**  
+Jin Tang, Jian Li*, Lan Zhang, Xianhao Chen, Kaiping Xue, Qibin Sun, Jun Lu      
+**IEEE Transactions on Mobile Computing**, 2024  
+[Online](https://ieeexplore.ieee.org/abstract/document/10473075)  
+
+**Q-CSKDF: A Continuous and Security Key Derivation Function for Quantum Key Distribution**  
+Lutong Chen, Kaiping Xue*, Jian Li, Zhonghui Li, Nenghai Yu      
+**IEEE Network**, 2024  
+[Online](https://ieeexplore.ieee.org/abstract/document/10517672)   
 
 **REDP: Reliable Entanglement Distribution Protocol Design for Large-scale Quantum Networks**  
 Lutong Chen, Kaiping Xue*, Jian Li, Zhonghui Li, Ruidong Li, Nenghai Yu, Qibin Sun, Jun Lu      
-**IEEE Journal on Seclected Areas in Communications**, Accepted  
+**IEEE Journal on Seclected Areas in Communications**, 2024  
+[Online](https://ieeexplore.ieee.org/abstract/document/10477626)  
+
+## <font color=#6EB1EC>2023</font>
 
 **Security-Enhanced WireGuard Protocol Design using Quantum Key Distribution**  
 Lutong Chen, Kaiping Xue*, Jian Li*, Zhonghui Li, Ruidong Li, Nenghai Yu, Qibin Sun, Jun Lu      
