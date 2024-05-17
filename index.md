@@ -19,6 +19,17 @@
 | [News](/homepage/) | [CV](/homepage/CV.html) | [Professional Services](/homepage/services.html) | [Publications](/homepage/publications.html) | [Projects](/homepage/projects.html) | [Funding](/homepage/funding.html) | [Patents](/homepage/patents.html) | [Teaching](/homepage/teaching.html) |  
 
 ## <font color=#6EB1EC>News</font>
+- **[Paper]** 2024.5, our paper "FLTracer: Accurate Poisoning Attack Provenance in Federated Learning" is accepted by IEEE Transactions on Information Forensics & Security! 
+- **[Paper]** 2024.5, our paper "Efficient Routing Design Based on Entanglement Flow Loss Effect in Quantum Networks" is accepted by International Conference on Quantum Communications, Networking, and Computing (QCNC)! 
+- **[Paper]** 2024.4, our paper "Q-CSKDF: A Continuous and Security Key Derivation Function for Quantum Key Distribution" is accepted by IEEE Network! 
+- **[Paper]** 2024.3, our paper "Opportunistic Content-aware Routing in Satellite-Terrestrial Integrated Networks" is accepted by IEEE Transactions on Mobile Computing! 
+- **[Paper]** 2024.2, our paper "Cooperative Caching in Satellite-Terrestrial Integrated Networks: A Region Features aware Approach" is accepted by IEEE Transactions on Vehicular Technology! 
+- **[Paper]** 2023.12, our paper "REDP: Reliable Entanglement Distribution Protocol Design for Large-scale Quantum Networks" is accepted by IEEE Journal on Seclected Areas in Communications! 
+- **[Paper]** 2023.12, our paper "A Distributed Routing Protocol Based on Key Reservation in Quantum Key Distribution Networks" is accepted by IEEE International Conference on Communications (ICC)! 
+- **[Paper]** 2023.12, our paper "Security-Enhanced WireGuard Protocol Design using Quantum Key Distribution" is accepted by IEEE International Conference on Computing, Networking and Communications (ICNC 2024)! 
+- **[Paper]** 2023.11, our paper "Volume-Hiding Range Searchable Symmetric Encryption for Large-Scale Datasets" is accepted by IEEE Transactions on Dependable and Secure Computing! 
+- **[Paper]** 2023.9, our paper "FMPTCP: Achieving High Bandwidth Utilization and Low Latency in Data Center Networks" is accepted by IEEE Transactions on Communications! 
+- **[Paper]** 2023.9, our paper "A Connectionless Entanglement Distribution Protocol Design in Quantum Networks" is accepted by IEEE Network! 
 - **[Activity]** 2023.8, I receive the elevation to the grade of IEEE Senior Member! 
 - **[Paper]** 2023.7, our paper "Enabling In-Network Caching in Traditional IP Networks: Selective Router Upgrades and Cooperative Cache Strategies" is accepted by IEEE Transactions on Network Science and Engineering! 
 - **[Paper]** 2023.7, our paper "An Efficient Scheduling Scheme of Swapping and Purification Operations for End-to-End Entanglement Distribution in Quantum Networks" is accepted by IEEE Transactions on Network Science and Engineering! 

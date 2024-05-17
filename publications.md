@@ -26,6 +26,14 @@ Mengjie Liu, Jian Li, Hancheng Lu
 
 ## <font color=#6EB1EC>2024</font>
 
+**FLTracer: Accurate Poisoning Attack Provenance in Federated Learning**  
+Meiqi Li, Xinyi Luo, IEEE, Kaiping Xue*, Yingjie Xue, Wentuo Sun, Jian Li       
+**Transactions on Information Forensics & Security**, 2024   
+
+**Efficient Routing Design Based on Entanglement Flow Loss Effect in Quantum Networks**  
+Zhaoying Wang, Jian Li*, Zhonghui Li, Lutong Chen, Nenghai Yu, Qibin Sun and Jun Lu     
+**International Conference on Quantum Communications, Networking, and Computing (QCNC 2024)**, 2024   
+
 **Cooperative Caching in Satellite-Terrestrial Integrated Networks: A Region Features aware Approach**  
 Jin Tang, Jian Li*, Xianhao Chen, Kaiping Xue, Lan Zhang, Qibin Sun, Jun Lu      
 **IEEE Transactions on Vehicular Technology**, 2024  
@@ -45,6 +53,10 @@ Lutong Chen, Kaiping Xue*, Jian Li, Zhonghui Li, Nenghai Yu
 Lutong Chen, Kaiping Xue*, Jian Li, Zhonghui Li, Ruidong Li, Nenghai Yu, Qibin Sun, Jun Lu      
 **IEEE Journal on Seclected Areas in Communications**, 2024  
 [Online](https://ieeexplore.ieee.org/abstract/document/10477626)  
+
+**A Distributed Routing Protocol Based on Key Reservation in Quantum Key Distribution Networks**  
+Jiaqi Wu, Lutong Chen, Jing Zhang, Zixuan Huang, Zhonghui Li, Jian Li*, Kaiping Xue*, Nenghai Yu       
+**IEEE International Conference on Communications (ICC 2024)**, 2024  
 
 ## <font color=#6EB1EC>2023</font>
 
