@@ -16,7 +16,7 @@
 
 ***
 
-| [News](/homepage/) | [CV](/homepage/CV.html) | [Professional Services](/homepage/services.html) | [Publications](/homepage/publications.html) | [Projects](/homepage/projects.html) | [Funding](/homepage/funding.html) | [Patents](/homepage/patents.html) | [Teaching](/homepage/teaching.html) |  
+| [News](/homepage/) | [CV](/homepage/CV.html) | [Professional Activities](/homepage/activities.html) | [Publications](/homepage/publications.html) | [Projects](/homepage/projects.html) | [Funding](/homepage/funding.html) | [Patents](/homepage/patents.html) | [Teaching](/homepage/teaching.html) |  
 
 ## <font color=#6EB1EC>News</font>
 - **[Paper]** 2024.5, our paper "FLTracer: Accurate Poisoning Attack Provenance in Federated Learning" is accepted by IEEE Transactions on Information Forensics & Security! 

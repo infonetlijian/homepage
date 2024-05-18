@@ -16,7 +16,7 @@
 
 ***
 
-| [News](/homepage/) | [CV](/homepage/CV.html) | [Professional Services](/homepage/services.html) | [Publications](/homepage/publications.html) | [Projects](/homepage/projects.html) | [Funding](/homepage/funding.html) | [Patents](/homepage/patents.html) | [Teaching](/homepage/teaching.html) |  
+| [News](/homepage/) | [CV](/homepage/CV.html) | [Professional Activities](/homepage/activities.html) | [Publications](/homepage/publications.html) | [Projects](/homepage/projects.html) | [Funding](/homepage/funding.html) | [Patents](/homepage/patents.html) | [Teaching](/homepage/teaching.html) |  
 
 ## <font color=#6EB1EC>Preprints</font>
 
@@ -26,7 +26,7 @@ Mengjie Liu, Jian Li, Hancheng Lu
 
 ## <font color=#6EB1EC>2024</font>
 
-**FLTracer: Accurate Poisoning Attack Provenance in Federated Learning**  
+**A Secure and Efficient Blockchain Sharding Scheme via Hybrid Consensus and Dynamic Management**  
 Meiqi Li, Xinyi Luo, IEEE, Kaiping Xue*, Yingjie Xue, Wentuo Sun, Jian Li       
 **Transactions on Information Forensics & Security**, 2024   
 
@@ -72,13 +72,13 @@ Feng Liu, Kaiping Xue*, Jinjiang Yang, Jing Zhang, Zixuan Huang, Jian Li, David 
 
 **FMPTCP: Achieving High Bandwidth Utilization and Low Latency in Data Center Networks**  
 Jiangping Han, Kaiping Xue*, Jian Li, Yitao Xing, Ruozhou Yu, David S. L. Wei, Guoliang Xue      
-**IEEE Transactions on Communications**, Accepted       
-[Online](https://ieeexplore.ieee.org/abstract/document/10278479)   
+**IEEE Transactions on Communications**, Volume: 72, Issue: 1, January 2024       
+[Online](https://ieeexplore.ieee.org/abstract/document/10278479) - <a href="https://infonetlijian.github.io/homepage/PDF_files/2024 - 【TCOM】-FMPTCP_Achieving_High_Bandwidth_Utilization_and_Low_Latency_in_Data_Center_Networks.pdf" target="_blank">PDF</a>      
 
 **A Connectionless Entanglement Distribution Protocol Design in Quantum Networks**  
 Zirui Xiao, Jian Li*, Kaiping Xue*, Zhonghui Li, Nenghai Yu, Qibin Sun, Jun Lu    
-**IEEE Network**, Accepted  
-[Online](https://ieeexplore.ieee.org/abstract/document/10274626)   
+**IEEE Network**, Volume: 38, Issue: 1, January 2024  
+[Online](https://ieeexplore.ieee.org/abstract/document/10274626) - <a href="https://infonetlijian.github.io/homepage/PDF_files/2024 - 【IEEE Network】-A_Connectionless_Entanglement_Distribution_Protocol_Design_in_Quantum_Networks.pdf" target="_blank">PDF</a>      
 
 **Enabling In-Network Caching in Traditional IP Networks: Selective Router Upgrades and Cooperative Cache Strategies**
 Jiangping Han, Kaiping Xue*, Jian Li, Jing Zhang, Zixuan Huang, David S. L. Wei      
