@@ -1,4 +1,4 @@
-| [Blog](/homepage/blog/blog.html) | [News](/homepage/) | [CV](/homepage/CV.html) | [Professional Services](/homepage/services.html) | [Publications](/homepage/publications.html) | [Projects](/homepage/projects.html) | [Patents](/homepage/patents.html) | [Teaching](/homepage/teaching.html) |
+| [Blog](/homepage/blog/blog.html) | [News](/homepage/) | [CV](/homepage/CV.html) | [Professional Activities](/homepage/activities.html) | [Publications](/homepage/publications.html) | [Projects](/homepage/projects.html) | [Funding](/homepage/funding.html) | [Patents](/homepage/patents.html) | [Teaching](/homepage/teaching.html) |  
 
 ## <font color=#6EB1EC>简介</font>  
 

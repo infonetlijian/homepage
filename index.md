@@ -19,7 +19,7 @@
 | [News](/homepage/) | [CV](/homepage/CV.html) | [Professional Activities](/homepage/activities.html) | [Publications](/homepage/publications.html) | [Projects](/homepage/projects.html) | [Funding](/homepage/funding.html) | [Patents](/homepage/patents.html) | [Teaching](/homepage/teaching.html) |  
 
 ## <font color=#6EB1EC>News</font>
-- **[Paper]** 2024.5, our paper "FLTracer: Accurate Poisoning Attack Provenance in Federated Learning" is accepted by IEEE Transactions on Information Forensics & Security! 
+- **[Paper]** 2024.5, our paper "A Secure and Efficient Blockchain Sharding Scheme via Hybrid Consensus and Dynamic Management" is accepted by IEEE Transactions on Information Forensics & Security! 
 - **[Paper]** 2024.5, our paper "Efficient Routing Design Based on Entanglement Flow Loss Effect in Quantum Networks" is accepted by International Conference on Quantum Communications, Networking, and Computing (QCNC)! 
 - **[Paper]** 2024.4, our paper "Q-CSKDF: A Continuous and Security Key Derivation Function for Quantum Key Distribution" is accepted by IEEE Network! 
 - **[Paper]** 2024.3, our paper "Opportunistic Content-aware Routing in Satellite-Terrestrial Integrated Networks" is accepted by IEEE Transactions on Mobile Computing! 
