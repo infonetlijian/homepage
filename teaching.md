@@ -20,4 +20,4 @@
 
 ## <font color=#6EB1EC>Courses</font>
 - Network Sercuity Protocol, Spring 2023, [About the Course](http://if.ustc.edu.cn/course). 
--  Computer Networks, Fall 2023, Fall 2024, [About the Course](https://if.ustc.edu.cn/course/course/index.php?categoryid=4)
+- Computer Networks, Fall 2023, Fall 2024, [About the Course](https://if.ustc.edu.cn/course/course/index.php?categoryid=4)

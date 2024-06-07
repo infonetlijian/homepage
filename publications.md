@@ -29,6 +29,7 @@ Mengjie Liu, Jian Li, Hancheng Lu
 **A Secure and Efficient Blockchain Sharding Scheme via Hybrid Consensus and Dynamic Management**  
 Meiqi Li, Xinyi Luo, IEEE, Kaiping Xue*, Yingjie Xue, Wentuo Sun, Jian Li       
 **Transactions on Information Forensics & Security**, 2024   
+[Online](https://ieeexplore.ieee.org/abstract/document/10539974)  
 
 **Efficient Routing Design Based on Entanglement Flow Loss Effect in Quantum Networks**  
 Zhaoying Wang, Jian Li*, Zhonghui Li, Lutong Chen, Nenghai Yu, Qibin Sun and Jun Lu     
@@ -93,7 +94,7 @@ Zhaoying Wang, Jian Li*, Kaiping Xue*, David SL Wei, Ruidong Li, Nenghai Yu, Qib
 **Entanglement-Assisted Quantum Networks: Mechanics, Enabling Technologies, Challenges, and Research Directions**   
 Zhonghui Li, Kaiping Xue*, Jian Li, David S. L. Wei, Ruidong Li, Nenghai Yu, Qibin Sun, Jun Lu  
 **IEEE Communications Surveys and Tutorials**, Volume: 25, Issue: 4, July 2023    
-[Online](https://ieeexplore.ieee.org/abstract/document/10177948) - <a href="https://infonetlijian.github.io/homepage/PDF_files/2023-【IEEE Commun ST】-Entanglement-Assisted_Quantum_Networks_Mechanics_Enabling_Technologies_Challenges_and_Research_Directions" target="_blank">PDF</a> - [arXiv](https://arxiv.org/pdf/2307.12490.pdf)   
+[Online](https://ieeexplore.ieee.org/abstract/document/10177948) - <a href="https://infonetlijian.github.io/homepage/PDF_files/2023-【IEEE_Commun_ST】-Entanglement-Assisted_Quantum_Networks_Mechanics_Enabling_Technologies_Challenges_and_Research_Directions" target="_blank">PDF</a> - [arXiv](https://arxiv.org/pdf/2307.12490.pdf)   
 
 **DECC: Achieving Low Latency in Data Center Networks with Deep Reinforcement Learning**  
 Yi Liu, Jiangping Han*, Kaiping Xue*, Jian Li, Qibin Sun, Jun Lu    
@@ -216,37 +217,37 @@ Kaiping Xue, Xinyi Luo, Hangyu Tian, Jianan Hong, David S.L. Wei, Jian Li*
 **Low Priority Congestion Control for Multipath TCP**  
 Yuan Zhang, Jian Li*, Jiayu Yang, Yitao Xing, Rui Zhuang, Kaiping Xue  
 **2021 IEEE Global Communications Conference (GLOBECOM)**, December 2021      
-[Online](https://ieeexplore.ieee.org/abstract/document/9686024) - <a href="https://infonetlijian.github.io/homepage/PDF_files/2021-Low_Priority_Congestion_Control_for_Multipath_TCP.pdf" target="_blank">PDF</a>  
+[Online](https://ieeexplore.ieee.org/abstract/document/9686024) - <a href="https://infonetlijian.github.io/homepage/PDF_files/2021-【GLOBECOM】-Low_Priority_Congestion_Control_for_Multipath_TCP.pdf" target="_blank">PDF</a>  
 
 **Privacy-Preserving Truth Discovery for Sparse Data in Mobile Crowdsensing Systems**  
 Feng Liu, Bin Zhu, Shaoxian Yuan, Jian Li, Kaiping Xue*   
 **2021 IEEE Global Communications Conference (GLOBECOM)**, December 2021      
-[Online](https://ieeexplore.ieee.org/abstract/document/9685134) - <a href="https://infonetlijian.github.io/homepage/PDF_files/2021-Privacy-Preserving_Truth_Discovery_for_Sparse_Data_in_Mobile_Crowdsensing_Systems.pdf" target="_blank">PDF</a>  
+[Online](https://ieeexplore.ieee.org/abstract/document/9685134) - <a href="https://infonetlijian.github.io/homepage/PDF_files/2021-【GLOBECOM】-Privacy-Preserving_Truth_Discovery_for_Sparse_Data_in_Mobile_Crowdsensing_Systems.pdf" target="_blank">PDF</a>  
 
 **A Fog-Aided Privacy-Preserving Truth Discovery Framework over Crowdsensed Data Streams**  
 Shaoxian Yuan, Bin Zhu, Feng Liu, Jian Li, Kaiping Xue*  
 **2021 IEEE Global Communications Conference (GLOBECOM)**, December 2021      
-[Online](https://ieeexplore.ieee.org/abstract/document/9685817) - <a href="https://infonetlijian.github.io/homepage/PDF_files/2021-A_Fog-Aided_Privacy-Preserving_Truth_Discovery_Framework_over_Crowdsensed_Data_Streams.pdf" target="_blank">PDF</a>  
+[Online](https://ieeexplore.ieee.org/abstract/document/9685817) - <a href="https://infonetlijian.github.io/homepage/PDF_files/2021-【GLOBECOM】-A_Fog-Aided_Privacy-Preserving_Truth_Discovery_Framework_over_Crowdsensed_Data_Streams.pdf" target="_blank">PDF</a>  
 
 **Service Prioritization in Information Centric Networking with Heterogeneous Content Providers**  
 Jin Qin, Kaiping Xue*, Jian Li, Qibin Sun, Jun Lu  
 **IEEE Transactions on Network and Service Management**, Volume: 18, Issue: 4, December 2021    
-[Online](https://ieeexplore.ieee.org/abstract/document/9514612) - <a href="https://infonetlijian.github.io/homepage/PDF_files/2021-Service_Prioritization_in_Information_Centric_Networking_With_Heterogeneous_Content_Providers.pdf" target="_blank">PDF</a>  
+[Online](https://ieeexplore.ieee.org/abstract/document/9514612) - <a href="https://infonetlijian.github.io/homepage/PDF_files/2021-【TNSM】-Service_Prioritization_in_Information_Centric_Networking_With_Heterogeneous_Content_Providers.pdf" target="_blank">PDF</a>  
 
 **Leveraging Coupled BBR and Adaptive Packet Scheduling to Boost MPTCP**  
 Jiangping Han, Kaiping Xue*, Yitao Xing, Jian Li, Wenjia Wei, David S.L. Wei, Guoliang Xue  
 **IEEE Transactions on Wireless Communications**, Volume: 20, Issue: 11, November 2021      
-[Online](https://ieeexplore.ieee.org/abstract/document/9449942) - <a href="https://infonetlijian.github.io/homepage/PDF_files/2021-Leveraging_Coupled_BBR_and_Adaptive_Packet_Scheduling_to_Boost_MPTCP.pdf" target="_blank">PDF</a>  
+[Online](https://ieeexplore.ieee.org/abstract/document/9449942) - <a href="https://infonetlijian.github.io/homepage/PDF_files/2021-【TWC】-Leveraging_Coupled_BBR_and_Adaptive_Packet_Scheduling_to_Boost_MPTCP.pdf" target="_blank">PDF</a>  
 
 **A Low-Latency MPTCP Scheduler for Live Video Streaming in Mobile Networks**  
 Yitao Xing, Kaiping Xue*, Yuan Zhang, Jiangping Han, Jian Li, Jianqing Liu, Ruidong Li   
 **IEEE Transactions on Wireless Communications**, Volume: 20, Issue: 11, November 2021    
-[Online](https://ieeexplore.ieee.org/abstract/document/9440790) - <a href="https://infonetlijian.github.io/homepage/PDF_files/2021-A_Low-Latency_MPTCP_Scheduler_for_Live_Video_Streaming_in_Mobile_Networks.pdf" target="_blank">PDF</a>  
+[Online](https://ieeexplore.ieee.org/abstract/document/9440790) - <a href="https://infonetlijian.github.io/homepage/PDF_files/2021-【TWC】-A_Low-Latency_MPTCP_Scheduler_for_Live_Video_Streaming_in_Mobile_Networks.pdf" target="_blank">PDF</a>  
 
 **Building a Large-Scale and Wide-Area Quantum Internet Based on an OSI-alike Model**  
 Zhonghui Li, Kaiping Xue*, Jian Li, Nenghai Yu, Jianqing Liu, David S.L. Wei, Qibin Sun, Jun Lu  
 **China Communications**, Volume: 18, Issue: 10, October 2021  
-[Online](https://ieeexplore.ieee.org/abstract/document/9597613) - <a href="https://infonetlijian.github.io/homepage/PDF_files/2021-Building_a_large-scale_and_wide-area_quantum_Internet_based_on_an_OSI-alike_model.pdf" target="_blank">PDF</a>  
+[Online](https://ieeexplore.ieee.org/abstract/document/9597613) - <a href="https://infonetlijian.github.io/homepage/PDF_files/2021-【CNCOMM】-Building_a_large-scale_and_wide-area_quantum_Internet_based_on_an_OSI-alike_model.pdf" target="_blank">PDF</a>  
 
 
 

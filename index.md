@@ -19,6 +19,7 @@
 | [News](/homepage/) | [CV](/homepage/CV.html) | [Professional Activities](/homepage/activities.html) | [Publications](/homepage/publications.html) | [Projects](/homepage/projects.html) | [Funding](/homepage/funding.html) | [Patents](/homepage/patents.html) | [Teaching](/homepage/teaching.html) |  
 
 ## <font color=#6EB1EC>News</font>
+- **[Teaching]** 2024.5, my first master student, Jin Tang, has successfully defended his dissertation and get Master's degree! 
 - **[Paper]** 2024.5, our paper "A Secure and Efficient Blockchain Sharding Scheme via Hybrid Consensus and Dynamic Management" is accepted by IEEE Transactions on Information Forensics & Security! 
 - **[Paper]** 2024.5, our paper "Efficient Routing Design Based on Entanglement Flow Loss Effect in Quantum Networks" is accepted by International Conference on Quantum Communications, Networking, and Computing (QCNC)! 
 - **[Paper]** 2024.4, our paper "Q-CSKDF: A Continuous and Security Key Derivation Function for Quantum Key Distribution" is accepted by IEEE Network! 
@@ -64,7 +65,7 @@
 - **[Paper]** 2021.8, our paper "Service Prioritization in Information Centric Networking with Heterogenous Content Providers" is accepted by IEEE Transactions on Network and Service Management!
 - **[Paper]** 2021.8, our papers " Low Priority Congestion Control for Multipath TCP", "Privacy-Preserving Truth Discovery for Sparse Data in Mobile Crowdsensing Systems", "  A Fog-Aided Privacy-Preserving Truth Discovery Framework over Crowdsensed Data Streams" are accepted by IEEE Globecom 2021!
 - **[Paper]** 2021.7, our paper "Build a Large-scale and Wide-area Quantum Internet Based on an OSI-alike Model" is accepted by China Communications!
-- **[Service]** 2021.6, I serve as the session chair (session 14) in IWQoS 2021!
+- **[Activity]** 2021.6, I serve as the session chair (session 14) in IWQoS 2021!
 - **[Paper]** 2021.5, our paper "Leveraging Coupled BBR and Adaptive Packet Scheduling to Boost MPTCP" is accepted by IEEE Transactions on Wireless Communications!
 - **[Paper]** 2021.5, our paper "A Low-Latency MPTCP Scheduler for Live Video Streaming in Mobile Networks" is accepted by IEEE Transactions on Wireless Communications!
 - **[Experience]** 2020.12, I become a PostDoctoral Researcher in University of Science and Technology of China.
