@@ -26,14 +26,18 @@ Mengjie Liu, Jian Li, Hancheng Lu
 
 ## <font color=#6EB1EC>2024</font>
 
+**Pushing the Performance Limits of Datacenter Networks with Fine-grained Priority Assignment**  
+Rui Zhuang, Jiangping Han*, Kaiping Xue*, Jian Li, David S.L. Wei, Ruidong Li, Qibin Sun, Jun Lu   
+**IEEE Transactions on Network Science and Engineering**, 2024   
+
 **A Secure and Efficient Blockchain Sharding Scheme via Hybrid Consensus and Dynamic Management**  
 Meiqi Li, Xinyi Luo, IEEE, Kaiping Xue*, Yingjie Xue, Wentuo Sun, Jian Li       
-**Transactions on Information Forensics & Security**, 2024   
+**IEEE Transactions on Information Forensics & Security**, 2024   
 [Online](https://ieeexplore.ieee.org/abstract/document/10539974)  
 
 **Efficient Routing Design Based on Entanglement Flow Loss Effect in Quantum Networks**  
 Zhaoying Wang, Jian Li*, Zhonghui Li, Lutong Chen, Nenghai Yu, Qibin Sun and Jun Lu     
-**International Conference on Quantum Communications, Networking, and Computing (QCNC 2024)**, 2024   
+**IEEE International Conference on Quantum Communications, Networking, and Computing (QCNC 2024)**, 2024   
 
 **Cooperative Caching in Satellite-Terrestrial Integrated Networks: A Region Features aware Approach**  
 Jin Tang, Jian Li*, Xianhao Chen, Kaiping Xue, Lan Zhang, Qibin Sun, Jun Lu      
