@@ -18,17 +18,16 @@
 
 | [News](/homepage/) | [CV](/homepage/CV.html) | [Professional Activities](/homepage/activities.html) | [Publications](/homepage/publications.html) | [Projects](/homepage/projects.html) | [Funding](/homepage/funding.html) | [Patents](/homepage/patents.html) | [Teaching](/homepage/teaching.html) |  
 
-## <font color=#6EB1EC>Bio</font>  
+## <font color=#6EB1EC>Bio</font>
 
 Jian Li received his bachelor's degree from the Department of Electronics and Information Engineering, Anhui University, in 2015, and received doctor's degree from the Department of Electronic Engineering and Information Science (EEIS), University of Science and Technology of China (USTC), in 2020. From Nov. 2019 to Nov. 2020, he was a visiting scholar with the Department of Electronic and Computer Engineering, University of Florida. From Dec. 2020 to Dec. 2022, he was a Post-Doctoral researcher with the School of Cyber Science and Technology, USTC. He is currently an associate researcher with the School of Cyber Science and Technology, USTC. He serves as an Editor of China Communications. His research interests include quantum networking, wireless networks, and next-generation Internet. 
 
 ## <font color=#6EB1EC>Research Interests</font>
-* Wireless networks: Key technologies in 5G/B5G cellular system, radio access networks, satellite-terrestrial integrated networks  
-* Quantum networks: quantum key distribution networks, quantum internet  
-* The next generation network architecture  
+* Wireless networks
+* Quantum networks  
 * Network security   
 
-## <font color=#6EB1EC>Experience</font>  
+## <font color=#6EB1EC>Experience</font>
 * School of Cyber Science and Technology, 2022.11 - Current  
   * Associate Researcher   
   * University of Science and Technology of China, Hefei, China  
@@ -45,7 +44,7 @@ Jian Li received his bachelor's degree from the Department of Electronics and In
   * Supervisor: [Prof. Yuguang Fang](http://www.fang.ece.ufl.edu/) (IEEE Fellow, AAAS Fellow)  
   
 
-## <font color=#6EB1EC>Education</font>   
+## <font color=#6EB1EC>Education</font>
 * Ph.D in University of Science and Technology of China, 2015.09 - 2020.12  
   * Major: Information and Communication System  
   * Supervisor: Prof. Yongdong Zhang / Prof. [Kaiping Xue](http://staff.ustc.edu.cn/~kpxue/)  

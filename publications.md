@@ -29,6 +29,7 @@ Mengjie Liu, Jian Li, Hancheng Lu
 **Pushing the Performance Limits of Datacenter Networks with Fine-grained Priority Assignment**  
 Rui Zhuang, Jiangping Han*, Kaiping Xue*, Jian Li, David S.L. Wei, Ruidong Li, Qibin Sun, Jun Lu   
 **IEEE Transactions on Network Science and Engineering**, 2024   
+[Online](https://ieeexplore.ieee.org/abstract/document/10599832)  
 
 **A Secure and Efficient Blockchain Sharding Scheme via Hybrid Consensus and Dynamic Management**  
 Meiqi Li, Xinyi Luo, IEEE, Kaiping Xue*, Yingjie Xue, Wentuo Sun, Jian Li       
@@ -217,7 +218,7 @@ Kaiping Xue, Xinyi Luo, Hangyu Tian, Jianan Hong, David S.L. Wei, Jian Li*
 **IEEE Transactions on Vehicular Technology**, Volume: 71, Issue: 3, March 2022   
 [Online](https://ieeexplore.ieee.org/abstract/document/9663019) - <a href="https://infonetlijian.github.io/homepage/PDF_files/2022-【TVT】-A_Blockchain_Based_User_Subscription_Data_Management_and_Access_Control_Scheme_in_Mobile_Communication_Networks.pdf" target="_blank">PDF</a>  
 
-## <font color=#6EB1EC>2021</font>  
+## <font color=#6EB1EC>2021</font>
 **Low Priority Congestion Control for Multipath TCP**  
 Yuan Zhang, Jian Li*, Jiayu Yang, Yitao Xing, Rui Zhuang, Kaiping Xue  
 **2021 IEEE Global Communications Conference (GLOBECOM)**, December 2021      

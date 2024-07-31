@@ -22,7 +22,7 @@
 * Editor of [China Communications](http://www.cic-chinacommunications.cn/EN/column/column12.shtml), since Feb. 2023
 
 ## <font color=#6EB1EC>Organizing Committee</font>
-* Session Chair, IEEE International Conference on Quantum Communications, Networking, and Computing ([QCNC()), 2024  
+* Session Chair, IEEE International Conference on Quantum Communications, Networking, and Computing ([QCNC](https://www.ieee-qcnc.org/2024/)), 2024  
 * Session Chair (CISS 15 and IS 17), IEEE Global Communications Conference ([GLOBECOM](https://globecom2023.ieee-globecom.org/technical-program#S1569622219)), 2023  
 * Session Chair (Session 14), IEEE/ACM International Symposium on Quality of Service ([IWQoS](https://iwqos2023.ieee-iwqos.org/)), 2021  
 
