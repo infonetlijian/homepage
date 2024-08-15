@@ -26,6 +26,10 @@ Mengjie Liu, Jian Li, Hancheng Lu
 
 ## <font color=#6EB1EC>2024</font>
 
+**Purification Scheduling Control for Throughput Maximization in Quantum Networks**  
+Zirui Xiao, Jian Li, Kaiping Xue*, Nenghai Yu, Ruidong Li, Qibin Sun, Jun Lu   
+**Communications Physics**, 2024   
+
 **Pushing the Performance Limits of Datacenter Networks with Fine-grained Priority Assignment**  
 Rui Zhuang, Jiangping Han*, Kaiping Xue*, Jian Li, David S.L. Wei, Ruidong Li, Qibin Sun, Jun Lu   
 **IEEE Transactions on Network Science and Engineering**, 2024   

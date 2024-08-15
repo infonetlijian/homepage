@@ -27,6 +27,7 @@
 * Session Chair (Session 14), IEEE/ACM International Symposium on Quality of Service ([IWQoS](https://iwqos2023.ieee-iwqos.org/)), 2021  
 
 ## <font color=#6EB1EC>Technical Program Committee (TPC)</font>
+* PC Member,  IEEE Wireless Communications and Signal Processing ([WCSP](http://www.ic-wcsp.org/2024/)), 2024  
 * PC Member,  IEEE Global Communications Conference ([GLOBECOM](https://globecom2024.ieee-globecom.org/)), 2024  
 * PC Member, IEEE International Conference on Quantum Computing and Engineering ([QCE](https://qce.quantum.ieee.org/2024/)), 2024  
 * PC Member, IEEE International Conference on Quantum Communications, Networking, and Computing ([QCNC](https://www.ieee-qcnc.org/2024/index.php)), 2024  
