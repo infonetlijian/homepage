@@ -19,12 +19,12 @@
 | [News](/homepage/) | [CV](/homepage/CV.html) | [Professional Activities](/homepage/activities.html) | [Publications](/homepage/publications.html) | [Projects](/homepage/projects.html) | [Funding](/homepage/funding.html) | [Patents](/homepage/patents.html) | [Teaching](/homepage/teaching.html) |  
 
 ## <font color=#6EB1EC>News</font>
-- **[Contest]** 2024.8, our team receive Second Class Prize in the Seventennth National College Student Information Security Contest (2024)!\[[News](http://news.ustc.edu.cn/info/1055/88618.htm)\]
+- **[Contest]** 2024.8, our team receive Second Class Prize in the Seventennth National College Student Information Security Contest (2024-第十七届全国大学生信息安全竞赛 -—作品赛)!\[[News](http://news.ustc.edu.cn/info/1055/88618.htm)\]
 - **[Paper]** 2024.8, our paper "Purification Scheduling Control for Throughput Maximization in Quantum Networks" is accepted by Communications Physics!
 - **[Paper]** 2024.8, our paper "Adaptive Multi-source Multi-path Congestion Control for Named Data Networking" is accepted by IEEE/ACM Transactions on Networking!
 - **[Paper]** 2024.7, our paper "Pushing the Performance Limits of Datacenter Networks with Fine-grained Priority Assignment" is accepted by IEEE Transactions on Network Science and Engineering!
 - **[Teaching]** 2024.5, my first master student, Jin Tang, has successfully defended his dissertation and get Master's degree! 
-- **[Contest]** 2024.5, our team receive Winning Prize in the Sixth USTC Innovation and Entrepreneurship Competition (2024)!\[[News](https://sie.ustc.edu.cn/2024/0520/c23907a641406/page.htm)\]\[[Link](https://www.ustc.edu.cn/info/1364/21344.htm)\]
+- **[Contest]** 2024.5, our team receive Winning Prize in the Sixth USTC Innovation and Entrepreneurship Competition (2024-第六届“中国科大庆峰杯”创新创业大赛)!\[[News](https://sie.ustc.edu.cn/2024/0520/c23907a641406/page.htm)\]\[[Link](https://www.ustc.edu.cn/info/1364/21344.htm)\]
 - **[Paper]** 2024.5, our paper "A Secure and Efficient Blockchain Sharding Scheme via Hybrid Consensus and Dynamic Management" is accepted by IEEE Transactions on Information Forensics & Security! 
 - **[Paper]** 2024.5, our paper "Efficient Routing Design Based on Entanglement Flow Loss Effect in Quantum Networks" is accepted by International Conference on Quantum Communications, Networking, and Computing (QCNC)! 
 - **[Paper]** 2024.4, our paper "Q-CSKDF: A Continuous and Security Key Derivation Function for Quantum Key Distribution" is accepted by IEEE Network! 
