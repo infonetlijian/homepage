@@ -20,15 +20,17 @@
 
 ## <font color=#6EB1EC>Preprints</font>
 
-**Routing in Small Satellite Networks: A GNN-based Learning Approach**  
-Mengjie Liu, Jian Li, Hancheng Lu  
-[arXiv](https://arxiv.org/abs/2108.08523)
+
 
 ## <font color=#6EB1EC>2024</font>
 
 **Purification Scheduling Control for Throughput Maximization in Quantum Networks**  
 Zirui Xiao, Jian Li, Kaiping Xue*, Nenghai Yu, Ruidong Li, Qibin Sun, Jun Lu   
 **Communications Physics**, 2024   
+
+**Adaptive Multi-source Multi-path Congestion Control for Named Data Networking**  
+Jiayu Yang, Yuxin Chen, Kaiping Xue*, Jiangping Han*, Jian Li, Ruidong Li, Qibin Sun, Jun Lu   
+**IEEE/ACM Transactions on Networking**, 2024   
 
 **Pushing the Performance Limits of Datacenter Networks with Fine-grained Priority Assignment**  
 Rui Zhuang, Jiangping Han*, Kaiping Xue*, Jian Li, David S.L. Wei, Ruidong Li, Qibin Sun, Jun Lu   
@@ -258,7 +260,9 @@ Zhonghui Li, Kaiping Xue*, Jian Li, Nenghai Yu, Jianqing Liu, David S.L. Wei, Qi
 **China Communications**, Volume: 18, Issue: 10, October 2021  
 [Online](https://ieeexplore.ieee.org/abstract/document/9597613) - <a href="https://infonetlijian.github.io/homepage/PDF_files/2021-【CNCOMM】-Building_a_large-scale_and_wide-area_quantum_Internet_based_on_an_OSI-alike_model.pdf" target="_blank">PDF</a>  
 
-
+**Routing in Small Satellite Networks: A GNN-based Learning Approach**  
+Mengjie Liu, Jian Li, Hancheng Lu  
+[arXiv](https://arxiv.org/abs/2108.08523)
 
 ## <font color=#6EB1EC>2016-2020</font>
 

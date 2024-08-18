@@ -43,7 +43,7 @@
 
 
 ## <font color=#6EB1EC>Reviewers</font>
-* **Journals:**  IEEE Transactions on Networking ([ToN](https://mc.manuscriptcentral.com/tnet-ieee)), IEEE Transactions on Communications ([TCOM](https://mc.manuscriptcentral.com/tCOM)), IEEE Transactions on Vehicular Technology ([TVT](https://mc.manuscriptcentral.com/tvt-ieee)), IEEE Transactions on Wireless Computing ([TWC](https://mc.manuscriptcentral.com/twc)), IEEE Transactions on Network and Service Management ([TNSM](https://mc.manuscriptcentral.com/tnsm))
+* **Journals:**  IEEE Journal on Selected Areas in Communications (JSAC), IEEE Transactions on Networking ([ToN](https://mc.manuscriptcentral.com/tnet-ieee)), IEEE Transactions on Communications ([TCOM](https://mc.manuscriptcentral.com/tCOM)), IEEE Transactions on Vehicular Technology ([TVT](https://mc.manuscriptcentral.com/tvt-ieee)), IEEE Transactions on Wireless Computing ([TWC](https://mc.manuscriptcentral.com/twc)), IEEE Transactions on Network and Service Management ([TNSM](https://mc.manuscriptcentral.com/tnsm))
 * **Magazines:**  [IEEE Wireless Communications](https://mc.manuscriptcentral.com/ieee-wcm), [IEEE Communications Magazine](https://mc.manuscriptcentral.com/commag-ieee), [IEEE Network](https://mc.manuscriptcentral.com/network-ieee)
 * **Conferences:**  IEEE INFOCOM Poster, IEEE Globecom, IEEE ICC
 
