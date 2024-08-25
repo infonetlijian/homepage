@@ -24,6 +24,10 @@
 
 ## <font color=#6EB1EC>2024</font>
 
+**SLP: A Secure and Lightweight Scheme against Content Poisoning Attacks in Named Data Networking Based on Probing**  
+Jiayu Yang, Yuxin Chen, Kaiping Xue*, Jiangping Han*, Jian Li, Ruidong Li, Qibin Sun, Jun Lu   
+**IEEE/ACM Transactions on Networking**, 2024   
+
 **Purification Scheduling Control for Throughput Maximization in Quantum Networks**  
 Zirui Xiao, Jian Li, Kaiping Xue*, Nenghai Yu, Ruidong Li, Qibin Sun, Jun Lu   
 **Communications Physics**, 2024   
@@ -45,6 +49,11 @@ Meiqi Li, Xinyi Luo, IEEE, Kaiping Xue*, Yingjie Xue, Wentuo Sun, Jian Li
 **Efficient Routing Design Based on Entanglement Flow Loss Effect in Quantum Networks**  
 Zhaoying Wang, Jian Li*, Zhonghui Li, Lutong Chen, Nenghai Yu, Qibin Sun and Jun Lu     
 **IEEE International Conference on Quantum Communications, Networking, and Computing (QCNC 2024)**, 2024   
+
+**ProactMP: A Proactive Multipath Transport Protocol for Low-Latency Datacenters**  
+Rui Zhuang, Jiangping Han*, Kaiping Xue*, Jian Li, Qibin Sun, Jun Lu   
+**IEEE Transactions on Network and Service Management**, 2024   
+[Online](https://ieeexplore.ieee.org/abstract/document/10527375)  
 
 **Cooperative Caching in Satellite-Terrestrial Integrated Networks: A Region Features aware Approach**  
 Jin Tang, Jian Li*, Xianhao Chen, Kaiping Xue, Lan Zhang, Qibin Sun, Jun Lu      

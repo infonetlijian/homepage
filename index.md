@@ -27,6 +27,7 @@
 - **[Contest]** 2024.5, our team receive Winning Prize in the Sixth USTC Innovation and Entrepreneurship Competition (2024-第六届“中国科大庆峰杯”创新创业大赛)!\[[News](https://sie.ustc.edu.cn/2024/0520/c23907a641406/page.htm)\]\[[Link](https://www.ustc.edu.cn/info/1364/21344.htm)\]
 - **[Paper]** 2024.5, our paper "A Secure and Efficient Blockchain Sharding Scheme via Hybrid Consensus and Dynamic Management" is accepted by IEEE Transactions on Information Forensics & Security! 
 - **[Paper]** 2024.5, our paper "Efficient Routing Design Based on Entanglement Flow Loss Effect in Quantum Networks" is accepted by International Conference on Quantum Communications, Networking, and Computing (QCNC)! 
+- **[Paper]** 2024.5, our paper "ProactMP: A Proactive Multipath Transport Protocol for Low-Latency Datacenters" is accepted by IEEE Transactions on Network and Service Management! 
 - **[Paper]** 2024.4, our paper "Q-CSKDF: A Continuous and Security Key Derivation Function for Quantum Key Distribution" is accepted by IEEE Network! 
 - **[Paper]** 2024.3, our paper "Opportunistic Content-aware Routing in Satellite-Terrestrial Integrated Networks" is accepted by IEEE Transactions on Mobile Computing! 
 - **[Paper]** 2024.2, our paper "Cooperative Caching in Satellite-Terrestrial Integrated Networks: A Region Features aware Approach" is accepted by IEEE Transactions on Vehicular Technology! 
