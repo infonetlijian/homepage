@@ -17,6 +17,7 @@
 ***
 
 | [News](/homepage/) | [CV](/homepage/CV.html) | [Professional Activities](/homepage/activities.html) | [Publications](/homepage/publications.html) | [Projects](/homepage/projects.html) | [Funding](/homepage/funding.html) | [Patents](/homepage/patents.html) | [Teaching](/homepage/teaching.html) |  
+  
 
 ## <font color=#6EB1EC>Preprints</font>
 
@@ -24,60 +25,73 @@
 
 ## <font color=#6EB1EC>2024</font>
 
+**NarrowGap: Reducing Bottlenecks for End-to-end Entanglement Distribution in Quantum Networks**  
+Zhonghui Li, Jian Li*, Kaiping Xue*, Lutong Chen, Nenghai Yu, Qibin Sun, Jun Lu   
+**IEEE/ACM Transactions on Networking**, 2024   
+
+**PLMS: A Packet Loss Memory-Based Transmission Enhancement Scheme for GEO Satellite Networks**  
+Qiuqing Long, Yuanxin Yan, Jian Li*, Jiangping Han, Jin Tang, Kaiping Xue
+**International Conference on Wireless Communications and Signal Processing (WCSP 2024)**, 2024   
+
 **SLP: A Secure and Lightweight Scheme against Content Poisoning Attacks in Named Data Networking Based on Probing**  
 Jiayu Yang, Yuxin Chen, Kaiping Xue*, Jiangping Han*, Jian Li, Ruidong Li, Qibin Sun, Jun Lu   
 **IEEE/ACM Transactions on Networking**, 2024   
+[Online](https://ieeexplore.ieee.org/abstract/document/10666821) 
 
 **Purification Scheduling Control for Throughput Maximization in Quantum Networks**  
 Zirui Xiao, Jian Li, Kaiping Xue*, Nenghai Yu, Ruidong Li, Qibin Sun, Jun Lu   
 **Communications Physics**, 2024   
+[Online](https://www.nature.com/articles/s42005-024-01796-2) - <a href="https://infonetlijian.github.io/homepage/PDF_files/2024-【ComPhys】-Purification scheduling control for throughput maximization in quantum networks.pdf" target="_blank">PDF</a>      
 
 **Adaptive Multi-source Multi-path Congestion Control for Named Data Networking**  
 Jiayu Yang, Yuxin Chen, Kaiping Xue*, Jiangping Han*, Jian Li, Ruidong Li, Qibin Sun, Jun Lu   
 **IEEE/ACM Transactions on Networking**, 2024   
+[Online](https://ieeexplore.ieee.org/abstract/document/10653687)  
 
 **Pushing the Performance Limits of Datacenter Networks with Fine-grained Priority Assignment**  
 Rui Zhuang, Jiangping Han*, Kaiping Xue*, Jian Li, David S.L. Wei, Ruidong Li, Qibin Sun, Jun Lu   
 **IEEE Transactions on Network Science and Engineering**, 2024   
-[Online](https://ieeexplore.ieee.org/abstract/document/10599832)  
+[Online](https://ieeexplore.ieee.org/abstract/document/10599832) - <a href="https://infonetlijian.github.io/homepage/PDF_files/2024-【QCNC】-Efficient_Routing_Design_Based_on_Entanglement_Flow_Loss_Effect_in_Quantum_Networks.pdf" target="_blank">PDF</a>   
 
 **A Secure and Efficient Blockchain Sharding Scheme via Hybrid Consensus and Dynamic Management**  
 Meiqi Li, Xinyi Luo, IEEE, Kaiping Xue*, Yingjie Xue, Wentuo Sun, Jian Li       
-**IEEE Transactions on Information Forensics & Security**, 2024   
-[Online](https://ieeexplore.ieee.org/abstract/document/10539974)  
+**IEEE Transactions on Information Forensics & Security**, Volume: 19, 2024   
+[Online](https://ieeexplore.ieee.org/abstract/document/10539974) - <a href="https://infonetlijian.github.io/homepage/PDF_files/2024-【TIFS】-A_Secure_and_Efficient_Blockchain_Sharding_Scheme_via_Hybrid_Consensus_and_Dynamic_Management.pdf" target="_blank">PDF</a>   
 
 **Efficient Routing Design Based on Entanglement Flow Loss Effect in Quantum Networks**  
 Zhaoying Wang, Jian Li*, Zhonghui Li, Lutong Chen, Nenghai Yu, Qibin Sun and Jun Lu     
-**IEEE International Conference on Quantum Communications, Networking, and Computing (QCNC 2024)**, 2024   
+**IEEE International Conference on Quantum Communications, Networking, and Computing (QCNC 2024)**, July 2024    
+[Online](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10628434) - <a href="https://infonetlijian.github.io/homepage/PDF_files/2024-【QCNC】-Efficient_Routing_Design_Based_on_Entanglement_Flow_Loss_Effect_in_Quantum_Networks.pdf" target="_blank">PDF</a> 
 
 **ProactMP: A Proactive Multipath Transport Protocol for Low-Latency Datacenters**  
 Rui Zhuang, Jiangping Han*, Kaiping Xue*, Jian Li, Qibin Sun, Jun Lu   
-**IEEE Transactions on Network and Service Management**, 2024   
-[Online](https://ieeexplore.ieee.org/abstract/document/10527375)  
+**IEEE Transactions on Network and Service Management**, Volume: 21, Issue: 4, August 2024    
+[Online](https://ieeexplore.ieee.org/abstract/document/10527375) - <a href="https://infonetlijian.github.io/homepage/PDF_files/2024-【TNSM】-ProactMP_A_Proactive_Multipath_Transport_Protocol_for_Low-Latency_Datacenters.pdf" target="_blank">PDF</a>    
 
 **Cooperative Caching in Satellite-Terrestrial Integrated Networks: A Region Features aware Approach**  
 Jin Tang, Jian Li*, Xianhao Chen, Kaiping Xue, Lan Zhang, Qibin Sun, Jun Lu      
-**IEEE Transactions on Vehicular Technology**, 2024  
-[Online](https://ieeexplore.ieee.org/abstract/document/10444050)  
+**IEEE Transactions on Vehicular Technology**, Volume: 73, Issue: 7, July 2024   
+[Online](https://ieeexplore.ieee.org/abstract/document/10444050) - <a href="https://infonetlijian.github.io/homepage/PDF_files/2024-【TVT】-Cooperative_Caching_in_Satellite-Terrestrial_Integrated_Networks_A_Region_Features_Aware_Approach.pdf" target="_blank">PDF</a>    
 
 **Opportunistic Content-aware Routing in Satellite-Terrestrial Integrated Networks**  
 Jin Tang, Jian Li*, Lan Zhang, Xianhao Chen, Kaiping Xue, Qibin Sun, Jun Lu      
-**IEEE Transactions on Mobile Computing**, 2024  
-[Online](https://ieeexplore.ieee.org/abstract/document/10473075)  
+**IEEE Transactions on Mobile Computing**, Volume: 23, Issue: 11, November 2024   
+[Online](https://ieeexplore.ieee.org/abstract/document/10473075) - <a href="https://infonetlijian.github.io/homepage/PDF_files/2024-【TMC】-Opportunistic_Content-Aware_Routing_in_Satellite-Terrestrial_Integrated_Networks.pdf" target="_blank">PDF</a>    
 
 **Q-CSKDF: A Continuous and Security Key Derivation Function for Quantum Key Distribution**  
 Lutong Chen, Kaiping Xue*, Jian Li, Zhonghui Li, Nenghai Yu      
-**IEEE Network**, 2024  
-[Online](https://ieeexplore.ieee.org/abstract/document/10517672)   
+**IEEE Network**, Volume: 38, Issue: 5, September 2024   
+[Online](https://ieeexplore.ieee.org/abstract/document/10517672)  - <a href="https://infonetlijian.github.io/homepage/PDF_files/2024-【IEEE Network】-Q-CSKDF_A_Continuous_and_Security_Key_Derivation_Function_for_Quantum_Key_Distribution.pdf" target="_blank">PDF</a>    
 
 **REDP: Reliable Entanglement Distribution Protocol Design for Large-scale Quantum Networks**  
 Lutong Chen, Kaiping Xue*, Jian Li, Zhonghui Li, Ruidong Li, Nenghai Yu, Qibin Sun, Jun Lu      
-**IEEE Journal on Seclected Areas in Communications**, 2024  
-[Online](https://ieeexplore.ieee.org/abstract/document/10477626)  
+**IEEE Journal on Seclected Areas in Communications**, Volume: 42, Issue: 7, July 2024  
+[Online](https://ieeexplore.ieee.org/abstract/document/10477626) - <a href="https://infonetlijian.github.io/homepage/PDF_files/2024-【JSAC】-REDP_Reliable_Entanglement_Distribution_Protocol_Design_for_Large-Scale_Quantum_Networks.pdf" target="_blank">PDF</a>  
 
 **A Distributed Routing Protocol Based on Key Reservation in Quantum Key Distribution Networks**  
 Jiaqi Wu, Lutong Chen, Jing Zhang, Zixuan Huang, Zhonghui Li, Jian Li*, Kaiping Xue*, Nenghai Yu       
-**IEEE International Conference on Communications (ICC 2024)**, 2024  
+**IEEE International Conference on Communications (ICC 2024)**, June 2024 
+[Online](https://ieeexplore.ieee.org/abstract/document/10622992) - <a href="https://infonetlijian.github.io/homepage/PDF_files/2024-【ICC】-A_Distributed_Routing_Protocol_Based_on_Key_Reservation_in_Quantum_Key_Distribution_Networks.pdf" target="_blank">PDF</a>  
 
 ## <font color=#6EB1EC>2023</font>
 
@@ -88,8 +102,8 @@ Lutong Chen, Kaiping Xue*, Jian Li*, Zhonghui Li, Ruidong Li, Nenghai Yu, Qibin 
 
 **Volume-Hiding Range Searchable Symmetric Encryption for Large-Scale Datasets**  
 Feng Liu, Kaiping Xue*, Jinjiang Yang, Jing Zhang, Zixuan Huang, Jian Li, David S. L. Wei      
-**IEEE Transactions on Dependable and Secure Computing**, Accepted  
-[Online](https://ieeexplore.ieee.org/abstract/document/10324376)   
+**IEEE Transactions on Dependable and Secure Computing**, Volume: 21, Issue: 4, July-Aug. 2024    
+[Online](https://ieeexplore.ieee.org/abstract/document/10324376) - <a href="https://infonetlijian.github.io/homepage/PDF_files/2024-【TDSC】-Volume-Hiding_Range_Searchable_Symmetric_Encryption_for_Large-Scale_Datasets.pdf" target="_blank">PDF</a>      
 
 **FMPTCP: Achieving High Bandwidth Utilization and Low Latency in Data Center Networks**  
 Jiangping Han, Kaiping Xue*, Jian Li, Yitao Xing, Ruozhou Yu, David S. L. Wei, Guoliang Xue      

@@ -19,6 +19,8 @@
 | [News](/homepage/) | [CV](/homepage/CV.html) | [Professional Activities](/homepage/activities.html) | [Publications](/homepage/publications.html) | [Projects](/homepage/projects.html) | [Funding](/homepage/funding.html) | [Patents](/homepage/patents.html) | [Teaching](/homepage/teaching.html) |  
 
 ## <font color=#6EB1EC>News</font>
+- **[Paper]** 2024.10, our paper "NarrowGap: Reducing Bottlenecks for End-to-end Entanglement Distribution in Quantum Networks" is accepted by IEEE/ACM Transactions on Networking!
+- **[Paper]** 2024.9, our paper "PLMS: A Packet Loss Memory-Based Transmission Enhancement Scheme for GEO Satellite Networks" is accepted by International Conference on Wireless Communications and Signal Processing (WCSP 2024)!
 - **[Contest]** 2024.8, our team receive Second Class Prize in the Seventennth National College Student Information Security Contest (2024-第十七届全国大学生信息安全竞赛 -—作品赛)!\[[News](http://news.ustc.edu.cn/info/1055/88618.htm)\]
 - **[Paper]** 2024.8, our paper "Purification Scheduling Control for Throughput Maximization in Quantum Networks" is accepted by Communications Physics!
 - **[Paper]** 2024.8, our paper "Adaptive Multi-source Multi-path Congestion Control for Named Data Networking" is accepted by IEEE/ACM Transactions on Networking!
