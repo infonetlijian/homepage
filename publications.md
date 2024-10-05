@@ -25,9 +25,9 @@
 
 ## <font color=#6EB1EC>2024</font>
 
-**NarrowGap: Reducing Bottlenecks for End-to-end Entanglement Distribution in Quantum Networks**  
-Zhonghui Li, Jian Li*, Kaiping Xue*, Lutong Chen, Nenghai Yu, Qibin Sun, Jun Lu   
-**IEEE/ACM Transactions on Networking**, 2024   
+NarrowGap: Reducing Bottlenecks for End-to-end Entanglement Distribution in Quantum Networks  
+Zhonghui Li, **Jian Li\***, Kaiping Xue*, Lutong Chen, Nenghai Yu, Qibin Sun, Jun Lu   
+IEEE/ACM Transactions on Networking, 2024   
 
 **PLMS: A Packet Loss Memory-Based Transmission Enhancement Scheme for GEO Satellite Networks**  
 Qiuqing Long, Yuanxin Yan, Jian Li*, Jiangping Han, Jin Tang, Kaiping Xue
