@@ -1,0 +1,12 @@
+---
+layout: default
+---
+<div class="container">
+  {% for pub in page.publications %}
+    {% include widgets/publication_item.html 
+       item=pub 
+       first=forloop.first 
+       last=forloop.last 
+       hide_bottom_border=forloop.last %}
+  {% endfor %}
+</div>

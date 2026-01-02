@@ -1,0 +1,351 @@
+- id: sun2025loopy
+  title: 'Loopy QUIC: DNS–QUIC Cross-Protocol Traffic Amplification for Denial-of-Service Attacks'
+  date: '2025-11-22'
+  type: journal
+  publisher: IEEE Transactions on Networking (Under Review)
+  abbr: TMC
+  year: 2025
+  authors:
+  - Jiasi Sun
+  - Kaiping Xue* 
+  - Xuanbo Huang
+  - Lutong Chen*
+  - Jian Li
+  - David S.L. Wei
+  selected: false
+  tags: []
+  links:
+  - name: DOI
+    url: ''
+  - name: PDF
+    url: ''
+  - name: Code
+    url: ''
+  - name: BibTeX
+    url: ''
+  - name: GB/T 7714
+    url: ''
+- id: ding2025puf
+  title: 'PUF-Based Lightweight Decentralized Authentication for UAV Networks'
+  date: '2025-11-20'
+  type: journal
+  publisher: IEEE Transactions on Mobile Computing (Under Review)
+  abbr: TMC
+  year: 2025
+  authors:
+  - Lei Ding
+  - Kaiping Xue* 
+  - Mingrui Ai
+  - Yingjie Xue*
+  - Lutong Chen
+  - Jian Li
+  - David S.L. Wei
+  selected: false
+  tags: []
+  links:
+  - name: DOI
+    url: ''
+  - name: PDF
+    url: ''
+  - name: Code
+    url: ''
+  - name: BibTeX
+    url: ''
+  - name: GB/T 7714
+    url: ''
+- id: 2025dynnet
+  title: 'DynNet: A Lightweight Distributed Framework for Topology Obfuscation in Dynamic Networks'
+  date: '2025-11-19'
+  type: journal
+  publisher: IEEE Transactions on Network Science and Engineering (Under Review)
+  abbr: TNSE
+  year: 2025
+  authors:
+  - Xuanbo Huang 
+  - Kaiping Xue* 
+  - Lutong Chen
+  - Zixu Huang 
+  - Jian Li
+  - Hyundong Shin*
+  selected: false
+  tags: []
+  links:
+  - name: DOI
+    url: ''
+  - name: PDF
+    url: ''
+  - name: Code
+    url: ''
+  - name: BibTeX
+    url: ''
+  - name: GB/T 7714
+    url: ''
+- id: li2025tree
+  title: 'Tree-based Networking Scheme: Towards Future Large-scale Quantum Local Area Networks with High Entanglement Connectivity'
+  date: '2025-08-15'
+  type: journal
+  publisher: IEEE Journal on Selected Areas in Communications (Under Review)
+  abbr: JSAC
+  year: 2025
+  authors:
+  - Zhonghui Li
+  - Yang Yang*
+  - Jian Li*
+  - Kaiping Xue
+  selected: false
+  tags: []
+  links:
+  - name: DOI
+    url: ''
+  - name: PDF
+    url: ''
+  - name: Code
+    url: ''
+  - name: BibTeX
+    url: ''
+  - name: GB/T 7714
+    url: ''
+- id: ding2025mcm
+  title: 'MCM: Multi-faceted and Continuous Mitigation Cache Pollution Attacks in Named Data Networking'
+  date: '2025-08-10'
+  type: journal
+  publisher: IEEE/ACM Transactions on Networking (Under Review)
+  abbr: ToN
+  year: 2025
+  authors:
+  - Kunpeng Ding
+  - Kaiping Xue*
+  - Jiangping Han
+  - Jiayu Yang
+  - Jian Li
+  selected: false
+  tags: []
+  links:
+  - name: DOI
+    url: ''
+  - name: PDF
+    url: ''
+  - name: Code
+    url: ''
+  - name: BibTeX
+    url: ''
+  - name: GB/T 7714
+    url: ''
+- id: huang2025deepetc
+  title: 'DeepETC: An Adaptive and Generalized Framework for Encrypted Traffic Classification'
+  date: '2025-08-01'
+  type: journal
+  publisher: IEEE Transactions on Networking (Under Review)
+  abbr: ToN
+  year: 2025
+  authors:
+  - Zixu Huang
+  - Lutong Chen
+  - Dongfang Hu 
+  - Jian Li*
+  - Kaiping Xue*
+  selected: false
+  tags: []
+  links:
+  - name: DOI
+    url: ''
+  - name: PDF
+    url: ''
+  - name: Code
+    url: ''
+  - name: BibTeX
+    url: ''
+  - name: GB/T 7714
+    url: ''
+- id: xue2025hybrid
+  title: 'HybridED: A Hybrid Entanglement Distribution Design for Efficient Quantum Teleportation in Quantum Communication Networks'
+  date: '2025-07-27'
+  type: journal
+  publisher: IEEE Transactions on Communications (Under Review)
+  abbr: TCOM
+  year: 2025
+  authors:
+  - Kaiping Xue*
+  - Zirui Xiao
+  - Zhonghui Li 
+  - Jian Li*
+  - Lutong Chen
+  - Ruidong Li
+  selected: false
+  tags: []
+  links:
+  - name: DOI
+    url: ''
+  - name: PDF
+    url: ''
+  - name: Code
+    url: ''
+  - name: BibTeX
+    url: ''
+  - name: GB/T 7714
+    url: ''
+- id: zheng2025towards
+  title: 'Towards an Adaptive Multi-user Quantum Key Distribution Network'
+  date: '2025-06-01'
+  type: journal
+  publisher: Physical Review A (Under Review)
+  abbr: PRA
+  year: 2025
+  authors:
+  - Peng Zheng#
+  - Wei-Xin Xie#
+  - Zhonghui Li
+  - Jian Li*
+  - Kaiping Xue*
+  - Guan-Jie Fan-Yuan*
+  - Shuang Wang
+  - Wei Chen
+  - Nenghai Yu
+  - Guang-Can Guo
+  - Zheng-Fu Han
+  selected: false
+  tags: []
+  links:
+  - name: DOI
+    url: ''
+  - name: PDF
+    url: ''
+  - name: Code
+    url: ''
+  - name: BibTeX
+    url: ''
+  - name: GB/T 7714
+    url: ''
+- id: xiao2025hybrid
+  title: 'Hybrid Error Correction Design for High-fidelity Entanglement Distribution in Quantum Communication Networks'
+  date: '2025-06-01'
+  type: journal
+  publisher: IEEE Transactions on Communications (Under Review)
+  abbr: TCOM
+  year: 2025
+  authors:
+  - Zirui Xiao
+  - Kaiping Xue*
+  - Zhonghui Li
+  - Jian Li
+  - Lutong Chen
+  - Ruidong Li
+  selected: false
+  tags: []
+  links:
+  - name: DOI
+    url: ''
+  - name: PDF
+    url: ''
+  - name: Code
+    url: ''
+  - name: BibTeX
+    url: ''
+  - name: GB/T 7714
+    url: ''
+- id: yan2025pattern
+  title: 'A Pattern-Aware Congestion Control Algorithm with Dynamic Resilience in LEO Satellite Networks'
+  date: '2025-06-01'
+  type: journal
+  publisher: IEEE Transactions on Mobile Computing (Under Review)
+  abbr: TMC
+  year: 2025
+  authors:
+  - Yuanxin Yan
+  - Jian Li*
+  - Qiuqing Long
+  - Jiangping Han
+  - Kaiping Xue
+  - Hao Chen
+  - Naiqiang Qiao
+  selected: false
+  tags: []
+  links:
+  - name: DOI
+    url: ''
+  - name: PDF
+    url: ''
+  - name: Code
+    url: ''
+  - name: BibTeX
+    url: ''
+  - name: GB/T 7714
+    url: ''
+- id: long2025multho
+  title: 'MulTho: Enabling Seamless Multipath Transmission with High-Accuracy Handover Detection in LEO Satellite Networks'
+  date: '2025-09-22'
+  type: journal
+  publisher: IEEE Transactions on Mobile Computing (Under Review)
+  abbr: TMC
+  year: 2025
+  authors:
+  - Qiuqing Long
+  - Jian Li*
+  - Jiangping Han
+  - Yuanxin Yan
+  - Kaiping Xue*
+  selected: false
+  tags: []
+  links:
+  - name: DOI
+    url: ''
+  - name: PDF
+    url: ''
+  - name: Code
+    url: ''
+  - name: BibTeX
+    url: ''
+  - name: GB/T 7714
+    url: ''
+- id: li2025cocats
+  title: 'CoCaTS: A Cooperative Caching-enabled Transmission Scheme in Ultra-dense LEO Satellite Networks'
+  date: '2025-07-22'
+  type: journal
+  publisher: IEEE Transactions on Mobile Computing (Under Review)
+  abbr: TMC
+  year: 2025
+  authors:
+  - Jian Li
+  - Qiuqing Long
+  - Kaiping Xue*
+  - Hyundong Shin*
+  selected: false
+  tags: []
+  links:
+  - name: DOI
+    url: ''
+  - name: PDF
+    url: ''
+  - name: Code
+    url: ''
+  - name: BibTeX
+    url: ''
+  - name: GB/T 7714
+    url: ''
+- id: xue2025rppfl
+  title: 'RPPFL: A Robust Privacy-Preserving Federated Learning Framework Against Poisoning Attacks'
+  date: '2025-04-01'
+  type: journal
+  publisher: IEEE Transactions on Dependable and Secure Computing (Under Review)
+  abbr: TDSC
+  year: 2025
+  authors:
+  - Rui Xue
+  - Kaiping Xue*
+  - Bin Zhu
+  - Jingchen Zhao
+  - Jian Li
+  - Tianwei Zhang
+  selected: false
+  tags: []
+  links:
+  - name: DOI
+    url: ''
+  - name: PDF
+    url: ''
+  - name: Code
+    url: ''
+  - name: BibTeX
+    url: ''
+  - name: GB/T 7714
+    url: ''

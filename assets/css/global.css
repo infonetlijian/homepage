@@ -87,6 +87,19 @@ div.lazy {
 }
 
 .email-text {
-    font-family: Source Code Pro, monospace;
+    font-family: Courier, monospace;
 }
 
+.small-link {
+    font-size: 0.75rem;
+    padding: 0.25rem 0.5rem;
+    line-height: 1.3;
+}
+
+.small-link .fa-sm {
+    font-size: 0.8em;
+}
+
+.pub-links .small {
+    font-size: 0.8em;
+}

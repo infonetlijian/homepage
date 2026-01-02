@@ -1,0 +1,36 @@
+- title: 基于IPSec动态融合量子密钥的数据保护方法及系统
+  authors: 李健,王明君,陈鲁同,薛开平,俞能海,孙启彬,陆军
+  number: 'ZL202310399867.8'
+  national: China
+  status: 授权
+  date: '2023-07-11'
+- title: 一种基于分段的部分可信中继的QKD网络密钥分发方法 （公开实审）
+  authors: 李健,王明君,薛开平,陈鲁同,俞能海,孙启彬,陆军
+  number: '202310171705.9'
+  national: China
+  status: 公开实审
+  date: '2023-02-22'
+- title: 一种量子密钥分发网络节点间的密钥同步方法
+  authors: 李健,郑鹏,薛开平,李忠辉,俞能海
+  number: 'ZL202311589216.1'
+  national: China
+  status: 授权
+  date: '2024-02-23'
+- title: 一种量子密钥分发网络中负载均衡的分布式路由方法及系统
+  authors: 李健,郑鹏,薛开平,李忠辉,俞能海,孙启彬,陆军
+  number: 'ZL202410023271.2'
+  national: China
+  status: 授权
+  date: '2024-03-29'
+- title: 一种量子密钥分发网络的密钥中继方法 （公开实审）
+  authors: 李健,陈雨新,薛开平,李忠辉,俞能海
+  number: '202510723150.3'
+  national: China
+  status: 公开实审
+  date: '2025-05-30'
+- title: 在 TLS 记录层中融合量子密钥一次一密的方法及系统 （公开实审）
+  authors: 李健,高旭民,薛开平,陈鲁同,李忠辉,陈雨新,俞能海
+  number: '2025115441698'
+  national: China
+  status: 公开实审
+  date: '2025-10-28'

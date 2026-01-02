@@ -1,0 +1,125 @@
+---
+layout: default
+title: News
+navbar_title: News
+---
+
+{% assign news_items = site.data.news_manual_update | sort: "date" | reverse %}
+
+<div class="news-container">
+  <h1 class="page-title">News</h1>
+  
+  <ul class="news-list">
+    {% for item in news_items %}
+    <li class="news-item {% if item.feature %}news-feature{% endif %}" style="text-align: justify;">
+      <div class="news-content">
+        {% if item.tag %}
+          <span class="news-meta">[{{ item.tag }}] </span>
+        {% endif %}
+        {% if item.date %}
+          <span class="news-meta">{{ item.date | date: " %b %Y" }},</span>
+        {% endif %}
+        
+        <span class="news-title">{{ item.title }}</span>
+        
+        {% if item.links %}
+          <span class="news-links">
+            {% for link in item.links %}
+              <a href="{{ link.url }}" target="_blank" class="news-link">
+                [{{ link.name }}]
+              </a>
+            {% endfor %}
+          </span>
+        {% endif %}
+
+        {% if item.feature %}
+          <div class="text-right">
+            <span class="badge badge-pill badge-info">Featured</span>
+          </div>
+        {% endif %}
+      </div>
+    </li>
+    {% endfor %}
+  </ul>
+</div>
+
+<style>
+  .news-container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 10px 20px;
+  }
+  
+  .page-title {
+    margin: 10px 0 15px 0;
+    padding-bottom: 5px;
+    border-bottom: 1px solid #eee;
+    font-size: 1.5rem;
+  }
+  
+  .news-list {
+    list-style: none;
+    padding-left: 0;
+    margin: 0;
+  }
+  
+  .news-item {
+    margin-bottom: 8px;
+    padding-bottom: 6px;
+    border-bottom: 1px solid #f0f0f0;
+    line-height: 1.4;
+  }
+
+  .news-feature {
+    font-weight: bold;
+  }
+  
+  .news-content {
+    display: inline;
+    font-size: 0.95rem;
+  }
+  
+  .news-meta {
+    color: #555;
+    font-weight: 500;
+    margin-right: 4px;
+    font-size: 0.9em;
+  }
+  
+  .news-title {
+    color: #222;
+    margin-right: 4px;
+  }
+  
+  .news-links {
+    display: inline;
+    white-space: nowrap;
+  }
+  
+  .news-link {
+    color: #0066cc;
+    text-decoration: none;
+    margin-right: 6px;
+    font-size: 0.85em;
+  }
+  
+  .news-link:hover {
+    text-decoration: underline;
+  }
+
+  /* 最后一条新闻去掉下划线 */
+  .news-list li:last-child {
+    border-bottom: none;
+    margin-bottom: 5px;
+  }
+</style>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-BC0WVCG1DH"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-BC0WVCG1DH');
+</script>

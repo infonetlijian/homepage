@@ -1,0 +1,1239 @@
+- id: network1103xuanbo
+  title: Xuanbo Huang, Kaping Xue*, Lutong Chen, Jiangping Han, **Jian Li**, David
+    S.L. Wei
+  date: '1103-01-01'
+  type: conference
+  publisher: '[Online](https://ieeexplore.ieee.org/abstract/document/11036790)'
+  abbr: null
+  year: 1103
+  authors:
+  - IEEE Network
+  - '2025'
+  selected: false
+  tags: []
+  links: []
+- id: chen2025font
+  title: <font color=red>**[ToN]**</font> An Asynchronous Key Relay Protocol Design
+    for Large-scale Quantum Key Distribution Networks
+  date: '2025-01-01'
+  type: journal
+  publisher: IEEE/ACM Transactions on Networking
+  abbr: null
+  year: 2025
+  authors:
+  - Yuxin Chen
+  - Jian Li*
+  - Zhonghui Li
+  - Kaiping Xue*
+  - Nenghai Yu
+  - Qibin Sun
+  - Jun Lu
+  selected: false
+  tags: []
+  links: []
+- id: wang2025font
+  title: '<font color=red>**[TNSM]**</font> RGuide: Fast and Accurate Congestion Control
+    Guided via Explicit Rate Control in Data Center Networks'
+  date: '2025-01-01'
+  type: journal
+  publisher: IEEE Transactions on Network and Service Management
+  abbr: null
+  year: 2025
+  authors:
+  - Wentao Wang
+  - Jiangping Han*
+  - Kaiping Xue*
+  - Jiayu Yang
+  - Jian Li
+  - Qibin Sun
+  - Jun Lu
+  selected: false
+  tags: []
+  links: []
+- id: zheng2025font
+  title: <font color=red>**[TNSM]**</font> An Efficient and Robust Resource Allocation
+    Method for Quantum Key Distribution Networks
+  date: '2025-01-01'
+  type: journal
+  publisher: IEEE Transactions on Network and Service Management
+  abbr: null
+  year: 2025
+  authors:
+  - Peng Zheng
+  - Jian Li*
+  - Zhonghui Li
+  - Kaiping Xue*
+  - Nenghai Yu
+  - Ruidong Li
+  - Qibin Sun
+  - Jun Lu
+  selected: false
+  tags: []
+  links: []
+- id: han2025font
+  title: <font color=red>**[TNSM]**</font> From An In-Depth Understanding of Multipath
+    TCP Enhancement Schemes to an Adaptive Control Framework in Wireless Networks
+  date: '2025-01-01'
+  type: journal
+  publisher: IEEE Transactions on Network and Service Management
+  abbr: null
+  year: 2025
+  authors:
+  - Jiangping Han
+  - Yitao Xing
+  - Jinhao Liu
+  - Kaiping Xue*
+  - Jian Li
+  - David S.L. Wei
+  - Qibin Sun
+  - Jun Lu
+  selected: false
+  tags: []
+  links: []
+- id: wang2025font
+  title: '<font color=red>**[TMC]**</font> CAAF: An NDN-Based Cache-Aware Adaptive
+    Forwarding Strategy for Reliable Content  Delivery in VANETs'
+  date: '2025-01-01'
+  type: journal
+  publisher: IEEE Transactions on Mobile Computing
+  abbr: null
+  year: 2025
+  authors:
+  - Haodong Wang
+  - Jiangping Han*
+  - Kaiping Xue*
+  - Jiayu Yang
+  - Jian Li
+  - Qibin Sun
+  - Jun Lu
+  selected: false
+  tags: []
+  links: []
+- id: gao2025font
+  title: '<font color=red>**[COMMAG]**</font> IPSeQ: A Security-Enhanced IPSec Protocol
+    Integrated with Quantum Key Distribution'
+  date: '2025-01-01'
+  type: conference
+  publisher: IEEE Communications Magazine
+  abbr: null
+  year: 2025
+  authors:
+  - Xumin Gao
+  - Kaiping Xue*
+  - Jian Li*
+  - Zhonghui Li
+  - Jiaqi Wu
+  - Nenghai Yu
+  - Qibin Sun
+  - Jun Lu
+  selected: false
+  tags: []
+  links: []
+- id: li2025font
+  title: '<font color=red>**[MNET]**</font> Integration of Quantum Key Distribution
+    Networks and Classical Networks: An Evolution Perspective'
+  date: '2025-01-01'
+  type: conference
+  publisher: IEEE Network
+  abbr: null
+  year: 2025
+  authors:
+  - Jian Li
+  - Peng Zheng
+  - Zhonghui Li
+  - Kaiping Xue*
+  - Zhilin Xie
+  - Nenghai Yu
+  - Qibin Sun
+  - Jun Lu
+  selected: false
+  tags: []
+  links: []
+- id: yang2025on
+  title: An On-demand Routing Scheme with QoS Provisioning for QKD Networks
+  date: '2025-01-01'
+  type: conference
+  publisher: IEEE International Conference on Quantum Communications
+  abbr: null
+  year: 2025
+  authors:
+  - Yuqi Yang
+  - Jian Li*
+  - Zhonghui Li
+  - Shaochuang Heng
+  - Lutong Chen
+  - Qibin Sun
+  - Jun Lu
+  selected: false
+  tags: []
+  links: []
+- id: yan2025handover
+  title: A Handover-aware Congestion Control Algorithm Assisted by DRL in LEO Satellite
+    Networks
+  date: '2025-01-01'
+  type: conference
+  publisher: IEEE International Conference on Communications (ICC 2025)
+  abbr: null
+  year: 2025
+  authors:
+  - Yuanxin Yan
+  - Jian Li*
+  - Jiangping Han
+  - Qiuqing Long
+  - Kaiping Xue
+  - Hao Chen
+  - Naiqiang Qiao
+  selected: false
+  tags: []
+  links: []
+- id: li2025font
+  title: '<font color=red>**[JSAC]**</font> Decentralized Key Management and Service
+    in Quantum Key Distribution Networks: An Experimental Implementation'
+  date: '2025-01-01'
+  type: journal
+  publisher: IEEE Journal on Selected Areas in Communications
+  abbr: null
+  year: 2025
+  authors:
+  - Jian Li
+  - Peng Zheng
+  - Zhonghui Li*
+  - Yuqi Yang
+  - Nenghai Yu
+  - Qibin Sun
+  - Jun Lu
+  selected: false
+  tags: []
+  links:
+  - name: Code
+    url: https://github.com/QNLab-USTC/Key-Management-and-Service-Framework-for-QKD-Networks
+- id: networking1077u
+  title: <u>**Jian Li**</u>, Zhaoying Wang, Kaiping Xue*, Zhonghui Li, Ruidong Li,
+    Nenghai Yu, Qibin Sun, Jun Lu
+  date: '1077-01-01'
+  type: conference
+  publisher: '[Online](https://ieeexplore.ieee.org/abstract/document/10778612/) -
+    <a href="https://infonetlijian.github.io/homepage/PDF_files/2024-【ToN】-DRM-ETP_A_Dynamic_Rate_Matching-Based_Entanglement_Transport_Protocol_in_Quantum_Networks.pdf"
+    target="_blank">PDF</a>'
+  abbr: null
+  year: 1077
+  authors:
+  - IEEE/ACM Transactions on Networking
+  - '33(2): 835-848'
+  - April 2025
+  selected: false
+  tags: []
+  links: []
+- id: li2025font
+  title: '<font color=red>**[ToN]**</font> NarrowGap: Reducing Bottlenecks for End-to-end
+    Entanglement Distribution in Quantum Networks'
+  date: '2025-01-01'
+  type: journal
+  publisher: IEEE/ACM Transactions on Networking
+  abbr: null
+  year: 2025
+  authors:
+  - Zhonghui Li
+  - Jian Li*
+  - Kaiping Xue*
+  - Lutong Chen
+  - Nenghai Yu
+  - Qibin Sun
+  - Jun Lu
+  selected: false
+  tags: []
+  links: []
+- id: long2024plms
+  title: 'PLMS: A Packet Loss Memory-Based Transmission Enhancement Scheme for GEO
+    Satellite Networks'
+  date: '2024-01-01'
+  type: conference
+  publisher: International Conference on Wireless Communications and Signal Processing
+    (WCSP 2024)
+  abbr: null
+  year: 2024
+  authors:
+  - Qiuqing Long
+  - Yuanxin Yan
+  - Jian Li*
+  - Jiangping Han
+  - Jin Tang
+  - Kaiping Xue
+  selected: false
+  tags: []
+  links: []
+- id: ding2024font
+  title: '<font color=red>**[ToN]**</font> SLP: A Secure and Lightweight Scheme against
+    Content Poisoning Attacks in Named Data Networking Based on Probing'
+  date: '2024-01-01'
+  type: journal
+  publisher: IEEE/ACM Transactions on Networking
+  abbr: null
+  year: 2024
+  authors:
+  - Kunpeng Ding
+  - Jiayu Yang
+  - Kaiping Xue*
+  - Jiangping Han
+  - Jian Li
+  - Qibin Sun
+  - Jun Lu
+  selected: false
+  tags: []
+  links: []
+- id: xiao2024font
+  title: <font color=red>**[CommPhy]**</font> Purification Scheduling Control for
+    Throughput Maximization in Quantum Networks
+  date: '2024-01-01'
+  type: conference
+  publisher: Communications Physics
+  abbr: null
+  year: 2024
+  authors:
+  - Zirui Xiao
+  - Jian Li
+  - Kaiping Xue*
+  - Nenghai Yu
+  - Ruidong Li
+  - Qibin Sun
+  - Jun Lu
+  selected: false
+  tags: []
+  links: []
+- id: yang2024font
+  title: <font color=red>**[ToN]**</font> Adaptive Multi-source Multi-path Congestion
+    Control for Named Data Networking
+  date: '2024-01-01'
+  type: journal
+  publisher: IEEE/ACM Transactions on Networking
+  abbr: null
+  year: 2024
+  authors:
+  - Jiayu Yang
+  - Yuxin Chen
+  - Kaiping Xue*
+  - Jiangping Han*
+  - Jian Li
+  - Ruidong Li
+  - Qibin Sun
+  - Jun Lu
+  selected: false
+  tags: []
+  links: []
+- id: forensics1053meiqi
+  title: Meiqi Li, Xinyi Luo, Kaiping Xue*, Yingjie Xue, Wentuo Sun, **Jian Li**
+  date: '1053-01-01'
+  type: conference
+  publisher: '[Online](https://ieeexplore.ieee.org/abstract/document/10539974) - <a
+    href="https://infonetlijian.github.io/homepage/PDF_files/2024-【TIFS】-A_Secure_and_Efficient_Blockchain_Sharding_Scheme_via_Hybrid_Consensus_and_Dynamic_Management.pdf"
+    target="_blank">PDF</a>'
+  abbr: null
+  year: 1053
+  authors:
+  - IEEE Transactions on Information Forensics
+  - Security
+  - 'Volume: 19'
+  - 5911-5924
+  - May 2024
+  selected: false
+  tags: []
+  links: []
+- id: wang2024efficient
+  title: Efficient Routing Design Based on Entanglement Flow Loss Effect in Quantum
+    Networks
+  date: '2024-01-01'
+  type: conference
+  publisher: IEEE International Conference on Quantum Communications
+  abbr: null
+  year: 2024
+  authors:
+  - Zhaoying Wang
+  - Jian Li*
+  - Zhonghui Li
+  - Lutong Chen
+  - Nenghai Yu
+  - Qibin Sun
+  - Jun Lu
+  selected: false
+  tags: []
+  links: []
+- id: zhuang3919font
+  title: '<font color=red>**[TNSE]**</font> ProactMP: A Proactive Multipath Transport
+    Protocol for Low-Latency Datacenters'
+  date: '3919-01-01'
+  type: journal
+  publisher: IEEE Transactions on Network and Service Management
+  abbr: null
+  year: 3919
+  authors:
+  - Rui Zhuang
+  - Jiangping Han*
+  - Kaiping Xue*
+  - Jian Li
+  - Qibin Sun
+  - Jun Lu
+  selected: false
+  tags: []
+  links: []
+- id: tang2024font
+  title: '<font color=red>**[TVT]**</font> Cooperative Caching in Satellite-Terrestrial
+    Integrated Networks: A Region Features aware Approach'
+  date: '2024-01-01'
+  type: journal
+  publisher: IEEE Transactions on Vehicular Technology
+  abbr: null
+  year: 2024
+  authors:
+  - Jin Tang
+  - Jian Li*
+  - Xianhao Chen
+  - Kaiping Xue
+  - Lan Zhang
+  - Qibin Sun
+  - Jun Lu
+  selected: false
+  tags: []
+  links: []
+- id: tang2024font
+  title: <font color=red>**[TMC]**</font> Opportunistic Content-aware Routing in Satellite-Terrestrial
+    Integrated Networks
+  date: '2024-01-01'
+  type: journal
+  publisher: IEEE Transactions on Mobile Computing
+  abbr: null
+  year: 2024
+  authors:
+  - Jin Tang
+  - Jian Li*
+  - Lan Zhang
+  - Xianhao Chen
+  - Kaiping Xue
+  - Qibin Sun
+  - Jun Lu
+  selected: false
+  tags: []
+  links: []
+- id: chen2024font
+  title: '<font color=red>**[MNET]**</font> Q-CSKDF: A Continuous and Security Key
+    Derivation Function for Quantum Key Distribution'
+  date: '2024-01-01'
+  type: conference
+  publisher: IEEE Network
+  abbr: null
+  year: 2024
+  authors:
+  - Lutong Chen
+  - Kaiping Xue*
+  - Jian Li
+  - Zhonghui Li
+  - Nenghai Yu
+  selected: false
+  tags: []
+  links: []
+- id: chen2024jsac
+  title: '**[JSAC]** REDP: Reliable Entanglement Distribution Protocol Design for
+    Large-scale Quantum Networks'
+  date: '2024-01-01'
+  type: journal
+  publisher: IEEE Journal on Seclected Areas in Communications
+  abbr: null
+  year: 2024
+  authors:
+  - Lutong Chen
+  - Kaiping Xue*
+  - Jian Li
+  - Zhonghui Li
+  - Ruidong Li
+  - Nenghai Yu
+  - Qibin Sun
+  - Jun Lu
+  selected: false
+  tags: []
+  links: []
+- id: wu2024distributed
+  title: A Distributed Routing Protocol Based on Key Reservation in Quantum Key Distribution
+    Networks
+  date: '2024-01-01'
+  type: conference
+  publisher: IEEE International Conference on Communications (ICC 2024)
+  abbr: null
+  year: 2024
+  authors:
+  - Jiaqi Wu
+  - Lutong Chen
+  - Jing Zhang
+  - Zixuan Huang
+  - Zhonghui Li
+  - Jian Li*
+  - Kaiping Xue*
+  - Nenghai Yu
+  selected: false
+  tags: []
+  links: []
+- id: dependable1032feng
+  title: Feng Liu, Kaiping Xue*, Jinjiang Yang, Jing Zhang, Zixuan Huang, **Jian Li**,
+    David S. L. Wei
+  date: '1032-01-01'
+  type: conference
+  publisher: '[Online](https://ieeexplore.ieee.org/abstract/document/10324376) - <a
+    href="https://infonetlijian.github.io/homepage/PDF_files/2024-【TDSC】-Volume-Hiding_Range_Searchable_Symmetric_Encryption_for_Large-Scale_Datasets.pdf"
+    target="_blank">PDF</a>'
+  abbr: null
+  year: 1032
+  authors:
+  - IEEE Transactions on Dependable
+  - Secure Computing
+  - 'Volume: 21'
+  - 'Issue: 4'
+  - July-Aug. 2024
+  selected: false
+  tags: []
+  links: []
+- id: han2024font
+  title: '<font color=red>**[TCOM]**</font> FMPTCP: Achieving High Bandwidth Utilization
+    and Low Latency in Data Center Networks'
+  date: '2024-01-01'
+  type: journal
+  publisher: IEEE Transactions on Communications
+  abbr: null
+  year: 2024
+  authors:
+  - Jiangping Han
+  - Kaiping Xue*
+  - Jian Li
+  - Yitao Xing
+  - Ruozhou Yu
+  - David S. L. Wei
+  - Guoliang Xue
+  selected: false
+  tags: []
+  links: []
+- id: xiao2024font
+  title: <font color=red>**[MNET]**</font> A Connectionless Entanglement Distribution
+    Protocol Design in Quantum Networks
+  date: '2024-01-01'
+  type: conference
+  publisher: IEEE Network
+  abbr: null
+  year: 2024
+  authors:
+  - Zirui Xiao
+  - Jian Li*
+  - Kaiping Xue*
+  - Zhonghui Li
+  - Nenghai Yu
+  - Qibin Sun
+  - Jun Lu
+  selected: false
+  tags: []
+  links: []
+- id: han2024font
+  title: '<font color=red>**[TNSE]**</font> Enabling In-Network Caching in Traditional
+    IP Networks: Selective Router Upgrades and Cooperative Cache Strategies'
+  date: '2024-01-01'
+  type: journal
+  publisher: IEEE Transactions on Network Science and Engineering
+  abbr: null
+  year: 2024
+  authors:
+  - Jiangping Han
+  - Kaiping Xue*
+  - Jian Li
+  - Jing Zhang
+  - Zixuan Huang
+  - David S. L. Wei
+  selected: false
+  tags: []
+  links: []
+- id: wang2024font
+  title: <font color=red>**[TNSE]**</font> An Efficient Scheduling Scheme of Swapping
+    and Purification Operations for End-to-End Entanglement Distribution in Quantum
+    Networks
+  date: '2024-01-01'
+  type: journal
+  publisher: IEEE Transactions on Network Science and Engineering
+  abbr: null
+  year: 2024
+  authors:
+  - Zhaoying Wang
+  - Jian Li*
+  - Kaiping Xue*
+  - David SL Wei
+  - Ruidong Li
+  - Nenghai Yu
+  - Qibin Sun
+  - Jun Lu
+  selected: false
+  tags: []
+  links: []
+- id: li2023font
+  title: '<font color=red>**[COMST]**</font> Entanglement-Assisted Quantum Networks:
+    Mechanics, Enabling Technologies, Challenges, and Research Directions'
+  date: '2023-01-01'
+  type: conference
+  publisher: IEEE Communications Surveys and Tutorials
+  abbr: null
+  year: 2023
+  authors:
+  - Zhonghui Li
+  - Kaiping Xue*
+  - Jian Li
+  - David S. L. Wei
+  - Ruidong Li
+  - Nenghai Yu
+  - Qibin Sun
+  - Jun Lu
+  selected: false
+  tags: []
+  links: []
+- id: liu2023font
+  title: '<font color=red>**[TNSM]**</font> DECC: Achieving Low Latency in Data Center
+    Networks with Deep Reinforcement Learning'
+  date: '2023-01-01'
+  type: journal
+  publisher: IEEE Transactions on Network and Service Management
+  abbr: null
+  year: 2023
+  authors:
+  - Yi Liu
+  - Jiangping Han*
+  - Kaiping Xue*
+  - Jian Li
+  - Qibin Sun
+  - Jun Lu
+  selected: false
+  tags: []
+  links: []
+- id: chen2024font
+  title: '<font color=red>**[ToN]**</font> Q-DDCA: Decentralized Dynamic Congestion
+    Avoid Routing in Large-Scale Quantum Networks'
+  date: '2024-01-01'
+  type: journal
+  publisher: IEEE/ACM Transactions on Networking
+  abbr: null
+  year: 2024
+  authors:
+  - Lutong Chen
+  - Kaiping Xue*
+  - Jian Li
+  - Ruidong Li
+  - Nenghai Yu
+  - Qibin Sun
+  - Jun Lu
+  selected: false
+  tags: []
+  links: []
+- id: liu2023font
+  title: '<font color=red>**[ICDCS]**</font> L2BM: Switch Buffer Management for Hybrid
+    Traffic in Data Center Networks'
+  date: '2023-01-01'
+  type: conference
+  publisher: IEEE International Conference on Distributed Computing Systems (ICDCS)
+    2023
+  abbr: null
+  year: 2023
+  authors:
+  - Yi Liu
+  - Jiangping Han*
+  - Kaiping Xue*
+  - Ruidong Li
+  - Jian Li
+  selected: false
+  tags: []
+  links: []
+- id: li2023font
+  title: <font color=red>**[TNSM]**</font> Swapping-based Entanglement Routing Design
+    for Congestion Mitigation in Quantum Networks
+  date: '2023-01-01'
+  type: journal
+  publisher: IEEE Transactions on Network and Service Management
+  abbr: null
+  year: 2023
+  authors:
+  - Zhonghui Li
+  - Jian Li*
+  - Kaiping Xue*
+  - David S.L. Wei
+  - Ruidong Li
+  - Nenghai Yu
+  - Qibin Sun
+  - Jun Lu
+  selected: false
+  tags: []
+  links: []
+- id: xue2023font
+  title: '<font color=red>**[COMMAG]**</font> Make Rental Reliable: Blockchain-based
+    Network Slice Management Framework with SLA Guarantee Series Mobile Communications
+    and Networks'
+  date: '2023-01-01'
+  type: conference
+  publisher: IEEE Communications Magazine
+  abbr: null
+  year: 2023
+  authors:
+  - Kaiping Xue*
+  - Xinyi Luo
+  - Jian Li
+  - Ruidong Li
+  - David S.L. Wei
+  selected: false
+  tags: []
+  links: []
+- id: wang2023font
+  title: <font color=red>**[COMMAG]**</font> A Segment-based Multipath Distribution
+    Method in Partially-Trusted Relay Quantum Networks
+  date: '2023-01-01'
+  type: conference
+  publisher: IEEE Communications Magazine
+  abbr: null
+  year: 2023
+  authors:
+  - Mingjun Wang
+  - Jian Li*
+  - Kaiping Xue*
+  - Ruidong Li
+  - Nenghai Yu
+  - Yangyang Li
+  - Yifeng Liu
+  - Qibin Sun
+  - Jun Lu
+  selected: false
+  tags: []
+  links: []
+- id: xing2023font
+  title: <font color=red>**[ToN]**</font> An Online Learning Assisted Packet Scheduler
+    for MPTCP in Mobile Networks
+  date: '2023-01-01'
+  type: journal
+  publisher: IEEE/ACM Transactions on Networking
+  abbr: null
+  year: 2023
+  authors:
+  - Yitao Xing
+  - Kaiping Xue*
+  - Yuan Zhang
+  - Jiangping Han
+  - Jian Li
+  - David SL Wei
+  selected: false
+  tags: []
+  links: []
+- id: han2023font
+  title: '<font color=red>**[TWC]**</font> EdAR: An Experience-driven Multipath Scheduler
+    for Seamless Handoff in Mobile Networks'
+  date: '2023-01-01'
+  type: journal
+  publisher: IEEE Transactions on Wireless Communications
+  abbr: null
+  year: 2023
+  authors:
+  - Jiangping Han
+  - Kaiping Xue*
+  - Jian Li
+  - Rui Zhuang
+  - Ruidong Li
+  - Ruozhou Yu
+  - Guoliang Xue
+  - Qibin Sun
+  selected: false
+  tags: []
+  links: []
+- id: yang2023font
+  title: '<font color=red>**[TNSM]**</font> TCCC: A Throughput Consistency Congestion
+    Control Algorithm for MPTCP in Mixed Transmission of Long and Short Flows'
+  date: '2023-01-01'
+  type: journal
+  publisher: IEEE Transactions on Network and Service Management
+  abbr: null
+  year: 2023
+  authors:
+  - Jiayu Yang
+  - Jiangping Han*
+  - Kaiping Xue*
+  - Jian Li
+  - Yitao Xing
+  - Hao Yue
+  - David S.L. Wei
+  selected: false
+  tags: []
+  links: []
+- id: chen2023font
+  title: '<font color=red>**[MNET]**</font> SimQN: a Network-layer Simulator for the
+    Quantum Network Investigation'
+  date: '2023-01-01'
+  type: conference
+  publisher: IEEE Network
+  abbr: null
+  year: 2023
+  authors:
+  - Lutong Chen
+  - Kaiping Xue*
+  - Jian Li*
+  - Nenghai Yu
+  - Ruidong Li
+  - Qibin Sun
+  - Jun Lu
+  selected: false
+  tags: []
+  links:
+  - name: Code
+    url: https://github.com/QNLab-USTC/SimQN
+- id: (globecom)1000jingchen
+  title: Jingchen Zhao, Bin Zhu, **Jian Li**, Shaoxian Yuan, Kaiping Xue*, Xianchao
+    Zhang*
+  date: '1000-01-01'
+  type: conference
+  publisher: '[Online](https://ieeexplore.ieee.org/abstract/document/10000662) - <a
+    href="https://infonetlijian.github.io/homepage/PDF_files/2022-【GLOBECOM】-Privacy-preserving_Truth_Discovery_with_Outlier_Detection_in_Mobile_Crowdsensing_Systems.pdf"
+    target="_blank">PDF</a>'
+  abbr: null
+  year: 1000
+  authors:
+  - 2022 IEEE Global Communications Conference (GLOBECOM)
+  - December 2022
+  selected: false
+  tags: []
+  links: []
+- id: yang2022forward
+  title: Forward Private Multi-Client Searchable Encryption with Efficient Access
+    Control in Cloud Storage
+  date: '2022-01-01'
+  type: conference
+  publisher: 2022 IEEE Global Communications Conference (GLOBECOM)
+  abbr: null
+  year: 2022
+  authors:
+  - Jinjiang Yang
+  - Feng Liu
+  - Xinyi Luo
+  - Jianan Hong
+  - Jian Li
+  - Kaiping Xue*
+  selected: false
+  tags: []
+  links: []
+- id: li2022font
+  title: <font color=red>**[MNET]**</font> Connection-oriented and Connectionless
+    Remote Entanglement Distribution Strategies in Quantum Networks
+  date: '2022-01-01'
+  type: conference
+  publisher: IEEE Network
+  abbr: null
+  year: 2022
+  authors:
+  - Zhonghui Li
+  - Kaiping Xue*
+  - Jian Li
+  - Nenghai Yu
+  - David S.L. Wei
+  - Ruidong Li
+  selected: false
+  tags: []
+  links: []
+- id: wang2022font
+  title: <font color=red>**[MNET]**</font> An Asynchronous Entanglement Distribution
+    Protocol for Quantum Networks
+  date: '2022-01-01'
+  type: conference
+  publisher: IEEE Network
+  abbr: null
+  year: 2022
+  authors:
+  - Zhaoying Wang
+  - Jian Li*
+  - Kaiping Xue
+  - Shaoyin Cheng
+  - Nenghai Yu
+  - Qibin Sun
+  - Jun Lu
+  selected: false
+  tags: []
+  links: []
+- id: chen2022font
+  title: <font color=red>**[TCOM]**</font> A Heuristic Remote Entanglement Distribution
+    Algorithm on Memory-Limited Quantum Paths
+  date: '2022-01-01'
+  type: journal
+  publisher: IEEE Transactions on Communications
+  abbr: null
+  year: 2022
+  authors:
+  - Lutong Chen
+  - Kaiping Xue*
+  - Jian Li*
+  - Nenghai Yu
+  - Ruidong Li
+  - Jianqing Liu
+  - Qibin Sun
+  - Jun Lu
+  selected: false
+  tags: []
+  links: []
+- id: li2022font
+  title: <font color=red>**[TCOM]**</font> Fidelity-Guaranteed Entanglement Routing
+    in Quantum Networks
+  date: '2022-01-01'
+  type: journal
+  publisher: IEEE Transactions on Communications
+  abbr: null
+  year: 2022
+  authors:
+  - Jian Li
+  - Mingjun Wang
+  - Kaiping Xue*
+  - Ruidong Li
+  - Nenghai Yu
+  - Qibin Sun
+  - Jun Lu
+  selected: false
+  tags: []
+  links:
+  - name: Code
+    url: https://github.com/infonetlijian/Fidelity-Guaranteed-Entanglement-Routing
+- id: xue2022font
+  title: '<font color=red>**[TNSM]**</font> CSEVP: A Collaborative, Secure, and Efficient
+    Content Validation Protection Framework for Information Centric Networking'
+  date: '2022-01-01'
+  type: journal
+  publisher: IEEE Transactions on Network and Service Management
+  abbr: null
+  year: 2022
+  authors:
+  - Kaiping Xue*
+  - Jiayu Yang
+  - Qiudong Xia
+  - David S.L. Wei
+  - Jian Li*
+  - Qibin Sun
+  - Jun Lu
+  selected: false
+  tags: []
+  links: []
+- id: zhang2022dynamic
+  title: A Dynamic Flow Table Management Method Based on Real-time Traffic Monitoring
+  date: '2022-01-01'
+  type: conference
+  publisher: 2022 IEEE 23rd International Conference on High Performance Switching
+    and Routing (HPSR)
+  abbr: null
+  year: 2022
+  authors:
+  - Jinyuan Zhang
+  - Xuanbo Huang
+  - Jian Li*
+  - Kaiping Xue*
+  - Qibin Sun
+  - Jun Lu
+  selected: false
+  tags: []
+  links: []
+- id: li2022font
+  title: <font color=red>**[TQE]**</font> A Connection-Oriented Entanglement Distribution
+    Design in Quantum Networks
+  date: '2022-01-01'
+  type: journal
+  publisher: IEEE Transactions on Quantum Engineering
+  abbr: null
+  year: 2022
+  authors:
+  - Jian Li
+  - Qidong Jia
+  - Kaiping Xue*
+  - David S.L. Wei
+  - Nenghai Yu
+  selected: false
+  tags: []
+  links: []
+- id: xue2022font
+  title: <font color=red>**[TVT]**</font> A Distributed Authentication Scheme Based
+    on Smart Contract for Roaming Service in Mobile Vehicular Networks
+  date: '2022-01-01'
+  type: journal
+  publisher: IEEE Transactions on Vehicular Technology
+  abbr: null
+  year: 2022
+  authors:
+  - Kaiping Xue*
+  - Xinyi Luo
+  - Yongjin Ma
+  - Jian Li*
+  - Jianqing Liu
+  - David S.L. Wei
+  selected: false
+  tags: []
+  links: []
+- id: li2022cluster
+  title: A Cluster-based Networking Approach for Large-scale and Wide-area Quantum
+    Key Agreement
+  date: '2022-01-01'
+  type: conference
+  publisher: Quantum Information Processing
+  abbr: null
+  year: 2022
+  authors:
+  - Zhonghui Li
+  - Kaiping Xue*
+  - Qidong Jia
+  - Jian Li
+  - David S.L. Wei
+  - Jianqing Liu
+  - Nenghai Yu
+  selected: false
+  tags: []
+  links: []
+- id: xue2022font
+  title: <font color=red>**[TVT]**</font> A Blockchain based User Subscription Data
+    Management and Access Control Scheme in Mobile Communication Networks
+  date: '2022-01-01'
+  type: journal
+  publisher: IEEE Transactions on Vehicular Technology
+  abbr: null
+  year: 2022
+  authors:
+  - Kaiping Xue
+  - Xinyi Luo
+  - Hangyu Tian
+  - Jianan Hong
+  - David S.L. Wei
+  - Jian Li*
+  selected: false
+  tags: []
+  links: []
+- id: (globecom)9685shaoxian
+  title: Shaoxian Yuan, Bin Zhu, Feng Liu, **Jian Li**, Kaiping Xue*
+  date: '9685-01-01'
+  type: conference
+  publisher: '[Online](https://ieeexplore.ieee.org/abstract/document/9685817) - <a
+    href="https://infonetlijian.github.io/homepage/PDF_files/2021-【GLOBECOM】-A_Fog-Aided_Privacy-Preserving_Truth_Discovery_Framework_over_Crowdsensed_Data_Streams.pdf"
+    target="_blank">PDF</a>'
+  abbr: null
+  year: 9685
+  authors:
+  - 2021 IEEE Global Communications Conference (GLOBECOM)
+  - December 2021
+  selected: false
+  tags: []
+  links: []
+- id: qin2021font
+  title: <font color=red>**[TNSM]**</font> Service Prioritization in Information Centric
+    Networking with Heterogeneous Content Providers
+  date: '2021-01-01'
+  type: journal
+  publisher: IEEE Transactions on Network and Service Management
+  abbr: null
+  year: 2021
+  authors:
+  - Jin Qin
+  - Kaiping Xue*
+  - Jian Li
+  - Qibin Sun
+  - Jun Lu
+  selected: false
+  tags: []
+  links: []
+- id: han2021font
+  title: <font color=red>**[TWC]**</font> Leveraging Coupled BBR and Adaptive Packet
+    Scheduling to Boost MPTCP
+  date: '2021-01-01'
+  type: journal
+  publisher: IEEE Transactions on Wireless Communications
+  abbr: null
+  year: 2021
+  authors:
+  - Jiangping Han
+  - Kaiping Xue*
+  - Yitao Xing
+  - Jian Li
+  - Wenjia Wei
+  - David S.L. Wei
+  - Guoliang Xue
+  selected: false
+  tags: []
+  links: []
+- id: xing2021font
+  title: <font color=red>**[TWC]**</font> A Low-Latency MPTCP Scheduler for Live Video
+    Streaming in Mobile Networks
+  date: '2021-01-01'
+  type: journal
+  publisher: IEEE Transactions on Wireless Communications
+  abbr: null
+  year: 2021
+  authors:
+  - Yitao Xing
+  - Kaiping Xue*
+  - Yuan Zhang
+  - Jiangping Han
+  - Jian Li
+  - Jianqing Liu
+  - Ruidong Li
+  selected: false
+  tags: []
+  links: []
+- id: li2021building
+  title: Building a Large-Scale and Wide-Area Quantum Internet Based on an OSI-alike
+    Model
+  date: '2021-01-01'
+  type: conference
+  publisher: China Communications
+  abbr: null
+  year: 2021
+  authors:
+  - Zhonghui Li
+  - Kaiping Xue*
+  - Jian Li
+  - Nenghai Yu
+  - Jianqing Liu
+  - David S.L. Wei
+  - Qibin Sun
+  - Jun Lu
+  selected: false
+  tags: []
+  links: []
+- id: li2023font
+  title: <font color=red>**[TMC]**</font> Secure Transmission by Leveraging Multiple
+    Intelligent Reflecting Surfaces in MISO Systems
+  date: '2023-01-01'
+  type: journal
+  publisher: IEEE Transactions on Mobile Computing
+  abbr: null
+  year: 2023
+  authors:
+  - Jian Li
+  - Lan Zhang
+  - Kaiping Xue
+  - Yuguang Fang*
+  - Qibin Sun
+  selected: false
+  tags: []
+  links: []
+- id: letters9134u
+  title: <u>**Jian Li**</u>, Kaiping Xue*, Jianqing Liu, Yongdong Zhang
+  date: '9134-01-01'
+  type: conference
+  publisher: '[Online](https://ieeexplore.ieee.org/abstract/document/9134390) - <a
+    href="https://infonetlijian.github.io/homepage/PDF_files/2020-A User-Centric Handover
+    Scheme for Ultra-Dense LEO Satellite Networks.pdf" target="_blank">PDF</a>'
+  abbr: null
+  year: 9134
+  authors:
+  - IEEE Wireless Communications Letters
+  - 'Volume: 9'
+  - 'Issue: 11'
+  - November 2020
+  selected: false
+  tags: []
+  links: []
+- id: li2020font
+  title: <font color=red>**[TWC]**</font> Energy Efficiency and Traffic Offloading
+    Optimization in Integrated Satellite/Terrestrial Radio Access Networks
+  date: '2020-01-01'
+  type: journal
+  publisher: IEEE Transactions on Wireless Communications
+  abbr: null
+  year: 2020
+  authors:
+  - Jian Li
+  - Kaiping Xue*
+  - David S. L. Wei
+  - Jianqing Liu
+  - Yongdong Zhang
+  selected: false
+  tags: []
+  links: []
+- id: li2020font
+  title: <font color=red>**[MNET]**</font> An ICN/SDN-based Network Architecture and
+    Efficient Content Retrieval for Future Satellite-Terrestrial Integrated Networks
+  date: '2020-01-01'
+  type: conference
+  publisher: IEEE Network
+  abbr: null
+  year: 2020
+  authors:
+  - Jian Li
+  - Kaiping Xue*
+  - Jianqing Liu
+  - Yongdong Zhang
+  - Yuguang Fang
+  selected: false
+  tags: []
+  links: []
+- id: li2019font
+  title: <font color=red>**[TVT]**</font> Temporal Netgrid Model-based Dynamic Routing
+    in Large-Scale Small Satellite Networks
+  date: '2019-01-01'
+  type: journal
+  publisher: IEEE Transactions on Vehicular Technology
+  abbr: null
+  year: 2019
+  authors:
+  - Jian Li
+  - Hancheng Lu*
+  - Kaiping Xue
+  - Yongdong Zhang
+  selected: false
+  tags: []
+  links:
+  - name: Code
+    url: https://github.com/infonetlijian/Large-Scale-Satellite-Network-Simulator-LSNS
+- id: zhu2017service
+  title: Service Function Chain Mapping with Resource Fragmentation Avoidance
+  date: '2017-01-01'
+  type: conference
+  publisher: 2017 IEEE Global Communications Conference (GLOBECOM)
+  abbr: null
+  year: 2017
+  authors:
+  - Zhikai Zhu
+  - Hancheng Lu*
+  - Jian Li
+  - Xiaoda Jiang
+  selected: false
+  tags: []
+  links: []
+- id: wang2017robust
+  title: Robust Satellite Image Transmission over Bandwidth-constrained Wireless Channels
+  date: '2017-01-01'
+  type: conference
+  publisher: 2017 IEEE International Conference on Communications (ICC)
+  abbr: null
+  year: 2017
+  authors:
+  - Yali Wang
+  - Hancheng Lu*
+  - Zexue Li
+  - Jian Li
+  selected: false
+  tags: []
+  links: []
+- id: li2017temporal
+  title: Temporal Netgrid Model based Routing Optimization in Satellite Networks
+  date: '2017-01-01'
+  type: conference
+  publisher: 2017 IEEE International Conference on Communications (ICC)
+  abbr: null
+  year: 2017
+  authors:
+  - Jian Li
+  - Hancheng Lu*
+  - Yali Wang
+  selected: false
+  tags: []
+  links:
+  - name: Code
+    url: https://github.com/infonetlijian/Large-Scale-Satellite-Network-Simulator-LSNS
+- id: wu2016two
+  title: A Two-Layer Caching Model for Content Delivery Services in Satellite-Terrestrial
+    Networks
+  date: '2016-01-01'
+  type: conference
+  publisher: 2016 IEEE Global Communications Conference (GLOBECOM)
+  abbr: null
+  year: 2016
+  authors:
+  - Hao Wu
+  - Jian Li
+  - Hancheng Lu*
+  - Peilin Hong
+  selected: false
+  tags: []
+  links: []

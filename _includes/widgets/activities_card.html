@@ -1,0 +1,97 @@
+{% assign type = include.type %}
+{% assign limit = include.limit | default: 1000 %}
+{% assign data = site.data.activities_manual_update | where: "type", type | first %}
+
+{% if data %}
+<div class="my-3 p-0 bg-white shadow-sm rounded-xl">
+    <h6 class="border-bottom border-gray p-3 mb-0">
+        <i class="fas fa-{% case type %}
+            {% when 'Award' %}award
+            {% when 'Editorial Board' %}edit
+            {% when 'Organizing Committee' %}users
+            {% when 'Technical Program Committee (TPC)' %}tasks
+            {% when 'Membership' %}id-card
+            {% when 'Invited Talk' %}microphone
+            {% else %}star
+        {% endcase %}"></i> {{ type }}
+    </h6>
+    <div class="p-3">
+        {% assign sorted_items = data.list | sort: "date" | reverse %}
+        <ul class="list-unstyled mb-1">
+            {% for item in sorted_items limit:limit %}
+            <li class="mb-2 {% unless forloop.first %}border-top border-gray pt-2{% endunless %} {% if item.highlight == 'true' %}font-weight-bold{% endif %}">
+                <div class="d-flex justify-content-between" {% if item.highlight == 'true' %}style="font-weight: bold;"{% endif %}>
+                    {% comment %} 处理委员会类型(isCommittee=true) {% endcomment %}
+                    {% if data.isCommittee %}
+                        <div>
+                            {{ item.position }}, {{ item.conference }}
+                        </div>
+                        <div class="text-muted">
+                            {% if item.multipleYears %}
+                            <em>{{ item.multipleYears }}</em>
+                            {% else %}
+                            <em>{{ item.date }}</em>
+                            {% endif %}
+                        </div>
+                    
+                    {% comment %} 处理受邀演讲类型(Invited Talk) {% endcomment %}
+                    {% elsif type == 'Invited Talk' %}
+                        <div>
+                            {{ item.title }}
+                            {% if item.conference %}
+                            <span class="text-muted">({{ item.conference }})</span>
+                            {% endif %}
+                        </div>
+                        <div class="text-muted">
+                            <em>
+                                {% assign date_parts = item.date | split: '-' %}
+                                {% if date_parts.size >= 2 %}
+                                    {{ date_parts[1] | date: "%b. %Y" }}
+                                {% else %}
+                                    {{ item.date }}
+                                {% endif %}
+                            </em>
+                        </div>
+                    
+                    {% comment %} 处理其他类型(Award/Editorial Board/Membership) {% endcomment %}
+                    {% else %}
+                        <div>{{ item.title }}</div>
+                        {% if item.date %}
+                        <div class="text-muted">
+                            <em>
+                                {% if item.multipleYears %}
+                                    {{ item.multipleYears }}
+                                {% else %}
+                                    {% assign date_parts = item.date | split: '-' %}
+                                    {% if date_parts.size >= 2 %}
+                                        {{ date_parts[1] | date: "%b. %Y" }}
+                                    {% else %}
+                                        {{ item.date }}
+                                    {% endif %}
+                                {% endif %}
+                            </em>
+                        </div>
+                        {% endif %}
+                    {% endif %}
+                </div>
+                
+                {% comment %} 处理链接部分(所有类型通用) {% endcomment %}
+                {% if item.links and item.links != '' %}
+                    <div class="mt-1 small">
+                        {% if item.links.first.url %}
+                            {% comment %} 处理links作为对象数组的情况 {% endcomment %}
+                            {% for link in item.links %}
+                                <a href="{{ link.url }}" class="badge badge-light border mr-1">{{ link.text }}</a>
+                            {% endfor %}
+                        {% else %}
+                            {% comment %} 处理links作为简单URL的情况 {% endcomment %}
+                            <a href="{{ item.links }}" class="badge badge-light border mr-1">Link</a>
+                        {% endif %}
+                    </div>
+                {% endif %}
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+</div>
+{% endif %}

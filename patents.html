@@ -1,0 +1,62 @@
+---
+layout: default
+title : Patents
+navbar_title: Patents
+body_attr: >-
+  data-spy="scroll" data-target="#navbar-year" data-offset="100"
+---
+<style>
+  .pub-index-col {
+    width: 50px;
+    min-width: 50px;
+    text-align: right;
+    padding-right: 15px !important;
+  }
+  .pub-content-col {
+    flex: 1;
+    min-width: 0;
+  }
+  .pub-row {
+    display: flex;
+    align-items: flex-start;
+    padding: 12px 15px;
+  }
+  .pub-title {
+    margin-bottom: 4px;
+    line-height: 1.3;
+  }
+  .pub-meta {
+    font-size: 0.9em;
+    line-height: 1.4;
+    margin-bottom: 4px;
+  }
+  .pub-links {
+    margin-top: 6px;
+  }
+</style>
+
+<!-- 新增：专利展示 -->
+<h2 class="pt-4" id="patents">Patents</h2>
+<div class="my-0 bg-white shadow-sm rounded-xl">
+  {% for patent in site.data.patents_manual_update %}
+    <div class="pub-row {% unless forloop.last %}border-bottom{% endunless %}">
+      <div class="pub-content-col">
+        <!-- 专利标题 -->
+        <div class="pub-title mb-1" style="font-size: 0.95rem; font-weight: normal;">
+          {{ patent.title }}
+        </div>
+        <!-- 作者信息 -->
+        <div class="pub-meta">
+          {{ patent.authors }}
+        </div>
+        <!-- National, number, date, status 一行展示 -->
+        <div class="pub-meta" style="display: flex; flex-wrap: wrap; gap: 2em;">
+          <span>National：{{ patent.national }}</span>
+          <span>Number：{{ patent.number }}</span>
+          <span>Date：{{ patent.date }}</span>
+          <span>Status：{{ patent.status }}</span>
+        </div>
+      </div>
+    </div>
+  {% endfor %}
+</div>

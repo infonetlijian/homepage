@@ -1,0 +1,30 @@
+- course: 'Computer Networks (计算机网络)'
+  year: 'Fall 2025/Fall 2024/Fall 2023'
+  selected: false
+  tags: []
+  links:
+  - name: homepage
+    url: 'https://if.ustc.edu.cn/course/course/index.php?categoryid=4'
+  - name: PDF
+    url: ''
+  - name: Code
+    url: ''
+  - name: BibTeX
+    url: ''
+  - name: GB/T 7714
+    url: ''
+- course: 'Network Sercuity Protocol (网络安全协议)'
+  year: 'Spring 2023'
+  selected: false
+  tags: []
+  links:
+  - name: homepage
+    url: 'https://if.ustc.edu.cn/course/course/view.php?id=39'
+  - name: PDF
+    url: ''
+  - name: Code
+    url: ''
+  - name: BibTeX
+    url: ''
+  - name: GB/T 7714
+    url: ''

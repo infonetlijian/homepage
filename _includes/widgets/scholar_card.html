@@ -1,0 +1,83 @@
+<div class="card border-0 shadow-sm bg-white">
+  <div class="card-body">
+    <h5 class="card-title">Google Scholar Citations</h5>
+    <div id="scholar-stats" class="small text-muted">Loading citation stats...</div>
+    <div style="height: 180px"><canvas id="scholar-citations-chart"></canvas></div>
+    <p class="card-text mt-2">
+      <small>
+        Data via mirror for reliability in mainland China. <a target="_blank" href="https://scholar.lanfanshu.cn/citations?user=ZuP2MtEAAAAJ&hl=zh-CN">View profile</a>
+      </small>
+    </p>
+  </div>
+</div>
+<script>
+(function(){
+  const profileUrl = 'https://scholar.lanfanshu.cn/citations?view_op=graph_citations&user=ZuP2MtEAAAAJ';
+  const proxy = 'https://r.jina.ai/http://';
+  const fetchUrl = proxy + profileUrl.replace('https://','http://');
+  function parseMarkdown(md){
+    const stats = {};
+    const mC = md.match(/Citations:\s*(\d+)/);
+    const mH = md.match(/H-Index:\s*(\d+)/i);
+    const mI = md.match(/I10-Index\s*:\s*(\d+)/i);
+    if(mC) stats.citations = parseInt(mC[1],10);
+    if(mH) stats.hindex = parseInt(mH[1],10);
+    if(mI) stats.i10 = parseInt(mI[1],10);
+    const yearData = [];
+    const yearRegex = /(\n\s*(\d{1,4})\s*\n\s*(20\d{2}|19\d{2})\s*\n)/g;
+    let m;
+    while((m = yearRegex.exec(md))){
+      const v = parseInt(m[2],10);
+      const y = parseInt(m[3],10);
+      if(!isNaN(v) && !isNaN(y)) yearData.push({y, v});
+    }
+    const uniq = {};
+    yearData.forEach(d=>{ if(!uniq[d.y] || d.v>uniq[d.y]) uniq[d.y]=d.v; });
+    const series = Object.keys(uniq).map(k=>({y:parseInt(k,10), v:uniq[k]})).sort((a,b)=>a.y-b.y);
+    return {stats, series};
+  }
+  function renderChart(series){
+    if(!series || series.length===0) return;
+    const ctx = document.getElementById('scholar-citations-chart').getContext('2d');
+    new Chart(ctx, {
+      type: 'line',
+      data: {
+        labels: series.map(d=>d.y),
+        datasets: [{
+          label: 'Citations per year',
+          data: series.map(d=>d.v),
+          borderColor: '#007bff',
+          backgroundColor: 'rgba(0,123,255,0.1)',
+          tension: 0.2,
+          fill: true,
+          pointRadius: 2
+        }]
+      },
+      options: {
+        responsive: true,
+        maintainAspectRatio: false,
+        scales: { y: { beginAtZero: true } }
+      }
+    });
+  }
+  fetch(fetchUrl).then(r=>r.text()).then(md=>{
+    const {stats, series} = parseMarkdown(md);
+    const st = [];
+    if(stats.citations) st.push('Total: '+stats.citations);
+    if(stats.hindex) st.push('H-index: '+stats.hindex);
+    if(stats.i10) st.push('i10-index: '+stats.i10);
+    document.getElementById('scholar-stats').textContent = st.join(' • ');
+    if(typeof Chart === 'undefined'){
+      var s = document.createElement('script');
+      s.src = 'https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js';
+      s.onload = function(){ renderChart(series); };
+      document.body.appendChild(s);
+    } else {
+      renderChart(series);
+    }
+  }).catch(err=>{
+    document.getElementById('scholar-stats').textContent = 'Failed to load';
+    console.error('Scholar fetch error', err);
+  });
+})();
+</script>
