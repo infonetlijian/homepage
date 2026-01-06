@@ -1,0 +1,50 @@
+---
+layout: default
+title : Homepage
+navbar_title: Home
+---
+{% include widgets/profile_card.html %}
+
+<!-- {% include widgets/debug_repo_name.html %} -->
+
+{% include widgets/debug_url.html %}
+
+{% if site.data.display.homepage.show_experience %}
+    {% include widgets/experience_card.html %}
+{% endif %}
+
+{% if site.data.display.homepage.show_news %}
+    {% assign count_news = site.data.news_manual_update | size %}
+    {% if count_news > 0 %}
+        {% include widgets/news_card.html limit=site.data.display.homepage.num_news %}
+    {% endif %}
+{% endif %}
+
+{% if site.data.display.homepage.show_selected_publications %}
+    {% assign pubs = site.publications | sort: "date" | reverse | where: "selected", true %}
+    {% 
+        include widgets/publication_card.html 
+        publications=pubs
+        title='<i class="fas fa-star"></i> Selected Publications'
+    %}
+{% endif %}
+
+<div class="row my-3">
+  <div class="col-12 col-lg-6 mb-3 mb-lg-0">
+    {% include widgets/githubstar_card.html %}
+  </div>
+  <div class="col-12 col-lg-6">
+    {% include widgets/scholar_card.html %}
+  </div>
+  
+</div>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-BC0WVCG1DH"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-BC0WVCG1DH');
+</script>
