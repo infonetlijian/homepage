@@ -69,10 +69,15 @@
   isCommittee: true
   list:
   - position: TPC Co-Chair
+    conference: IEEE The 22nd International Wireless Communications & Mobile Computing Conference (IWCMC), Quantum Networks and Computing (QNC) Symposium
+    highlight: true
+    date: 2026
+    links: "https://iwcmc.net/2026/index.php"
+  - position: TPC Co-Chair
     conference: IEEE The 21st International Wireless Communications & Mobile Computing Conference (IWCMC), Quantum Networks and Computing (QNC) Symposium
     highlight: true
     date: 2025
-    links:
+    links: "https://iwcmc.net/2025/"
   - position: TPC Member
     conference: IEEE Global Communications Conference (GLOBECOM)
     highlight: false
