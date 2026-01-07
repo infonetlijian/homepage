@@ -1,5 +1,32 @@
-- id: sun2025loopy
-  title: 'Loopy QUIC: DNS–QUIC Cross-Protocol Traffic Amplification for Denial-of-Service Attacks'
+- id: yuan2025compactdb
+  title: 'CompactDB: Compact and Secure Collaborative Relational Data Analytics'
+  date: '2026-01-04'
+  type: journal
+  publisher: IEEE Transactions on Dependable and Secure Computing (Under Review)
+  abbr: TDSC
+  year: 2025
+  authors:
+  - Shaoxian Yuan
+  - Kaiping Xue* 
+  - Jingcheng Zhao
+  - Yaxuan Huang
+  - Yingjie Xue
+  - Jian Li
+  - Lutong Chen
+  - David S.L. Wei
+  selected: false
+  tags: []
+  links:
+  - name: DOI
+    url: ''
+  - name: PDF
+    url: ''
+  - name: Code
+    url: ''
+  - name: BibTeX
+    url: ''
+  - name: GB/T 7714
+    url: ''
   date: '2025-11-22'
   type: journal
   publisher: IEEE Transactions on Networking (Under Review)
