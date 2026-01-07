@@ -1,3 +1,59 @@
+- id: long2025replicast
+  title: 'Replicast: In-Network Support for Fast RDMA Loss Recovery'
+  date: '2025-12-25'
+  type: journal
+  publisher: IEEE Transactions on Networking (Under Review)
+  abbr: ToN
+  year: 2025
+  authors:
+  - Minfei Long
+  - Jiangping Han
+  - Wentao Wang
+  - Kaiping Xue
+  - Jian Li
+  - Kunpeng Ding
+  - Ruidong Li
+  selected: false
+  tags: []
+  links:
+  - name: DOI
+    url: ''
+  - name: PDF
+    url: ''
+  - name: Code
+    url: ''
+  - name: BibTeX
+    url: ''
+  - name: GB/T 7714
+    url: ''
+- id: qu2025trimcaching
+  title: 'TrimCaching: Parameter-sharing Edge Caching for AI Model Downloading'
+  date: '2025-06-07'
+  type: journal
+  publisher: IEEE Transactions on Networking (Under Review)
+  abbr: ToN
+  year: 2025
+  authors:
+  - Guanqiao Qu
+  - Zheng Lin
+  - Qian Chen
+  - Jian Li
+  - Fangming Liu
+  - Xianhao Chen
+  - Kaibin Huang
+  selected: false
+  tags: []
+  links:
+  - name: DOI
+    url: ''
+  - name: PDF
+    url: ''
+  - name: Code
+    url: ''
+  - name: BibTeX
+    url: ''
+  - name: GB/T 7714
+    url: ''
 - id: yuan2025compactdb
   title: 'CompactDB: Compact and Secure Collaborative Relational Data Analytics'
   date: '2026-01-04'
@@ -27,6 +83,8 @@
     url: ''
   - name: GB/T 7714
     url: ''
+- id: sun2025loopy
+  title: 'Loopy QUIC: DNS–QUIC Cross-Protocol Traffic Amplification for Denial-of-Service Attacks'
   date: '2025-11-22'
   type: journal
   publisher: IEEE Transactions on Networking (Under Review)
