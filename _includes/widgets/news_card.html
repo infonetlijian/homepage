@@ -1,8 +1,4 @@
-{% assign source_news = include.news | default: site.data.news_manual_update %}
-{% assign filtered_news = source_news %}
-{% if include.featured_only != false %}
-  {% assign filtered_news = filtered_news | where: "feature", true %}
-{% endif %}
+{% assign filtered_news = site.data.news_manual_update | where: "feature", true %}
 {% assign news_by_year = filtered_news | sort: "date" | reverse | slice: 0, include.limit | group_by_exp: "item", "item.date | date: '%Y'" -%}
 
 <div class="my-3 bg-white shadow-sm rounded-xl">

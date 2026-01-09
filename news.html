@@ -12,17 +12,29 @@ navbar_title: News
   <ul class="news-list">
     {% for item in news_items %}
     <li class="news-item {% if item.feature %}news-feature{% endif %}" style="text-align: justify;">
-      <div class="news-meta">
-        {% if item.date %}{{ item.date | date: "%b. %Y" }}{% endif %}
-        {% if item.tag %} · <span class="badge badge-secondary">{{ item.tag }}</span>{% endif %}
-      </div>
       <div class="news-content">
+        {% if item.tag %}
+          <span class="news-meta">[{{ item.tag }}] </span>
+        {% endif %}
+        {% if item.date %}
+          <span class="news-meta">{{ item.date | date: " %b %Y" }},</span>
+        {% endif %}
+        
         <span class="news-title">{{ item.title }}</span>
+        
         {% if item.links %}
-          <div class="news-links">
-            {% for l in item.links %}
-              <a class="news-link" href="{{ l.url }}" target="_blank" rel="noopener">{{ l.name }}</a>{% unless forloop.last %} · {% endunless %}
+          <span class="news-links">
+            {% for link in item.links %}
+              <a href="{{ link.url }}" target="_blank" class="news-link">
+                [{{ link.name }}]
+              </a>
             {% endfor %}
+          </span>
+        {% endif %}
+
+        {% if item.feature %}
+          <div class="text-right">
+            <span class="badge badge-pill badge-info">Featured</span>
           </div>
         {% endif %}
       </div>
