@@ -1,6 +1,9 @@
-- title: 'I am invited to serve as TPC Co-Chair in IEEE IWCMC 2025 QNC! Welcome to submit your valuable work! https://iwcmc.net/2026/index.php' 
+- title: 'I am invited to serve as TPC Co-Chair in IEEE IWCMC 2026 QNC! Welcome to submit your valuable work! https://iwcmc.net/2026/index.php' 
   tag: Activity
   feature: true
+  links:
+  - name: Link
+    url: https://iwcmc.net/2026/index.php
 - title: 'our paper "Adaptive Software-Defined Perimeter Placement for Dynamic User Distributions in Zero-Trust Networks" is accepted by IEEE Transactions on Network Science and Engineering!'
   tag: Paper
   date: '2025-12-08'
