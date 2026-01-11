@@ -1,3 +1,33 @@
+- id: wu2025adaptive
+  title: 'Adaptive Quantum Memory Allocation for Memory-assisted MDI-QKD: A Theoretical Framework for Scalable Multi-User Key Generation'
+  date: '2025-12-30'
+  type: journal
+  publisher: Nature Communications (Under Review)
+  abbr: NC
+  year: 2025
+  authors:
+  - Jiaqi Wu#
+  - KunJie Shang#
+  - Jian Li*
+  - Zhonghui Li
+  - Fengyu Lu
+  - Yuqi Yang
+  - Jiaju Deng
+  - Shuang Wang
+  - Kaiping Xue*
+  selected: false
+  tags: []
+  links:
+  - name: DOI
+    url: ''
+  - name: PDF
+    url: ''
+  - name: Code
+    url: ''
+  - name: BibTeX
+    url: ''
+  - name: GB/T 7714
+    url: ''
 - id: long2025replicast
   title: 'Replicast: In-Network Support for Fast RDMA Loss Recovery'
   date: '2025-12-25'
