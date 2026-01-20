@@ -97,7 +97,7 @@
   - name: DOI
     url: ''
   - name: PDF
-    url: ''
+    url: 'https://infonetlijian.github.io/homepage/PDF_files/2025-【TNSE】-Distributed_Entanglement_Routing_Scheme_With_Fidelity_Guarantee_in_Quantum_Networks.pdf'
   - name: Code
     url: ''
   - name: BibTeX
@@ -186,7 +186,7 @@
   - name: DOI
     url: ''
   - name: PDF
-    url: ''
+    url: 'https://infonetlijian.github.io/homepage/PDF_files/'
   - name: Code
     url: ''
   - name: BibTeX
@@ -213,7 +213,7 @@
   - name: DOI
     url: 10.1109/MNET.2025.3579925
   - name: PDF
-    url: ''
+    url: 'https://infonetlijian.github.io/homepage/PDF_files/2025-【MNET】-ForenSiX_Automated_Network_Forensics_and_Diagnostics_for_Beyond-5G_and_6G_Networks_Using_Large_Language_Models.pdf'
   - name: Code
     url: ''
   - name: BibTeX
@@ -242,7 +242,7 @@
   - name: DOI
     url: '10.1109/TON.2025.3579932'
   - name: PDF
-    url: ''
+    url: 'https://infonetlijian.github.io/homepage/PDF_files/2025-【ToN】-An_Asynchronous_Key_Relay_Protocol_Design_for_Large-Scale_Quantum_Key_Distribution_Networks.pdf'
   - name: Code
     url: ''
   - name: BibTeX
@@ -494,7 +494,7 @@
   - name: DOI
     url: https://doi.org/10.1109/ICC52391.2025.11161022
   - name: PDF
-    url: ''
+    url: 'https://infonetlijian.github.io/homepage/PDF_files/2025-【ICC】-A_Handover-Aware_Congestion_Control_Algorithm_Assisted_by_DRL_in_LEO_Satellite_Networks.pdf'
   - name: Code
     url: ''
   - name: BibTeX
@@ -558,7 +558,7 @@
   - name: DOI
     url: '10.1109/INFOCOM55648.2025.11044493'
   - name: PDF
-    url: ''
+    url: 'https://infonetlijian.github.io/homepage/PDF_files/2025-【INFOCOM】-NetRT_Enhancing_RDMA_with_Retransmission_Offloading_in_Data_Center_Networks.pdf'
   - name: Code
     url: ''
   - name: BibTeX
