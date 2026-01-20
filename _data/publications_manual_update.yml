@@ -95,7 +95,7 @@
   tags: []
   links:
   - name: DOI
-    url: ''
+    url: '10.1109/TNSE.2025.3631132'
   - name: PDF
     url: 'https://infonetlijian.github.io/homepage/PDF_files/2025-【TNSE】-Distributed_Entanglement_Routing_Scheme_With_Fidelity_Guarantee_in_Quantum_Networks.pdf'
   - name: Code
@@ -129,9 +129,9 @@
   tags: []
   links:
   - name: DOI
-    url: 's41467-025-66333-3'
+    url: '10.1038/s41467-025-66333-3'
   - name: PDF
-    url: ''
+    url: 'https://infonetlijian.github.io/homepage/PDF_files/2025-【NC】-Fully heterogeneous prepare-and-measure quantum network for the next stage of quantum internet.pdf'
   - name: Code
     url: ''
   - name: BibTeX
@@ -159,7 +159,7 @@
   - name: DOI
     url: '10.1109/TNSE.2025.3605623'
   - name: PDF
-    url: ''
+    url: 'https://infonetlijian.github.io/homepage/PDF_files/2025-【TNSE】-PrivTF_Efficient_and_Privacy-Preserving_Transformer_Inference_With_Optimized_Protocols_for_Secure_NLP.pdf'
   - name: Code
     url: ''
   - name: BibTeX
