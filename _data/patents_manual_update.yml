@@ -4,12 +4,12 @@
   national: China
   status: 授权
   date: '2023-07-11'
-- title: 一种基于分段的部分可信中继的QKD网络密钥分发方法 （公开实审）
+- title: 一种基于分段的部分可信中继的QKD网络密钥分发方法
   authors: 李健,王明君,薛开平,陈鲁同,俞能海,孙启彬,陆军
   number: '202310171705.9'
   national: China
-  status: 公开实审
-  date: '2023-02-22'
+  status: 授权
+  date: '2026-02-04'
 - title: 一种量子密钥分发网络节点间的密钥同步方法
   authors: 李健,郑鹏,薛开平,李忠辉,俞能海
   number: 'ZL202311589216.1'
@@ -33,4 +33,4 @@
   number: '2025115441698'
   national: China
   status: 授权
-  date: '2026-1-7'
+  date: '2026-2-03'
