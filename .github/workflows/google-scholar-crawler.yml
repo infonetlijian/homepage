@@ -1,0 +1,39 @@
+name: Google Scholar Crawler
+
+on:
+  push:
+    branches: [ main ]
+  schedule:
+    - cron: '0 8 * * *'  # 每天 UTC 08:00 执行
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v3
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+    
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+    
+    - name: Install dependencies
+      run: |
+        pip install scholarly requests
+    
+    - name: Run Google Scholar Crawler
+      env:
+        GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
+      run: python google_scholar_crawler/main.py
+    
+    - name: Commit and push changes
+      run: |
+        cd results
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add -A
+        git commit -m "Update Google Scholar statistics" || true
+        git push origin google-scholar-stats || git checkout -b google-scholar-stats && git push -u origin google-scholar-stats
