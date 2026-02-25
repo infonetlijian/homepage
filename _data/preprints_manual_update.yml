@@ -1,3 +1,33 @@
+- id: wang2026qumap
+  title: 'QuMAP: Congestion-Aware Placement and Allocation of Shared Heterogeneous EPRs deployment for Quantum Networks'
+  date: '2026-2-23'
+  type: journal
+  publisher: IEEE/ACM Transactions on Networking (Under Review)
+  abbr: ToN
+  year: 2026
+  authors:
+  - Zhi Wang
+  - Tao Gong
+  - Bingyu Ji
+  - Bo Yi
+  - Jianhui Lv
+  - Jian Li
+  - Geyong Min
+  - Sajal K. Das
+  - Keqin Li
+  selected: false
+  tags: []
+  links:
+  - name: DOI
+    url: ''
+  - name: PDF
+    url: ''
+  - name: Code
+    url: ''
+  - name: BibTeX
+    url: ''
+  - name: GB/T 7714
+    url: ''
 - id: wu2025adaptive
   title: 'Adaptive Quantum Memory Allocation for Memory-assisted MDI-QKD: A Theoretical Framework for Scalable Multi-User Key Generation'
   date: '2025-12-30'

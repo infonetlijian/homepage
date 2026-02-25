@@ -2,8 +2,6 @@
 layout: default
 title: Teaching
 navbar_title: Teaching
-body_attr: >-
-  data-spy="scroll" data-target="#navbar-year" data-offset="100"
 ---
 
 <div class="container mt-4">
@@ -43,14 +41,11 @@ body_attr: >-
 
 
             <div class="my-0 bg-white shadow-sm rounded-xl">
-                {% assign total_courses = site.data.teching_manual_update | size %}
-                {% assign courses_by_year = site.data.teching_manual_update | group_by_exp: "item", "item.year" %}
+                {% comment %} sort courses by year then name to get primary ordering by course, secondary by year {% endcomment %}
+                {% assign sorted_courses = site.data.teching_manual_update | sort: "year" | sort: "course" %}
 
-                {% for year in courses_by_year %}
-                <h2 class="pt-4" id="year-{{ year.name }}">{{ year.name }}</h2>
-                <div class="my-0 bg-white shadow-sm rounded-xl">
-                    {% for course in year.items %}
-                    <div class="pub-row {% unless forloop.last %}border-bottom{% endunless %}">
+                {% for course in sorted_courses %}
+                <div class="pub-row {% unless forloop.last %}border-bottom{% endunless %}">
                         <!-- 序号列 -->
                         <div class="pub-index-col text-muted">
                             {{ forloop.index }}.
@@ -109,19 +104,9 @@ body_attr: >-
                         </div>
                     </div>
                     {% endfor %}
-                </div>
-                {% endfor %}
             </div>
         </div>
 
-        <!-- 年份导航栏 -->
-        <div class="col-2 d-none d-lg-block">
-            <div id="navbar-year" class="nav nav-pills flex-column sticky-top" style="top: 80px">
-                {% for year in courses_by_year %}
-                <a class="nav-link d-block" href="#year-{{ year.name }}">{{ year.name }}</a>
-                {% endfor %}
-            </div>
-        </div>
     </div>
 </div>
 
