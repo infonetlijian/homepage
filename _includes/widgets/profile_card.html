@@ -40,6 +40,10 @@
                         <div class="text-profile-bio mt-3" {% if site.data.profile.short_bio_text_justify %}style="text-align: justify;"{% endif %}>
                             {{ site.data.profile.short_bio }}
                         </div>
+                            <!-- 显示总被引用次数 -->
+                        <a href="https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID">
+                            <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FYOUR_GITHUB_USERNAME%2FYOUR_REPO_NAME@google-scholar-stats/gs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations" alt="citations">
+                        </a>
                         {% if site.data.profile.cv_link %}
                             <a target="_blank" href="{{ site.data.profile.cv_link | relative_url }}"><i class="fas fa-file-alt"></i> Curriculum Vitae</a> <br/>
                         {% endif %}
@@ -53,11 +57,6 @@
                             <i class="fas fa-at"></i> <span class="email-text">{{ site.data.profile.email | replace: "@", "(at)" }}</span>
                         </a>
                     </div>
-                    <p>我的研究已被引用 <strong id="total_cit">-</strong> 次</p>
-                    <!-- 显示总被引用次数 -->
-                    <a href="https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID">
-                        <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FYOUR_GITHUB_USERNAME%2FYOUR_REPO_NAME@google-scholar-stats/gs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations" alt="citations">
-                    </a>
                 </div>
                 <div class="row mt-3">
                     <div class="col">
