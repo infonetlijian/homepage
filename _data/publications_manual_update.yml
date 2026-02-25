@@ -1,3 +1,33 @@
+- id: wang2026qumap
+  title: 'QuMAP: Congestion-Aware Placement and Allocation of Shared Heterogeneous EPRs deployment for Quantum Networks'
+  date: '2026-2-23'
+  type: journal
+  publisher: IEEE/ACM Transactions on Networking
+  abbr: ToN
+  year: 2026
+  authors:
+  - Zhi Wang
+  - Tao Gong
+  - Bingyu Ji
+  - Bo Yi
+  - Jianhui Lv
+  - Jian Li
+  - Geyong Min
+  - Sajal K. Das
+  - Keqin Li
+  selected: false
+  tags: []
+  links:
+  - name: DOI
+    url: ''
+  - name: PDF
+    url: ''
+  - name: Code
+    url: ''
+  - name: BibTeX
+    url: ''
+  - name: GB/T 7714
+    url: ''
 - id: hu2025pureflow
   title: 'Adaptive Software-Defined Perimeter Placement for Dynamic User Distributions in Zero-Trust Networks'
   date: '2025-12-08'
@@ -27,7 +57,7 @@
     url: ''
 - id: chen2026quiks
   title: 'QuIKS: Near-Zero Latency Key Supply with Adaptive Buffering for Resource-Efficient Quantum Key Distribution Networks'
-  date: '2025-12-08'
+  date: '2026-5-21'
   type: conference
   publisher: IEEE Conference on Computer Communications (INFOCOM)
   abbr: INFOCOM
@@ -54,7 +84,7 @@
     url: ''
 - id: long2026lr2
   title: 'LR2: Accelerating Long-Distance RDMA Recovery via In-Network Retransmission Decoupling'
-  date: '2025-12-08'
+  date: '2026-5-21'
   type: conference
   publisher: IEEE Conference on Computer Communications (INFOCOM)
   abbr: INFOCOM

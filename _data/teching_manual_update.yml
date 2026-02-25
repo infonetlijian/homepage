@@ -1,3 +1,18 @@
+- course: 'Network Security Design and Practice (网络安全设计与实践)'
+  year: 'Spring 2026'
+  selected: false
+  tags: []
+  links:
+  - name: homepage
+    url: ''
+  - name: PDF
+    url: ''
+  - name: Code
+    url: ''
+  - name: BibTeX
+    url: ''
+  - name: GB/T 7714
+    url: ''
 - course: 'Computer Networks (计算机网络)'
   year: 'Fall 2025/Fall 2024/Fall 2023'
   selected: false
