@@ -4,7 +4,7 @@ navbar_name: "Homepage"
 
 positions:
 #- logo: /assets/images/badges/USTC_blue.png  # Logo is optional
-- name: Associate Researcher 
+- name: Associate Professor
 - name: IEEE Senior Member, ACM Member, CCF Member
 
 
@@ -25,7 +25,7 @@ group: https://qnlab-ustc.com/
 short_bio_text_justify: true
 short_bio: >-
   <p>
-    Jian Li received the bachelor's degree from the Department of Electronics and Information Engineering, Anhui University, in 2015, and received the Ph.D degree from the Department of Electronic Engineering and Information Science, University of Science and Technology of China (USTC), in 2020. From Nov. 2019 to Nov. 2020, he was a visiting scholar with the Department of Electronic and Computer Engineering, University of Florida. From Dec. 2020 to Oct. 2022, he was a postdoctoral researcher with the School of Cyber Science and Technology, USTC. He is currently an associate researcher with the School of Cyber Science and Technology, USTC. He serves as an Editor of IEEE Transactions on Communications and China Communications, and he has served as Technical Program Committee Co-Chair for IEEE IWCMC 2025 QNC Symposium. He is the recipient of IEEE ComSoc Internet Technical Committee Early Career Award 2025. His research interests include quantum networking, wireless networks and network security. 
+     Jian Li received the bachelor's degree from the Department of Electronics and Information Engineering, Anhui University, in 2015, and received the Ph.D degree from the Department of Electronic Engineering and Information Science, University of Science and Technology of China (USTC), in 2020. From Nov. 2019 to Nov. 2020, he was a visiting scholar with the Department of Electronic and Computer Engineering, University of Florida. From Dec. 2020 to Oct. 2022, he was a postdoctoral researcher with the School of Cyber Science and Technology, USTC. From Nov. 2022 to Mar. 2026, He was an associate researcher with the School of Cyber Science and Technology, USTC. He is currently an Associate Professor with the School of Cyber Science and Technology, USTC. He serves as an Editor of IEEE Transactions on Communications and China Communications, and he has served as Technical Program Committee Co-Chair for IEEE IWCMC 2025 QNC Symposium. He is the recipient of IEEE ComSoc Internet Technical Committee Early Career Award 2025. His research interests include quantum networking, wireless networks and network security.  
   </p>
 
 portrait_url: /assets/images/photos/Photo-lijian.JPG
@@ -54,8 +54,14 @@ experience:
   logo: /assets/images/badges/USTC_blue.png
   position: >- 
     School of Cyber Science and Technology <br/>
+    Associate Professor
+  date: Apr. 2026 - Present
+- name: University of Science and Technology of China
+  logo: /assets/images/badges/USTC_blue.png
+  position: >- 
+    School of Cyber Science and Technology <br/>
     Associate Researcher
-  date: Nov. 2022 - Present
+  date: Nov. 2022 - Mar. 2026
 - name: University of Science and Technology of China
   logo: /assets/images/badges/USTC_blue.png
   position: >- 

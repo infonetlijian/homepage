@@ -28,13 +28,13 @@
     url: ''
   - name: GB/T 7714
     url: ''
-- id: wu2025adaptive
+- id: wu2026adaptive
   title: 'Adaptive Quantum Memory Allocation for Memory-assisted MDI-QKD: A Theoretical Framework for Scalable Multi-User Key Generation'
-  date: '2025-12-30'
+  date: '2026-3-1'
   type: journal
-  publisher: Nature Communications (Under Review)
-  abbr: NC
-  year: 2025
+  publisher: npj Quantum Information (Under Review)
+  abbr: npjQI
+  year: 2026
   authors:
   - Jiaqi Wu#
   - KunJie Shang#
