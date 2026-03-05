@@ -1,3 +1,30 @@
+- id: huang2026dynnet
+  title: 'DynNet: A Lightweight Distributed Framework for Topology Obfuscation in Dynamic Networks'
+  date: '2026-3-5'
+  type: journal
+  publisher: IEEE Transactions on Network Science and Engineering
+  abbr: TNSE
+  year: 2025
+  authors:
+  - Xuanbo Huang 
+  - Kaiping Xue* 
+  - Lutong Chen
+  - Zixu Huang 
+  - Jian Li
+  - Hyundong Shin*
+  selected: false
+  tags: []
+  links:
+  - name: DOI
+    url: ''
+  - name: PDF
+    url: ''
+  - name: Code
+    url: ''
+  - name: BibTeX
+    url: ''
+  - name: GB/T 7714
+    url: ''
 - id: hu2025pureflow
   title: 'Adaptive Software-Defined Perimeter Placement for Dynamic User Distributions in Zero-Trust Networks'
   date: '2025-12-08'

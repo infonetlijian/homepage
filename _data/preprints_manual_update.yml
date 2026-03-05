@@ -198,33 +198,6 @@
     url: ''
   - name: GB/T 7714
     url: ''
-- id: 2025dynnet
-  title: 'DynNet: A Lightweight Distributed Framework for Topology Obfuscation in Dynamic Networks'
-  date: '2025-11-19'
-  type: journal
-  publisher: IEEE Transactions on Network Science and Engineering (Under Review)
-  abbr: TNSE
-  year: 2025
-  authors:
-  - Xuanbo Huang 
-  - Kaiping Xue* 
-  - Lutong Chen
-  - Zixu Huang 
-  - Jian Li
-  - Hyundong Shin*
-  selected: false
-  tags: []
-  links:
-  - name: DOI
-    url: ''
-  - name: PDF
-    url: ''
-  - name: Code
-    url: ''
-  - name: BibTeX
-    url: ''
-  - name: GB/T 7714
-    url: ''
 - id: li2025tree
   title: 'Tree-based Networking Scheme: Towards Future Large-scale Quantum Local Area Networks with High Entanglement Connectivity'
   date: '2025-08-15'
