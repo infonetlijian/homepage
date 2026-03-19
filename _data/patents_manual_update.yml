@@ -22,15 +22,15 @@
   national: China
   status: 授权
   date: '2024-03-29'
-- title: 一种量子密钥分发网络的密钥中继方法 （公开实审）
+- title: 一种量子密钥分发网络的密钥中继方法
   authors: 李健,陈雨新,薛开平,李忠辉,俞能海
   number: '202510723150.3'
   national: China
-  status: 公开实审
+  status: 授权
   date: '2025-05-30'
 - title: 在 TLS 记录层中融合量子密钥一次一密的方法及系统 
   authors: 李健,高旭民,薛开平,陈鲁同,李忠辉,陈雨新,俞能海
-  number: '2025115441698'
+  number: 'ZL202511544169.8'
   national: China
   status: 授权
-  date: '2026-2-03'
+  date: '2025-10-28'

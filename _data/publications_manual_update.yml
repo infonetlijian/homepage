@@ -1,3 +1,31 @@
+- id: ding2025puf
+  title: 'PUF-Based Lightweight Decentralized Authentication for UAV Networks'
+  date: '2026-3-19'
+  type: journal
+  publisher: IEEE Transactions on Mobile Computing
+  abbr: TMC
+  year: 2026
+  authors:
+  - Lei Ding
+  - Kaiping Xue* 
+  - Mingrui Ai
+  - Yingjie Xue*
+  - Lutong Chen
+  - Jian Li
+  - David S.L. Wei
+  selected: false
+  tags: []
+  links:
+  - name: DOI
+    url: ''
+  - name: PDF
+    url: ''
+  - name: Code
+    url: ''
+  - name: BibTeX
+    url: ''
+  - name: GB/T 7714
+    url: ''
 - id: huang2026dynnet
   title: 'DynNet: A Lightweight Distributed Framework for Topology Obfuscation in Dynamic Networks'
   date: '2026-3-5'

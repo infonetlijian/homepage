@@ -170,34 +170,6 @@
     url: ''
   - name: GB/T 7714
     url: ''
-- id: ding2025puf
-  title: 'PUF-Based Lightweight Decentralized Authentication for UAV Networks'
-  date: '2025-11-20'
-  type: journal
-  publisher: IEEE Transactions on Mobile Computing (Under Review)
-  abbr: TMC
-  year: 2025
-  authors:
-  - Lei Ding
-  - Kaiping Xue* 
-  - Mingrui Ai
-  - Yingjie Xue*
-  - Lutong Chen
-  - Jian Li
-  - David S.L. Wei
-  selected: false
-  tags: []
-  links:
-  - name: DOI
-    url: ''
-  - name: PDF
-    url: ''
-  - name: Code
-    url: ''
-  - name: BibTeX
-    url: ''
-  - name: GB/T 7714
-    url: ''
 - id: li2025tree
   title: 'Tree-based Networking Scheme: Towards Future Large-scale Quantum Local Area Networks with High Entanglement Connectivity'
   date: '2025-08-15'
