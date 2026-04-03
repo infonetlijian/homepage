@@ -41,9 +41,16 @@
                             {{ site.data.profile.short_bio }}
                         </div>
                             <!-- 显示总被引用次数 -->
-                        <a href="https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID">
-                            <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FYOUR_GITHUB_USERNAME%2FYOUR_REPO_NAME@google-scholar-stats/gs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations" alt="citations">
+                        {%- if site.data.profile.gscholar -%}
+                        {%- if site.data.profile.gscholar contains 'scholar.google' -%}
+                        {%- assign scholar_id = site.data.profile.gscholar | split: 'user=' | last | split: '&' | first -%}
+                        {%- else -%}
+                        {%- assign scholar_id = site.data.profile.gscholar | split: '&' | first -%}
+                        {%- endif -%}
+                        <a href="https://scholar.google.com/citations?user={{ scholar_id }}">
+                            <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2F{{ site.github.repository_owner }}%2F{{ site.github.repository_name }}@google-scholar-stats/gs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations" alt="citations">
                         </a>
+                        {%- endif -%}
                         {% if site.data.profile.cv_link %}
                             <a target="_blank" href="{{ site.data.profile.cv_link | relative_url }}"><i class="fas fa-file-alt"></i> Curriculum Vitae</a> <br/>
                         {% endif %}
