@@ -1,3 +1,31 @@
+- id: ren2026rtmd
+  title: 'RT-MD: Host-Centric Real-Time Detection of Multi-Domain DNS Data Exfiltration'
+  date: '2026-4-10'
+  type: conference
+  publisher: ACM Conference on Computer and Communications Security
+  abbr: CCS
+  year: 2026
+  authors:
+  - Pengfei Ren
+  - Lutong Chen
+  - Xuanbo Huang
+  - Jiankang Sun
+  - Huanjie Zhang
+  - Jian Li*
+  - Kaiping Xue*
+  selected: false
+  tags: []
+  links:
+  - name: DOI
+    url: ''
+  - name: PDF
+    url: ''
+  - name: Code
+    url: ''
+  - name: BibTeX
+    url: ''
+  - name: GB/T 7714
+    url: ''
 - id: li2026cocats
   title: 'CoCaTS: A Cooperative Caching-enabled Transmission Scheme in Ultra-dense LEO Satellite Networks'
   date: '2026-4-8'
