@@ -1,3 +1,31 @@
+- id: qu2025trimcaching
+  title: 'TrimCaching: Parameter-sharing Edge Caching for AI Model Downloading'
+  date: '2026-4-15'
+  type: journal
+  publisher: IEEE Transactions on Networking
+  abbr: ToN
+  year: 2026
+  authors:
+  - Guanqiao Qu
+  - Zheng Lin
+  - Qian Chen
+  - Jian Li
+  - Fangming Liu
+  - Xianhao Chen*
+  - Kaibin Huang
+  selected: false
+  tags: []
+  links:
+  - name: DOI
+    url: ''
+  - name: PDF
+    url: ''
+  - name: Code
+    url: ''
+  - name: BibTeX
+    url: ''
+  - name: GB/T 7714
+    url: ''
 - id: ren2026rtmd
   title: 'RT-MD: Host-Centric Real-Time Detection of Multi-Domain DNS Data Exfiltration'
   date: '2026-4-10'

@@ -86,34 +86,6 @@
     url: ''
   - name: GB/T 7714
     url: ''
-- id: qu2025trimcaching
-  title: 'TrimCaching: Parameter-sharing Edge Caching for AI Model Downloading'
-  date: '2025-06-07'
-  type: journal
-  publisher: IEEE Transactions on Networking (Under Review)
-  abbr: ToN
-  year: 2025
-  authors:
-  - Guanqiao Qu
-  - Zheng Lin
-  - Qian Chen
-  - Jian Li
-  - Fangming Liu
-  - Xianhao Chen
-  - Kaibin Huang
-  selected: false
-  tags: []
-  links:
-  - name: DOI
-    url: ''
-  - name: PDF
-    url: ''
-  - name: Code
-    url: ''
-  - name: BibTeX
-    url: ''
-  - name: GB/T 7714
-    url: ''
 - id: yuan2025compactdb
   title: 'CompactDB: Compact and Secure Collaborative Relational Data Analytics'
   date: '2026-01-04'
@@ -374,31 +346,6 @@
   - Jiangping Han
   - Yuanxin Yan
   - Kaiping Xue*
-  selected: false
-  tags: []
-  links:
-  - name: DOI
-    url: ''
-  - name: PDF
-    url: ''
-  - name: Code
-    url: ''
-  - name: BibTeX
-    url: ''
-  - name: GB/T 7714
-    url: ''
-- id: li2025cocats
-  title: 'CoCaTS: A Cooperative Caching-enabled Transmission Scheme in Ultra-dense LEO Satellite Networks'
-  date: '2025-07-22'
-  type: journal
-  publisher: IEEE Transactions on Mobile Computing (Under Review)
-  abbr: TMC
-  year: 2025
-  authors:
-  - Jian Li
-  - Qiuqing Long
-  - Kaiping Xue*
-  - Hyundong Shin*
   selected: false
   tags: []
   links:
