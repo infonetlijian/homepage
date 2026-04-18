@@ -227,12 +227,10 @@
   abbr: TCOM
   year: 2025
   authors:
-  - Kaiping Xue*
-  - Zirui Xiao
   - Zhonghui Li 
-  - Jian Li*
-  - Lutong Chen
-  - Ruidong Li
+  - Jian Li
+  - Kaiping Xue*
+  - Hyundong Shin*
   selected: false
   tags: []
   links:
