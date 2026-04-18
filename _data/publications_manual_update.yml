@@ -70,7 +70,7 @@
   tags: []
   links:
   - name: DOI
-    url: ''
+    url: '10.1109/TMC.2026.3683023'
   - name: PDF
     url: ''
   - name: Code
@@ -121,11 +121,13 @@
   - Zixu Huang 
   - Jian Li
   - Hyundong Shin*
+  volume: 13
+  pages: 7684-7701
   selected: false
   tags: []
   links:
   - name: DOI
-    url: ''
+    url: '10.1109/TNSE.2026.3673521'
   - name: PDF
     url: ''
   - name: Code
@@ -148,11 +150,13 @@
   - Jiangping Han
   - Jian Li
   - Ruidong Li
+  volume: 13
+  pages: 5505-5521
   selected: false
   tags: []
   links:
   - name: DOI
-    url: ''
+    url: '10.1109/TNSE.2025.3649680'
   - name: PDF
     url: ''
   - name: Code
@@ -181,7 +185,7 @@
   - name: DOI
     url: ''
   - name: PDF
-    url: ''
+    url: 'https://arxiv.org/pdf/2604.09144'
   - name: Code
     url: ''
   - name: BibTeX
@@ -227,6 +231,8 @@
   - Jian Li
   - Bin Liu*
   - Nenghai Yu
+  volume: 13
+  pages: 3320-3334
   selected: false
   tags: []
   links:
@@ -261,6 +267,9 @@
   - Kaiping Xue
   - Guangcan Guo
   - Zhengfu Han
+  volume: 16
+  number: 11487
+  pages: 74-80
   selected: false
   tags: []
   links:
@@ -289,6 +298,8 @@
   - Jian Li
   - Meng Hao
   - Tianwei Zhang
+  volume: 13
+  pages: 1887-1901
   selected: false
   tags: []
   links:
@@ -343,6 +354,9 @@
   - Jiangping Han
   - Jian Li
   - David S.L. Wei
+  volume: 39
+  number: 5
+  pages: 74-80
   selected: false
   tags: []
   links:
@@ -372,6 +386,9 @@
   - Nenghai Yu
   - Qibin Sun
   - Jun Lu
+  volume: 33
+  number: 6
+  pages: 3024-3039
   selected: true
   tags: []
   links:
@@ -386,8 +403,7 @@
   - name: GB/T 7714
     url: ''
 - id: wang2025rguide
-  title: 'RGuide: Fast and Accurate Congestion Control Guided via Explicit Rate Control
-    in Data Center Networks'
+  title: 'RGuide: Fast and Accurate Congestion Control Guided via Explicit Rate Control in Data Center Networks'
   date: '2025-05-01'
   type: journal
   publisher: IEEE Transactions on Network and Service Management
