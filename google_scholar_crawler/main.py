@@ -5,7 +5,6 @@ Fetches author profile and publication citation data
 """
 
 from scholarly import scholarly, ProxyGenerator
-import jsonpickle
 import json
 from datetime import datetime
 import os
