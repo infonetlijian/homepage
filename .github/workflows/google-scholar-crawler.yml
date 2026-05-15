@@ -2,38 +2,54 @@ name: Google Scholar Crawler
 
 on:
   push:
-    branches: [ main ]
+    branches: [ main, gh-pages ]
   schedule:
     - cron: '0 8 * * *'  # 每天 UTC 08:00 执行
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    
+    permissions:
+      contents: write
+
     steps:
     - uses: actions/checkout@v3
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
-    
+
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
         python-version: '3.10'
-    
+
     - name: Install dependencies
       run: |
         pip install scholarly requests
-    
+
     - name: Run Google Scholar Crawler
       env:
         GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
       run: python google_scholar_crawler/main.py
-    
-    - name: Commit and push changes
+
+    - name: Commit and push results to google-scholar-stats branch
       run: |
-        cd results
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
+
+        # Try switching to existing google-scholar-stats branch, or create orphan branch
+        if git ls-remote --exit-code --heads origin google-scholar-stats; then
+          git fetch origin google-scholar-stats
+          git checkout google-scholar-stats
+          # Copy results from the workflow workspace
+          cp -r results/* .
+          rm -rf results
+        else
+          git checkout --orphan google-scholar-stats
+          # Copy results from the workflow workspace
+          cp -r results/* .
+          rm -rf results
+        fi
+
         git add -A
         git commit -m "Update Google Scholar statistics" || true
-        git push origin google-scholar-stats || git checkout -b google-scholar-stats && git push -u origin google-scholar-stats
+        git push origin google-scholar-stats
