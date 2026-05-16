@@ -1,0 +1,152 @@
+<div class="card border-0 shadow-sm bg-white">
+  <div class="card-body">
+    <h5 class="card-title">
+      <i class="fas fa-globe-asia"></i> Visitor Statistics
+    </h5>
+    <div id="visitor-stats" class="mb-3 text-muted small">
+      <span id="visitor-today">Loading...</span>
+      <span class="mx-2">|</span>
+      <span id="visitor-total">Loading...</span>
+    </div>
+    <div id="visitor-map-container" style="height: 260px; border-radius: 0.5rem; overflow: hidden; background: #f0f0f0;">
+      <div id="visitor-map" style="height: 100%; width: 100%;"></div>
+    </div>
+    <div id="visitor-location" class="mt-2 small text-muted" style="min-height: 1.2em;"></div>
+    <div id="visitor-error" class="mt-2 small text-danger" style="display: none;"></div>
+  </div>
+</div>
+
+<script>
+(function(){
+  var NAMESPACE = 'infonetlijian-homepage';
+  var COUNTER_URL = 'https://api.countapi.xyz';
+  var GEO_URL = 'https://ip-api.com/json/?fields=status,lat,lon,city,country';
+  var todayStr = new Date().toISOString().slice(0, 10);
+  var storageKey = 'visitor_last_date';
+
+  var todayEl = document.getElementById('visitor-today');
+  var totalEl = document.getElementById('visitor-total');
+  var locationEl = document.getElementById('visitor-location');
+  var errorEl = document.getElementById('visitor-error');
+
+  function showError(msg) {
+    errorEl.textContent = msg;
+    if (errorEl.style.display === 'none') {
+      errorEl.style.display = 'block';
+    }
+  }
+
+  function fetchJSON(url) {
+    return fetch(url).then(function(r) {
+      if (!r.ok) throw new Error('HTTP ' + r.status);
+      return r.json();
+    });
+  }
+
+  function getCount(key) {
+    return fetchJSON(COUNTER_URL + '/get/' + NAMESPACE + '/' + key);
+  }
+
+  function hitCount(key) {
+    return fetchJSON(COUNTER_URL + '/hit/' + NAMESPACE + '/' + key);
+  }
+
+  function updateCounts() {
+    var lastDate = localStorage.getItem(storageKey);
+    var isNewVisit = (lastDate !== todayStr);
+
+    if (isNewVisit) {
+      // Increment both counters for this new visit
+      return Promise.all([
+        hitCount('total'),
+        hitCount('daily-' + todayStr)
+      ]).then(function(results) {
+        localStorage.setItem(storageKey, todayStr);
+        return results;
+      }).catch(function() {
+        // If hit fails (e.g. rate limited), fall back to get
+        return Promise.all([
+          getCount('total'),
+          getCount('daily-' + todayStr)
+        ]);
+      });
+    } else {
+      // Same day — just read current values
+      return Promise.all([
+        getCount('total'),
+        getCount('daily-' + todayStr)
+      ]);
+    }
+  }
+
+  function displayCounts(results) {
+    var totalVal = results[0] && results[0].value != null ? results[0].value : '—';
+    var dailyVal = results[1] && results[1].value != null ? results[1].value : '—';
+    todayEl.textContent = 'Today: ' + dailyVal;
+    totalEl.textContent = 'Total: ' + totalVal;
+  }
+
+  function loadLeaflet(callback) {
+    // Load Leaflet CSS
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = 'https://unpkg.com/leaflet@1.9.4/dist/leaflet.css';
+    document.head.appendChild(link);
+
+    // Load Leaflet JS
+    var script = document.createElement('script');
+    script.src = 'https://unpkg.com/leaflet@1.9.4/dist/leaflet.js';
+    script.onload = callback;
+    script.onerror = function() {
+      showError('Failed to load map library');
+    };
+    document.body.appendChild(script);
+  }
+
+  function initMap(lat, lon, city, country) {
+    loadLeaflet(function() {
+      var container = document.getElementById('visitor-map');
+      if (!container) return;
+
+      var map = L.map(container, {
+        center: [lat, lon],
+        zoom: 5,
+        zoomControl: true,
+        attributionControl: false
+      });
+
+      L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        maxZoom: 18
+      }).addTo(map);
+
+      L.marker([lat, lon]).addTo(map)
+        .bindPopup('<strong>' + (city || 'Unknown') + '</strong>, ' + (country || 'Unknown'));
+
+      // Ensure map renders correctly after being in a hidden container
+      setTimeout(function() { map.invalidateSize(); }, 200);
+    });
+  }
+
+  function fetchLocation() {
+    fetchJSON(GEO_URL).then(function(data) {
+      if (data.status === 'success') {
+        var locText = (data.city || '') + (data.city && data.country ? ', ' : '') + (data.country || '');
+        locationEl.textContent = locText ? '📍 ' + locText : '';
+        initMap(data.lat, data.lon, data.city, data.country);
+      } else {
+        locationEl.textContent = 'Location unavailable';
+      }
+    }).catch(function() {
+      // Geolocation failed silently — not critical
+    });
+  }
+
+  // Main
+  updateCounts().then(displayCounts).catch(function() {
+    todayEl.textContent = 'Today: error';
+    totalEl.textContent = 'Total: error';
+  });
+
+  fetchLocation();
+})();
+</script>

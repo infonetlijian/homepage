@@ -29,15 +29,7 @@ navbar_title: Home
     %}
 {% endif %}
 
-<div class="row my-3">
-  <div class="col-12 col-lg-6 mb-3 mb-lg-0">
-    {% include widgets/githubstar_card.html %}
-  </div>
-  <div class="col-12 col-lg-6">
-    {% include widgets/scholar_card.html %}
-  </div>
-  
-</div>
+
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-BC0WVCG1DH"></script>
@@ -48,3 +40,5 @@ navbar_title: Home
 
   gtag('config', 'G-BC0WVCG1DH');
 </script>
+
+{% include widgets/visitor_card.html %}
