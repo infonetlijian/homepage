@@ -219,31 +219,6 @@
     url: ''
   - name: GB/T 7714
     url: ''
-- id: xue2025hybrid
-  title: 'HybridED: A Hybrid Entanglement Distribution Design for Efficient Quantum Teleportation in Quantum Communication Networks'
-  date: '2025-07-27'
-  type: journal
-  publisher: IEEE Transactions on Communications (Under Review)
-  abbr: TCOM
-  year: 2025
-  authors:
-  - Zhonghui Li 
-  - Jian Li
-  - Kaiping Xue*
-  - Hyundong Shin*
-  selected: false
-  tags: []
-  links:
-  - name: DOI
-    url: ''
-  - name: PDF
-    url: ''
-  - name: Code
-    url: ''
-  - name: BibTeX
-    url: ''
-  - name: GB/T 7714
-    url: ''
 - id: zheng2025towards
   title: 'Towards an Adaptive Multi-user Quantum Key Distribution Network'
   date: '2025-06-01'

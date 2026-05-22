@@ -1,3 +1,28 @@
+- id: xue2025hybrid
+  title: 'MixED: A Hybrid Entanglement Distribution Design for Efficient Quantum Teleportation in Quantum Communication Networks'
+  date: '2026-05-22'
+  type: journal
+  publisher: IEEE Transactions on Communications
+  abbr: TCOM
+  year: 2026
+  authors:
+  - Zhonghui Li 
+  - Jian Li
+  - Kaiping Xue*
+  - Hyundong Shin*
+  selected: false
+  tags: []
+  links:
+  - name: DOI
+    url: ''
+  - name: PDF
+    url: ''
+  - name: Code
+    url: ''
+  - name: BibTeX
+    url: ''
+  - name: GB/T 7714
+    url: ''
 - id: qu2025trimcaching
   title: 'TrimCaching: Parameter-sharing Edge Caching for AI Model Downloading'
   date: '2026-4-15'
