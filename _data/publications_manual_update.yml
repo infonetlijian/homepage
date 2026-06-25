@@ -1,3 +1,32 @@
+- id: liu2026p3h
+  title: 'P3H-I and P3H-II: Dual-Mode Privacy-Preserving Hierarchical Heavy Hitters Detection with Matrix Storage and Tree Optimization'
+  date: '2026-6-25'
+  type: journal
+  publisher: IEEE Transactions on Information Forensics and Security
+  abbr: TIFS
+  year: 2026
+  authors:
+  - Wenjian Liu
+  - Kaiping Xue
+  - Yuyang Fu
+  - Yaxuan Huang
+  - Jingcheng Zhao
+  - Yingjie Xue
+  - Jian Li
+  - David S.L. Wei
+  selected: false
+  tags: []
+  links:
+  - name: DOI
+    url: ''
+  - name: PDF
+    url: ''
+  - name: Code
+    url: ''
+  - name: BibTeX
+    url: ''
+  - name: GB/T 7714
+    url: ''
 - id: li2026hybrid
   title: 'MixED: A Mixed Entanglement Distribution Design for Efficient Quantum Teleportation in Quantum Communication Networks'
   date: '2026-05-22'
@@ -14,9 +43,9 @@
   tags: []
   links:
   - name: DOI
-    url: ''
+    url: '10.1109/TCOMM.2026.3698818'
   - name: PDF
-    url: ''
+    url: '2026- 【TCOM】-MixED_A_Mixed_Entanglement_Distribution_Design_for_Efficient_Quantum_Teleportation_in_Quantum_Communication_Networks.pdf'
   - name: Code
     url: ''
   - name: BibTeX
@@ -44,7 +73,7 @@
   - name: DOI
     url: '10.1109/TON.2026.3688811'
   - name: PDF
-    url: ''
+    url: '2026-【ToN】-TrimCaching_Parameter-Sharing_Edge_Caching_for_AI_Model_Downloading.pdf'
   - name: Code
     url: ''
   - name: BibTeX
@@ -154,7 +183,7 @@
   - name: DOI
     url: '10.1109/TNSE.2026.3673521'
   - name: PDF
-    url: ''
+    url: '2026-【TNSE】-DynNet_A_Lightweight_Distributed_Framework_for_Topology_Obfuscation_in_Dynamic_Networks.pdf'
   - name: Code
     url: ''
   - name: BibTeX
@@ -183,7 +212,7 @@
   - name: DOI
     url: '10.1109/TNSE.2025.3649680'
   - name: PDF
-    url: ''
+    url: '2026-【TNSE】-Adaptive_Software-Defined_Perimeter_Placement_for_Dynamic_User_Distributions_in_Zero-Trust_Networks.pdf'
   - name: Code
     url: ''
   - name: BibTeX
