@@ -32,27 +32,31 @@ jobs:
           SERPAPI_API_KEY: ${{ secrets.SERPAPI_API_KEY }}
         run: python google_scholar_crawler/serpapi_fetch.py
 
-      - name: Publish results to google-scholar-stats
+      - name: Publish results to gh-pages/assets/data
+        shell: bash
         run: |
           set -e
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
 
-          if git ls-remote --exit-code --heads origin google-scholar-stats; then
-            git fetch origin google-scholar-stats
-            git checkout google-scholar-stats
+          # 切到 gh-pages 分支（存在则 checkout，不存在就新建空分支）
+          if git ls-remote --exit-code --heads origin gh-pages; then
+            git fetch origin gh-pages
+            git checkout gh-pages
           else
-            git checkout --orphan google-scholar-stats
-            rm -rf .
+            git checkout --orphan gh-pages
+            # 不要清空根目录；第一次 orphan 分支时仅会有 .git
           fi
 
-          if [ -d "$GITHUB_WORKSPACE/results" ] && [ "$(ls -A $GITHUB_WORKSPACE/results)" ]; then
-            cp -r $GITHUB_WORKSPACE/results/* .
-            rm -rf $GITHUB_WORKSPACE/results
+          mkdir -p assets/data
+
+          if [ -d "$GITHUB_WORKSPACE/results" ] && [ "$(ls -A "$GITHUB_WORKSPACE/results")" ]; then
+            cp -f "$GITHUB_WORKSPACE/results/gs_data.json" assets/data/gs_data.json || true
+            cp -f "$GITHUB_WORKSPACE/results/gs_data_shieldsio.json" assets/data/gs_data_shieldsio.json || true
           else
             echo "No results generated; keep existing data."
           fi
 
-          git add -A
-          git commit -m "Update Google Scholar statistics (SerpApi)" || true
-          git push origin google-scholar-stats
+          git add assets/data/gs_data*.json || true
+          git commit -m "Update Google Scholar statistics (SerpApi → gh-pages/assets/data)" || true
+          git push origin gh-pages

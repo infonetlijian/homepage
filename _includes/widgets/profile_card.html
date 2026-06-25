@@ -45,6 +45,13 @@
                         {%- if site.data.profile.gscholar contains 'scholar.google' -%}
                         {%- assign scholar_id = site.data.profile.gscholar | split: 'user=' | last | split: '&' | first -%}
                         {%- else -%}
+                        {%- assign gs_json_url = 'https://cdn.jsdelivr.net/gh/infonetlijian/homepage@gh-pages/assets/data/gs_data_shieldsio.json' -%}
+                        <img
+                        alt="citations"
+                        loading="lazy"
+                        src="https://img.shields.io/endpoint?url={{ gs_json_url | uri_escape }}&label=citations&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&cacheSeconds=86400"
+                        onerror="this.replaceWith(document.createTextNode('Citations updating…'))" />
+                        
                         {%- assign scholar_id = site.data.profile.gscholar | split: '&' | first -%}
                         {%- endif -%}
                         <a href="https://scholar.google.com/citations?user={{ scholar_id }}">
