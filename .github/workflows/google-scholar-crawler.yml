@@ -1,10 +1,11 @@
-name: Google Scholar Crawler
+name: Google Scholar Crawler (SerpApi)
 
 on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 8 * * *"   # 每天 08:00 UTC 运行
   push:
     branches: [ main, gh-pages ]
-  schedule:
-    - cron: '0 8 * * *'  # 每天 UTC 08:00 执行
 
 jobs:
   build:
@@ -13,43 +14,45 @@ jobs:
       contents: write
 
     steps:
-    - uses: actions/checkout@v3
-      with:
-        token: ${{ secrets.GITHUB_TOKEN }}
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-    - name: Set up Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.10'
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
 
-    - name: Install dependencies
-      run: |
-        pip install scholarly requests
+      - name: Install deps
+        run: pip install requests
 
-    - name: Run Google Scholar Crawler
-      env:
-        GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
-      run: python google_scholar_crawler/main.py
+      - name: Fetch Scholar via SerpApi
+        env:
+          GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
+          SERPAPI_API_KEY: ${{ secrets.SERPAPI_API_KEY }}
+        run: python google_scholar_crawler/serpapi_fetch.py
 
-    - name: Commit and push results to google-scholar-stats branch
-      run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
+      - name: Publish results to google-scholar-stats
+        run: |
+          set -e
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
 
-        # Try switching to existing google-scholar-stats branch, or create orphan branch
-        if git ls-remote --exit-code --heads origin google-scholar-stats; then
-          git fetch origin google-scholar-stats
-          git checkout google-scholar-stats
-          # Copy results from the workflow workspace
-          cp -r results/* .
-          rm -rf results
-        else
-          git checkout --orphan google-scholar-stats
-          # Copy results from the workflow workspace
-          cp -r results/* .
-          rm -rf results
-        fi
+          if git ls-remote --exit-code --heads origin google-scholar-stats; then
+            git fetch origin google-scholar-stats
+            git checkout google-scholar-stats
+          else
+            git checkout --orphan google-scholar-stats
+            rm -rf .
+          fi
 
-        git add -A
-        git commit -m "Update Google Scholar statistics" || true
-        git push origin google-scholar-stats
+          if [ -d "$GITHUB_WORKSPACE/results" ] && [ "$(ls -A $GITHUB_WORKSPACE/results)" ]; then
+            cp -r $GITHUB_WORKSPACE/results/* .
+            rm -rf $GITHUB_WORKSPACE/results
+          else
+            echo "No results generated; keep existing data."
+          fi
+
+          git add -A
+          git commit -m "Update Google Scholar statistics (SerpApi)" || true
+          git push origin google-scholar-stats
