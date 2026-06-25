@@ -51,12 +51,6 @@
                         loading="lazy"
                         src="https://img.shields.io/endpoint?url={{ gs_json_url | uri_escape }}&label=citations&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&cacheSeconds=86400"
                         onerror="this.replaceWith(document.createTextNode('Citations updating…'))" />
-                        
-                        {%- assign scholar_id = site.data.profile.gscholar | split: '&' | first -%}
-                        {%- endif -%}
-                        <a href="https://scholar.google.com/citations?user={{ scholar_id }}">
-                            <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Finfonetlijian%2Fhomepage%40google-scholar-stats%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations" alt="citations">
-                        </a>
                         {%- endif -%}
                         {% if site.data.profile.cv_link %}
                             <a target="_blank" href="{{ site.data.profile.cv_link | relative_url }}"><i class="fas fa-file-alt"></i> Curriculum Vitae</a> <br/>
