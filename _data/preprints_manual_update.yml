@@ -1,20 +1,19 @@
-- id: wang2026qumap
-  title: 'QuMAP: Congestion-Aware Placement and Allocation of Shared Heterogeneous EPRs deployment for Quantum Networks'
-  date: '2026-2-23'
+- id: chen2026effective
+  title: 'Effective Bell-state Entanglement Distribution using GHZ States in Quantum Networks'
+  date: '2026-7-9'
   type: journal
   publisher: IEEE/ACM Transactions on Networking (Under Review)
   abbr: ToN
   year: 2026
   authors:
-  - Zhi Wang
-  - Tao Gong
-  - Bingyu Ji
-  - Bo Yi
-  - Jianhui Lv
-  - Jian Li
-  - Geyong Min
-  - Sajal K. Das
-  - Keqin Li
+  - Lutong Chen
+  - Jianfeng Niu
+  - Xuebi An
+  - Zhonghui Li
+  - Yizhi Huang
+  - Jian Li*
+  - Kaiping Xue*
+  - Nenghai Yu
   selected: false
   tags: []
   links:
