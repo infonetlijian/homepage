@@ -27,6 +27,35 @@
     url: ''
   - name: GB/T 7714
     url: ''
+- id: yuan2025compactdb
+  title: 'CompactDB: Compact and Secure Collaborative Relational Data Analytics'
+  date: '2026-08-08'
+  type: journal
+  publisher: IEEE Transactions on Dependable and Secure Computing
+  abbr: TDSC
+  year: 2026
+  authors:
+  - Shaoxian Yuan
+  - Kaiping Xue* 
+  - Jingcheng Zhao
+  - Yaxuan Huang
+  - Yingjie Xue
+  - Jian Li
+  - Lutong Chen
+  - David S.L. Wei
+  selected: false
+  tags: []
+  links:
+  - name: DOI
+    url: ''
+  - name: PDF
+    url: ''
+  - name: Code
+    url: ''
+  - name: BibTeX
+    url: ''
+  - name: GB/T 7714
+    url: ''
 - id: li2026hybrid
   title: 'MixED: A Mixed Entanglement Distribution Design for Efficient Quantum Teleportation in Quantum Communication Networks'
   date: '2026-05-22'

@@ -1,3 +1,30 @@
+- id: xie2026doubleagent
+  title: 'DoubleAgent: Agent-Driven Egress Abuse in LLM Agent Ecosystems'
+  date: '2026-8-1'
+  type: conference
+  publisher: The Network and Distributed System Security (NDSS) (Under Review)
+  abbr: NDSS
+  year: 2027
+  authors:
+  - Xuanchao Xie
+  - Lutong Chen*
+  - Kunjie Shang
+  - Jian Li
+  - Huanjie Zhang
+  - Kaiping Xue*
+  selected: false
+  tags: []
+  links:
+  - name: DOI
+    url: ''
+  - name: PDF
+    url: ''
+  - name: Code
+    url: ''
+  - name: BibTeX
+    url: ''
+  - name: GB/T 7714
+    url: ''
 - id: chen2026effective
   title: 'Effective Bell-state Entanglement Distribution using GHZ States in Quantum Networks'
   date: '2026-7-9'
@@ -85,37 +112,8 @@
     url: ''
   - name: GB/T 7714
     url: ''
-- id: yuan2025compactdb
-  title: 'CompactDB: Compact and Secure Collaborative Relational Data Analytics'
-  date: '2026-01-04'
-  type: journal
-  publisher: IEEE Transactions on Dependable and Secure Computing (Under Review)
-  abbr: TDSC
-  year: 2025
-  authors:
-  - Shaoxian Yuan
-  - Kaiping Xue* 
-  - Jingcheng Zhao
-  - Yaxuan Huang
-  - Yingjie Xue
-  - Jian Li
-  - Lutong Chen
-  - David S.L. Wei
-  selected: false
-  tags: []
-  links:
-  - name: DOI
-    url: ''
-  - name: PDF
-    url: ''
-  - name: Code
-    url: ''
-  - name: BibTeX
-    url: ''
-  - name: GB/T 7714
-    url: ''
 - id: sun2025loopy
-  title: 'Loopy QUIC: DNS–QUIC Cross-Protocol Traffic Amplification for Denial-of-Service Attacks'
+  title: 'QDCR: DNS–QUIC Cross-Protocol Traffic Amplification for Denial-of-Service Attacks'
   date: '2025-11-22'
   type: journal
   publisher: IEEE Transactions on Networking (Under Review)
@@ -125,7 +123,7 @@
   - Jiasi Sun
   - Kaiping Xue* 
   - Xuanbo Huang
-  - Lutong Chen*
+  - Lutong Chen
   - Jian Li
   - David S.L. Wei
   selected: false
