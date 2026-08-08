@@ -1,3 +1,32 @@
+
+- id: yuan2025compactdb
+  title: 'FishboneChain: A Scalable and Liquidity-Guaranteed Crowdsourcing Platform based on Multiple Child Chains'
+  date: '2026-08-08'
+  type: journal
+  publisher: IEEE Transactions on Dependable and Secure Computing (Under Review)
+  abbr: TDSC
+  year: 2026
+  authors:
+  - Wentuo SUn
+  - Kaiping Xue* 
+  - Meiqi Li
+  - Xinyi Luo
+  - Lutong Chen
+  - Jian Li
+  - David S.L. Wei
+  selected: false
+  tags: []
+  links:
+  - name: DOI
+    url: ''
+  - name: PDF
+    url: ''
+  - name: Code
+    url: ''
+  - name: BibTeX
+    url: ''
+  - name: GB/T 7714
+    url: ''
 - id: xie2026doubleagent
   title: 'DoubleAgent: Agent-Driven Egress Abuse in LLM Agent Ecosystems'
   date: '2026-8-1'
