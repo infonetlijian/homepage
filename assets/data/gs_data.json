@@ -1,20 +1,20 @@
 {
   "source": "serpapi",
-  "fetched_at": "2026-07-21T09:45:44.806214+00:00",
+  "fetched_at": "2026-08-08T07:37:10.520279+00:00",
   "author_id": "ZuP2MtEAAAAJ",
   "profile_url": "https://scholar.google.com/citations?user=ZuP2MtEAAAAJ",
   "author_name": "Jian Li",
-  "total_citations": 2460,
+  "total_citations": 2498,
   "raw": {
     "search_metadata": {
-      "id": "6a5f3fc77af89903f84aea4a",
+      "id": "6a76dc9f99d5f4796b2d3cbb",
       "status": "Success",
-      "json_endpoint": "https://serpapi.com/searches/710dpU5DE_TfzQmqjOjFYw/6a5f3fc77af89903f84aea4a.json",
-      "created_at": "2026-07-21 09:45:43 UTC",
-      "processed_at": "2026-07-21 09:45:43 UTC",
+      "json_endpoint": "https://serpapi.com/searches/710dpU5DE_TfzQmqjOjFYw/6a76dc9f99d5f4796b2d3cbb.json",
+      "created_at": "2026-08-08 07:37:03 UTC",
+      "processed_at": "2026-08-08 07:37:03 UTC",
       "google_scholar_author_url": "https://scholar.google.com/citations?user=ZuP2MtEAAAAJ&hl=en&view_op=list_works",
-      "raw_html_file": "https://serpapi.com/searches/710dpU5DE_TfzQmqjOjFYw/6a5f3fc77af89903f84aea4a.html",
-      "total_time_taken": 0.87
+      "raw_html_file": "https://serpapi.com/searches/710dpU5DE_TfzQmqjOjFYw/6a76dc9f99d5f4796b2d3cbb.html",
+      "total_time_taken": 7.01
     },
     "search_parameters": {
       "engine": "google_scholar_author",
@@ -54,7 +54,7 @@
         "authors": "J Li, H Lu, K Xue, Y Zhang",
         "publication": "IEEE Transactions on Vehicular Technology 68 (6), 6009-6021, 2019",
         "cited_by": {
-          "value": 180,
+          "value": 181,
           "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=64444860288498711",
           "serpapi_link": "https://serpapi.com/search.json?cites=64444860288498711&engine=google_scholar&hl=en",
           "cites_id": "64444860288498711"
@@ -68,7 +68,7 @@
         "authors": "J Li, M Wang, K Xue, R Li, N Yu, Q Sun, J Lu",
         "publication": "IEEE Transactions on Communications 70 (10), 6748-6763, 2022",
         "cited_by": {
-          "value": 172,
+          "value": 177,
           "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1242018360737215654",
           "serpapi_link": "https://serpapi.com/search.json?cites=1242018360737215654&engine=google_scholar&hl=en",
           "cites_id": "1242018360737215654"
@@ -82,7 +82,7 @@
         "authors": "Z Li, K Xue, J Li, L Chen, R Li, Z Wang, N Yu, DSL Wei, Q Sun, J Lu",
         "publication": "IEEE Communications Surveys & Tutorials 25 (4), 2133-2189, 2023",
         "cited_by": {
-          "value": 164,
+          "value": 166,
           "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10419631633335102973",
           "serpapi_link": "https://serpapi.com/search.json?cites=10419631633335102973&engine=google_scholar&hl=en",
           "cites_id": "10419631633335102973"
@@ -96,7 +96,7 @@
         "authors": "J Li, K Xue, DSL Wei, J Liu, Y Zhang",
         "publication": "IEEE Transactions on Wireless Communications 19 (4), 2367-2381, 2020",
         "cited_by": {
-          "value": 148,
+          "value": 153,
           "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9198512611683145971",
           "serpapi_link": "https://serpapi.com/search.json?cites=9198512611683145971&engine=google_scholar&hl=en",
           "cites_id": "9198512611683145971"
@@ -110,7 +110,7 @@
         "authors": "J Li, K Xue, J Liu, Y Zhang",
         "publication": "IEEE Wireless Communications Letters 9 (11), 1904-1908, 2020",
         "cited_by": {
-          "value": 116,
+          "value": 115,
           "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18404178649641265770",
           "serpapi_link": "https://serpapi.com/search.json?cites=18404178649641265770&engine=google_scholar&hl=en",
           "cites_id": "18404178649641265770"
@@ -138,7 +138,7 @@
         "authors": "H Wu, J Li, H Lu, P Hong",
         "publication": "2016 IEEE global communications conference (GLOBECOM), 1-6, 2016",
         "cited_by": {
-          "value": 85,
+          "value": 84,
           "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16116224812634286970",
           "serpapi_link": "https://serpapi.com/search.json?cites=16116224812634286970&engine=google_scholar&hl=en",
           "cites_id": "16116224812634286970"
@@ -152,7 +152,7 @@
         "authors": "Y Xing, K Xue, Y Zhang, J Han, J Li, J Liu, R Li",
         "publication": "IEEE Transactions on Wireless Communications 20 (11), 7230-7242, 2021",
         "cited_by": {
-          "value": 72,
+          "value": 71,
           "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11661051452133058601",
           "serpapi_link": "https://serpapi.com/search.json?cites=11661051452133058601&engine=google_scholar&hl=en",
           "cites_id": "11661051452133058601"
@@ -166,7 +166,7 @@
         "authors": "L Chen, K Xue, J Li, N Yu, R Li, Q Sun, J Lu",
         "publication": "IEEE Network 37 (5), 182-189, 2023",
         "cited_by": {
-          "value": 69,
+          "value": 70,
           "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4261256352718225778",
           "serpapi_link": "https://serpapi.com/search.json?cites=4261256352718225778&engine=google_scholar&hl=en",
           "cites_id": "4261256352718225778"
@@ -180,7 +180,7 @@
         "authors": "K Xue, X Luo, Y Ma, J Li, J Liu, DSL Wei",
         "publication": "IEEE Transactions on Vehicular Technology 71 (5), 5284-5297, 2022",
         "cited_by": {
-          "value": 60,
+          "value": 59,
           "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6092937289549299667",
           "serpapi_link": "https://serpapi.com/search.json?cites=6092937289549299667&engine=google_scholar&hl=en",
           "cites_id": "6092937289549299667"
@@ -208,7 +208,7 @@
         "authors": "Z Li, K Xue, J Li, N Yu, J Liu, DSL Wei, Q Sun, J Lu",
         "publication": "China Communications 18 (10), 1-14, 2021",
         "cited_by": {
-          "value": 56,
+          "value": 57,
           "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3179624838368646999",
           "serpapi_link": "https://serpapi.com/search.json?cites=3179624838368646999&engine=google_scholar&hl=en",
           "cites_id": "3179624838368646999"
@@ -222,7 +222,7 @@
         "authors": "Y Xing, K Xue, Y Zhang, J Han, J Li, DSL WeiMember",
         "publication": "IEEE/ACM Transactions on Networking 31 (5), 2297-2312, 2023",
         "cited_by": {
-          "value": 50,
+          "value": 54,
           "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6027588666091253018",
           "serpapi_link": "https://serpapi.com/search.json?cites=6027588666091253018&engine=google_scholar&hl=en",
           "cites_id": "6027588666091253018"
@@ -250,7 +250,7 @@
         "authors": "Y Sun, L Zhang, L Guo, J Li, D Niyato, Y Fang",
         "publication": "IEEE Communications Magazine 63 (4), 207-213, 2024",
         "cited_by": {
-          "value": 44,
+          "value": 45,
           "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2735487197186852063",
           "serpapi_link": "https://serpapi.com/search.json?cites=2735487197186852063&engine=google_scholar&hl=en",
           "cites_id": "2735487197186852063"
@@ -264,7 +264,7 @@
         "authors": "M Li, X Luo, K Xue, Y Xue, W Sun, J Li",
         "publication": "IEEE Transactions on Information Forensics and Security 19, 5911-5924, 2024",
         "cited_by": {
-          "value": 42,
+          "value": 44,
           "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12629304879438369607",
           "serpapi_link": "https://serpapi.com/search.json?cites=12629304879438369607&engine=google_scholar&hl=en",
           "cites_id": "12629304879438369607"
@@ -272,18 +272,18 @@
         "year": "2024"
       },
       {
-        "title": "An efficient scheduling scheme of swapping and purification operations for end-to-end entanglement distribution in quantum networks",
-        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ZuP2MtEAAAAJ&citation_for_view=ZuP2MtEAAAAJ:NMxIlDl6LWMC",
-        "citation_id": "ZuP2MtEAAAAJ:NMxIlDl6LWMC",
-        "authors": "Z Wang, J Li, K Xue, DSL Wei, R Li, N Yu, Q Sun, J Lu",
-        "publication": "IEEE Transactions on Network Science and Engineering 11 (1), 380-391, 2023",
+        "title": "A stream-aware MPQUIC scheduler for HTTP traffic in mobile networks",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ZuP2MtEAAAAJ&citation_for_view=ZuP2MtEAAAAJ:TQgYirikUcIC",
+        "citation_id": "ZuP2MtEAAAAJ:TQgYirikUcIC",
+        "authors": "Y Xing, K Xue, Y Zhang, J Han, J Li, DSL Wei, R Li, Q Sun, J Lu",
+        "publication": "IEEE Transactions on Wireless Communications 22 (4), 2775-2788, 2022",
         "cited_by": {
           "value": 41,
-          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15727405056602521194",
-          "serpapi_link": "https://serpapi.com/search.json?cites=15727405056602521194&engine=google_scholar&hl=en",
-          "cites_id": "15727405056602521194"
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2750144203191482052",
+          "serpapi_link": "https://serpapi.com/search.json?cites=2750144203191482052&engine=google_scholar&hl=en",
+          "cites_id": "2750144203191482052"
         },
-        "year": "2023"
+        "year": "2022"
       },
       {
         "title": "A connection-oriented entanglement distribution design in quantum networks",
@@ -300,40 +300,40 @@
         "year": "2022"
       },
       {
-        "title": "A stream-aware MPQUIC scheduler for HTTP traffic in mobile networks",
-        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ZuP2MtEAAAAJ&citation_for_view=ZuP2MtEAAAAJ:TQgYirikUcIC",
-        "citation_id": "ZuP2MtEAAAAJ:TQgYirikUcIC",
-        "authors": "Y Xing, K Xue, Y Zhang, J Han, J Li, DSL Wei, R Li, Q Sun, J Lu",
-        "publication": "IEEE Transactions on Wireless Communications 22 (4), 2775-2788, 2022",
+        "title": "An efficient scheduling scheme of swapping and purification operations for end-to-end entanglement distribution in quantum networks",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ZuP2MtEAAAAJ&citation_for_view=ZuP2MtEAAAAJ:NMxIlDl6LWMC",
+        "citation_id": "ZuP2MtEAAAAJ:NMxIlDl6LWMC",
+        "authors": "Z Wang, J Li, K Xue, DSL Wei, R Li, N Yu, Q Sun, J Lu",
+        "publication": "IEEE Transactions on Network Science and Engineering 11 (1), 380-391, 2023",
         "cited_by": {
           "value": 39,
-          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2750144203191482052",
-          "serpapi_link": "https://serpapi.com/search.json?cites=2750144203191482052&engine=google_scholar&hl=en",
-          "cites_id": "2750144203191482052"
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15727405056602521194",
+          "serpapi_link": "https://serpapi.com/search.json?cites=15727405056602521194&engine=google_scholar&hl=en",
+          "cites_id": "15727405056602521194"
         },
-        "year": "2022"
+        "year": "2023"
       },
       {
-        "title": "Connection-oriented and connectionless remote entanglement distribution strategies in quantum networks",
-        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ZuP2MtEAAAAJ&citation_for_view=ZuP2MtEAAAAJ:IWHjjKOFINEC",
-        "citation_id": "ZuP2MtEAAAAJ:IWHjjKOFINEC",
-        "authors": "Z Li, K Xue, J Li, N Yu, DSL Wei, R Li",
-        "publication": "IEEE Network 36 (6), 150-156, 2022",
+        "title": "Swapping-based entanglement routing design for congestion mitigation in quantum networks",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ZuP2MtEAAAAJ&citation_for_view=ZuP2MtEAAAAJ:maZDTaKrznsC",
+        "citation_id": "ZuP2MtEAAAAJ:maZDTaKrznsC",
+        "authors": "Z Li, J Li, K Xue, DSL Wei, R Li, N Yu, Q Sun, J Lu",
+        "publication": "IEEE Transactions on Network and Service Management 20 (4), 3999-4012, 2023",
         "cited_by": {
-          "value": 39,
-          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8657821327815140684",
-          "serpapi_link": "https://serpapi.com/search.json?cites=8657821327815140684&engine=google_scholar&hl=en",
-          "cites_id": "8657821327815140684"
+          "value": 37,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5801286380725063516",
+          "serpapi_link": "https://serpapi.com/search.json?cites=5801286380725063516&engine=google_scholar&hl=en",
+          "cites_id": "5801286380725063516"
         },
-        "year": "2022"
+        "year": "2023"
       }
     ],
     "cited_by": {
       "table": [
         {
           "citations": {
-            "all": 2460,
-            "since_2021": 2388
+            "all": 2498,
+            "since_2021": 2422
           }
         },
         {
@@ -344,8 +344,8 @@
         },
         {
           "i10_index": {
-            "all": 54,
-            "since_2021": 54
+            "all": 52,
+            "since_2021": 52
           }
         }
       ],
@@ -360,15 +360,15 @@
         },
         {
           "year": 2020,
-          "citations": 39
+          "citations": 41
         },
         {
           "year": 2021,
-          "citations": 96
+          "citations": 97
         },
         {
           "year": 2022,
-          "citations": 206
+          "citations": 203
         },
         {
           "year": 2023,
@@ -376,15 +376,15 @@
         },
         {
           "year": 2024,
-          "citations": 562
+          "citations": 560
         },
         {
           "year": 2025,
-          "citations": 781
+          "citations": 771
         },
         {
           "year": 2026,
-          "citations": 437
+          "citations": 481
         }
       ]
     },
@@ -498,8 +498,8 @@
         "link": "https://scholar.google.com/citations?user=bXBp4SIAAAAJ&hl=en",
         "serpapi_link": "https://serpapi.com/search.json?author_id=bXBp4SIAAAAJ&engine=google_scholar_author&hl=en",
         "author_id": "bXBp4SIAAAAJ",
-        "affiliations": "PhD Student, University of Science and Technology of China",
-        "email": "Verified email at mail.ustc.edu.cn",
+        "affiliations": "Xi'an Jiaotong University",
+        "email": "Verified email at xjtu.edu.cn",
         "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
       },
       {
