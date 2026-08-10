@@ -141,33 +141,6 @@
     url: ''
   - name: GB/T 7714
     url: ''
-- id: sun2025loopy
-  title: 'QDCR: DNS–QUIC Cross-Protocol Traffic Amplification for Denial-of-Service Attacks'
-  date: '2025-11-22'
-  type: journal
-  publisher: IEEE Transactions on Networking (Under Review)
-  abbr: TMC
-  year: 2025
-  authors:
-  - Jiasi Sun
-  - Kaiping Xue* 
-  - Xuanbo Huang
-  - Lutong Chen
-  - Jian Li
-  - David S.L. Wei
-  selected: false
-  tags: []
-  links:
-  - name: DOI
-    url: ''
-  - name: PDF
-    url: ''
-  - name: Code
-    url: ''
-  - name: BibTeX
-    url: ''
-  - name: GB/T 7714
-    url: ''
 - id: li2025tree
   title: 'Tree-based Networking Scheme: Towards Future Large-scale Quantum Local Area Networks with High Entanglement Connectivity'
   date: '2025-08-15'
