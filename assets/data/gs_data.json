@@ -1,20 +1,20 @@
 {
   "source": "serpapi",
-  "fetched_at": "2026-08-08T07:37:10.520279+00:00",
+  "fetched_at": "2026-08-10T01:42:36.343436+00:00",
   "author_id": "ZuP2MtEAAAAJ",
   "profile_url": "https://scholar.google.com/citations?user=ZuP2MtEAAAAJ",
   "author_name": "Jian Li",
-  "total_citations": 2498,
+  "total_citations": 2509,
   "raw": {
     "search_metadata": {
-      "id": "6a76dc9f99d5f4796b2d3cbb",
+      "id": "6a792c8973d175ed09aac4aa",
       "status": "Success",
-      "json_endpoint": "https://serpapi.com/searches/710dpU5DE_TfzQmqjOjFYw/6a76dc9f99d5f4796b2d3cbb.json",
-      "created_at": "2026-08-08 07:37:03 UTC",
-      "processed_at": "2026-08-08 07:37:03 UTC",
+      "json_endpoint": "https://serpapi.com/searches/710dpU5DE_TfzQmqjOjFYw/6a792c8973d175ed09aac4aa.json",
+      "created_at": "2026-08-10 01:42:33 UTC",
+      "processed_at": "2026-08-10 01:42:33 UTC",
       "google_scholar_author_url": "https://scholar.google.com/citations?user=ZuP2MtEAAAAJ&hl=en&view_op=list_works",
-      "raw_html_file": "https://serpapi.com/searches/710dpU5DE_TfzQmqjOjFYw/6a76dc9f99d5f4796b2d3cbb.html",
-      "total_time_taken": 7.01
+      "raw_html_file": "https://serpapi.com/searches/710dpU5DE_TfzQmqjOjFYw/6a792c8973d175ed09aac4aa.html",
+      "total_time_taken": 2.87
     },
     "search_parameters": {
       "engine": "google_scholar_author",
@@ -54,7 +54,7 @@
         "authors": "J Li, H Lu, K Xue, Y Zhang",
         "publication": "IEEE Transactions on Vehicular Technology 68 (6), 6009-6021, 2019",
         "cited_by": {
-          "value": 181,
+          "value": 182,
           "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=64444860288498711",
           "serpapi_link": "https://serpapi.com/search.json?cites=64444860288498711&engine=google_scholar&hl=en",
           "cites_id": "64444860288498711"
@@ -68,7 +68,7 @@
         "authors": "J Li, M Wang, K Xue, R Li, N Yu, Q Sun, J Lu",
         "publication": "IEEE Transactions on Communications 70 (10), 6748-6763, 2022",
         "cited_by": {
-          "value": 177,
+          "value": 180,
           "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1242018360737215654",
           "serpapi_link": "https://serpapi.com/search.json?cites=1242018360737215654&engine=google_scholar&hl=en",
           "cites_id": "1242018360737215654"
@@ -124,7 +124,7 @@
         "authors": "J Li, K Xue, J Liu, Y Zhang, Y Fang",
         "publication": "IEEE Network 34 (1), 188-195, 2019",
         "cited_by": {
-          "value": 107,
+          "value": 108,
           "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8095890810219927657",
           "serpapi_link": "https://serpapi.com/search.json?cites=8095890810219927657&engine=google_scholar&hl=en",
           "cites_id": "8095890810219927657"
@@ -264,7 +264,7 @@
         "authors": "M Li, X Luo, K Xue, Y Xue, W Sun, J Li",
         "publication": "IEEE Transactions on Information Forensics and Security 19, 5911-5924, 2024",
         "cited_by": {
-          "value": 44,
+          "value": 45,
           "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12629304879438369607",
           "serpapi_link": "https://serpapi.com/search.json?cites=12629304879438369607&engine=google_scholar&hl=en",
           "cites_id": "12629304879438369607"
@@ -332,8 +332,8 @@
       "table": [
         {
           "citations": {
-            "all": 2498,
-            "since_2021": 2422
+            "all": 2509,
+            "since_2021": 2433
           }
         },
         {
@@ -380,11 +380,11 @@
         },
         {
           "year": 2025,
-          "citations": 771
+          "citations": 770
         },
         {
           "year": 2026,
-          "citations": 481
+          "citations": 493
         }
       ]
     },
