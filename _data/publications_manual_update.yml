@@ -27,6 +27,33 @@
     url: ''
   - name: GB/T 7714
     url: ''
+- id: sun2026qdcr
+  title: 'QDCR: DNS–QUIC Cross-Protocol Traffic Amplification for Denial-of-Service Attacks'
+  date: '2026-08-09'
+  type: journal
+  publisher: IEEE Transactions on Networking
+  abbr: ToN
+  year: 2026
+  authors:
+  - Jiasi Sun
+  - Kaiping Xue* 
+  - Xuanbo Huang
+  - Lutong Chen*
+  - Jian Li
+  - David S.L. Wei
+  selected: false
+  tags: []
+  links:
+  - name: DOI
+    url: ''
+  - name: PDF
+    url: ''
+  - name: Code
+    url: ''
+  - name: BibTeX
+    url: ''
+  - name: GB/T 7714
+    url: ''
 - id: yuan2025compactdb
   title: 'CompactDB: Compact and Secure Collaborative Relational Data Analytics'
   date: '2026-08-08'
