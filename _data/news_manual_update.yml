@@ -1,3 +1,10 @@
+- title: 'I am invited to present a talk titled "The Research on Development of Quantum Networks and Core Technologies (量子网络发展与核心技术研究) " in GoInc2026 (第九届光信息与光网络大会，量子通信与内生安全论坛).' 
+  date: '2026-8-16'
+  tag: Activity
+  feature: true
+  links:
+  - name: Link
+    url: https://mp.weixin.qq.com/s/A-VxwlbCZC7AovoCshGhfg
 - title: 'our paper "QDCR: DNS–QUIC Cross-Protocol Traffic Amplification for Denial-of-Service Attacks" is accepted by IEEE Transactions on Networking!'
   tag: Paper
   date: '2026-8-9'

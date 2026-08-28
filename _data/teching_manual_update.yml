@@ -14,7 +14,7 @@
   - name: GB/T 7714
     url: ''
 - course: 'Computer Networks (计算机网络)'
-  year: 'Fall 2025/Fall 2024/Fall 2023'
+  year: 'Fall 2026/Fall 2025/Fall 2024/Fall 2023'
   selected: false
   tags: []
   links:
@@ -28,7 +28,7 @@
     url: ''
   - name: GB/T 7714
     url: ''
-- course: 'Network Sercuity Protocol (网络安全协议)'
+- course: 'Network Security Protocol (网络安全协议)'
   year: 'Spring 2023'
   selected: false
   tags: []
