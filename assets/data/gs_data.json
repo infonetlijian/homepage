@@ -1,20 +1,21 @@
 {
   "source": "serpapi",
-  "fetched_at": "2026-08-10T01:55:05.438749+00:00",
+  "fetched_at": "2026-09-01T03:05:53.038760+00:00",
   "author_id": "ZuP2MtEAAAAJ",
   "profile_url": "https://scholar.google.com/citations?user=ZuP2MtEAAAAJ",
   "author_name": "Jian Li",
-  "total_citations": 2509,
+  "total_citations": 2562,
   "raw": {
     "search_metadata": {
-      "id": "6a792c8973d175ed09aac4aa",
+      "id": "6a964110d45a384e73ec1f4f",
       "status": "Success",
-      "json_endpoint": "https://serpapi.com/searches/710dpU5DE_TfzQmqjOjFYw/6a792c8973d175ed09aac4aa.json",
-      "created_at": "2026-08-10 01:42:33 UTC",
-      "processed_at": "2026-08-10 01:42:33 UTC",
+      "json_endpoint": "https://serpapi.com/searches/QIGm9HAxC2ZD-DxaqK-AmXOhdAVH36ldQj-jEo346cM/6a964110d45a384e73ec1f4f.json",
+      "markdown_endpoint": "https://serpapi.com/searches/QIGm9HAxC2ZD-DxaqK-AmXOhdAVH36ldQj-jEo346cM/6a964110d45a384e73ec1f4f.md",
+      "created_at": "2026-09-01 03:05:52 UTC",
+      "processed_at": "2026-09-01 03:05:52 UTC",
       "google_scholar_author_url": "https://scholar.google.com/citations?user=ZuP2MtEAAAAJ&hl=en&view_op=list_works",
-      "raw_html_file": "https://serpapi.com/searches/710dpU5DE_TfzQmqjOjFYw/6a792c8973d175ed09aac4aa.html",
-      "total_time_taken": 2.87
+      "raw_html_file": "https://serpapi.com/searches/QIGm9HAxC2ZD-DxaqK-AmXOhdAVH36ldQj-jEo346cM/6a964110d45a384e73ec1f4f.html",
+      "total_time_taken": 0.86
     },
     "search_parameters": {
       "engine": "google_scholar_author",
@@ -48,32 +49,32 @@
     },
     "articles": [
       {
-        "title": "Temporal netgrid model-based dynamic routing in large-scale small satellite networks",
-        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ZuP2MtEAAAAJ&citation_for_view=ZuP2MtEAAAAJ:Tyk-4Ss8FVUC",
-        "citation_id": "ZuP2MtEAAAAJ:Tyk-4Ss8FVUC",
-        "authors": "J Li, H Lu, K Xue, Y Zhang",
-        "publication": "IEEE Transactions on Vehicular Technology 68 (6), 6009-6021, 2019",
-        "cited_by": {
-          "value": 182,
-          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=64444860288498711",
-          "serpapi_link": "https://serpapi.com/search.json?cites=64444860288498711&engine=google_scholar&hl=en",
-          "cites_id": "64444860288498711"
-        },
-        "year": "2019"
-      },
-      {
         "title": "Fidelity-guaranteed entanglement routing in quantum networks",
         "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ZuP2MtEAAAAJ&citation_for_view=ZuP2MtEAAAAJ:hC7cP41nSMkC",
         "citation_id": "ZuP2MtEAAAAJ:hC7cP41nSMkC",
         "authors": "J Li, M Wang, K Xue, R Li, N Yu, Q Sun, J Lu",
         "publication": "IEEE Transactions on Communications 70 (10), 6748-6763, 2022",
         "cited_by": {
-          "value": 180,
+          "value": 185,
           "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1242018360737215654",
           "serpapi_link": "https://serpapi.com/search.json?cites=1242018360737215654&engine=google_scholar&hl=en",
           "cites_id": "1242018360737215654"
         },
         "year": "2022"
+      },
+      {
+        "title": "Temporal netgrid model-based dynamic routing in large-scale small satellite networks",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ZuP2MtEAAAAJ&citation_for_view=ZuP2MtEAAAAJ:Tyk-4Ss8FVUC",
+        "citation_id": "ZuP2MtEAAAAJ:Tyk-4Ss8FVUC",
+        "authors": "J Li, H Lu, K Xue, Y Zhang",
+        "publication": "IEEE Transactions on Vehicular Technology 68 (6), 6009-6021, 2019",
+        "cited_by": {
+          "value": 183,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=64444860288498711",
+          "serpapi_link": "https://serpapi.com/search.json?cites=64444860288498711&engine=google_scholar&hl=en",
+          "cites_id": "64444860288498711"
+        },
+        "year": "2019"
       },
       {
         "title": "Entanglement-assisted quantum networks: Mechanics, enabling technologies, challenges, and research directions",
@@ -82,7 +83,7 @@
         "authors": "Z Li, K Xue, J Li, L Chen, R Li, Z Wang, N Yu, DSL Wei, Q Sun, J Lu",
         "publication": "IEEE Communications Surveys & Tutorials 25 (4), 2133-2189, 2023",
         "cited_by": {
-          "value": 166,
+          "value": 169,
           "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10419631633335102973",
           "serpapi_link": "https://serpapi.com/search.json?cites=10419631633335102973&engine=google_scholar&hl=en",
           "cites_id": "10419631633335102973"
@@ -96,7 +97,7 @@
         "authors": "J Li, K Xue, DSL Wei, J Liu, Y Zhang",
         "publication": "IEEE Transactions on Wireless Communications 19 (4), 2367-2381, 2020",
         "cited_by": {
-          "value": 153,
+          "value": 154,
           "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9198512611683145971",
           "serpapi_link": "https://serpapi.com/search.json?cites=9198512611683145971&engine=google_scholar&hl=en",
           "cites_id": "9198512611683145971"
@@ -152,7 +153,7 @@
         "authors": "Y Xing, K Xue, Y Zhang, J Han, J Li, J Liu, R Li",
         "publication": "IEEE Transactions on Wireless Communications 20 (11), 7230-7242, 2021",
         "cited_by": {
-          "value": 71,
+          "value": 72,
           "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11661051452133058601",
           "serpapi_link": "https://serpapi.com/search.json?cites=11661051452133058601&engine=google_scholar&hl=en",
           "cites_id": "11661051452133058601"
@@ -180,7 +181,7 @@
         "authors": "K Xue, X Luo, Y Ma, J Li, J Liu, DSL Wei",
         "publication": "IEEE Transactions on Vehicular Technology 71 (5), 5284-5297, 2022",
         "cited_by": {
-          "value": 59,
+          "value": 60,
           "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6092937289549299667",
           "serpapi_link": "https://serpapi.com/search.json?cites=6092937289549299667&engine=google_scholar&hl=en",
           "cites_id": "6092937289549299667"
@@ -222,7 +223,7 @@
         "authors": "Y Xing, K Xue, Y Zhang, J Han, J Li, DSL WeiMember",
         "publication": "IEEE/ACM Transactions on Networking 31 (5), 2297-2312, 2023",
         "cited_by": {
-          "value": 54,
+          "value": 55,
           "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6027588666091253018",
           "serpapi_link": "https://serpapi.com/search.json?cites=6027588666091253018&engine=google_scholar&hl=en",
           "cites_id": "6027588666091253018"
@@ -236,7 +237,7 @@
         "authors": "J Han, K Xue, Y Xing, J Li, W Wei, DSL Wei, G Xue",
         "publication": "IEEE Transactions on Wireless Communications 20 (11), 7555-7567, 2021",
         "cited_by": {
-          "value": 50,
+          "value": 52,
           "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14068103037064391506",
           "serpapi_link": "https://serpapi.com/search.json?cites=14068103037064391506&engine=google_scholar&hl=en",
           "cites_id": "14068103037064391506"
@@ -250,7 +251,7 @@
         "authors": "Y Sun, L Zhang, L Guo, J Li, D Niyato, Y Fang",
         "publication": "IEEE Communications Magazine 63 (4), 207-213, 2024",
         "cited_by": {
-          "value": 45,
+          "value": 46,
           "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2735487197186852063",
           "serpapi_link": "https://serpapi.com/search.json?cites=2735487197186852063&engine=google_scholar&hl=en",
           "cites_id": "2735487197186852063"
@@ -272,6 +273,20 @@
         "year": "2024"
       },
       {
+        "title": "A connection-oriented entanglement distribution design in quantum networks",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ZuP2MtEAAAAJ&citation_for_view=ZuP2MtEAAAAJ:L8Ckcad2t8MC",
+        "citation_id": "ZuP2MtEAAAAJ:L8Ckcad2t8MC",
+        "authors": "J Li, Q Jia, K Xue, DSL Wei, N Yu",
+        "publication": "IEEE Transactions on Quantum Engineering 3, 1-13, 2022",
+        "cited_by": {
+          "value": 42,
+          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3266038597551647746",
+          "serpapi_link": "https://serpapi.com/search.json?cites=3266038597551647746&engine=google_scholar&hl=en",
+          "cites_id": "3266038597551647746"
+        },
+        "year": "2022"
+      },
+      {
         "title": "A stream-aware MPQUIC scheduler for HTTP traffic in mobile networks",
         "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ZuP2MtEAAAAJ&citation_for_view=ZuP2MtEAAAAJ:TQgYirikUcIC",
         "citation_id": "ZuP2MtEAAAAJ:TQgYirikUcIC",
@@ -286,27 +301,13 @@
         "year": "2022"
       },
       {
-        "title": "A connection-oriented entanglement distribution design in quantum networks",
-        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ZuP2MtEAAAAJ&citation_for_view=ZuP2MtEAAAAJ:L8Ckcad2t8MC",
-        "citation_id": "ZuP2MtEAAAAJ:L8Ckcad2t8MC",
-        "authors": "J Li, Q Jia, K Xue, DSL Wei, N Yu",
-        "publication": "IEEE Transactions on Quantum Engineering 3, 1-13, 2022",
-        "cited_by": {
-          "value": 41,
-          "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3266038597551647746",
-          "serpapi_link": "https://serpapi.com/search.json?cites=3266038597551647746&engine=google_scholar&hl=en",
-          "cites_id": "3266038597551647746"
-        },
-        "year": "2022"
-      },
-      {
         "title": "An efficient scheduling scheme of swapping and purification operations for end-to-end entanglement distribution in quantum networks",
         "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ZuP2MtEAAAAJ&citation_for_view=ZuP2MtEAAAAJ:NMxIlDl6LWMC",
         "citation_id": "ZuP2MtEAAAAJ:NMxIlDl6LWMC",
         "authors": "Z Wang, J Li, K Xue, DSL Wei, R Li, N Yu, Q Sun, J Lu",
         "publication": "IEEE Transactions on Network Science and Engineering 11 (1), 380-391, 2023",
         "cited_by": {
-          "value": 39,
+          "value": 40,
           "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15727405056602521194",
           "serpapi_link": "https://serpapi.com/search.json?cites=15727405056602521194&engine=google_scholar&hl=en",
           "cites_id": "15727405056602521194"
@@ -320,7 +321,7 @@
         "authors": "Z Li, J Li, K Xue, DSL Wei, R Li, N Yu, Q Sun, J Lu",
         "publication": "IEEE Transactions on Network and Service Management 20 (4), 3999-4012, 2023",
         "cited_by": {
-          "value": 37,
+          "value": 38,
           "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5801286380725063516",
           "serpapi_link": "https://serpapi.com/search.json?cites=5801286380725063516&engine=google_scholar&hl=en",
           "cites_id": "5801286380725063516"
@@ -332,20 +333,20 @@
       "table": [
         {
           "citations": {
-            "all": 2509,
-            "since_2021": 2433
+            "all": 2562,
+            "since_2021": 2486
           }
         },
         {
           "h_index": {
-            "all": 26,
-            "since_2021": 26
+            "all": 27,
+            "since_2021": 27
           }
         },
         {
           "i10_index": {
-            "all": 52,
-            "since_2021": 52
+            "all": 55,
+            "since_2021": 55
           }
         }
       ],
@@ -380,17 +381,17 @@
         },
         {
           "year": 2025,
-          "citations": 770
+          "citations": 769
         },
         {
           "year": 2026,
-          "citations": 493
+          "citations": 547
         }
       ]
     },
     "public_access": {
       "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=ZuP2MtEAAAAJ",
-      "available": 72,
+      "available": 73,
       "not_available": 12
     },
     "co_authors": [
@@ -402,6 +403,15 @@
         "affiliations": "University of Science and Technology of China",
         "email": "Verified email at ustc.edu.cn",
         "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=F310qPIAAAAJ&citpid=13"
+      },
+      {
+        "name": "Qibin Sun",
+        "link": "https://scholar.google.com/citations?user=bPLvsSAAAAAJ&hl=en",
+        "serpapi_link": "https://serpapi.com/search.json?author_id=bPLvsSAAAAAJ&engine=google_scholar_author&hl=en",
+        "author_id": "bPLvsSAAAAAJ",
+        "affiliations": "University of Science and Technology of China",
+        "email": "Verified email at ustc.edu.cn",
+        "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
       },
       {
         "name": "Nenghai Yu",
@@ -519,14 +529,6 @@
         "affiliations": "Shanghai Jiao Tong University",
         "email": "Verified email at sjtu.edu.cn",
         "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=is5jwrEAAAAJ&citpid=1"
-      },
-      {
-        "name": "Qibin Sun",
-        "link": "https://scholar.google.com/citations?user=bPLvsSAAAAAJ&hl=en",
-        "serpapi_link": "https://serpapi.com/search.json?author_id=bPLvsSAAAAAJ&engine=google_scholar_author&hl=en",
-        "author_id": "bPLvsSAAAAAJ",
-        "affiliations": "University of Science and Technology of China",
-        "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
       }
     ],
     "serpapi_pagination": {
