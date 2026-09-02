@@ -1,3 +1,30 @@
+- id: xie2026doubleagent
+  title: 'DoubleAgent: Agent-Driven Egress Abuse in LLM Agent Ecosystems'
+  date: '2026-9-2'
+  type: conference
+  publisher: The Network and Distributed System Security (NDSS)
+  abbr: NDSS
+  year: 2027
+  authors:
+  - Xuanchao Xie
+  - Lutong Chen*
+  - Kunjie Shang
+  - Jian Li
+  - Huanjie Zhang
+  - Kaiping Xue*
+  selected: false
+  tags: []
+  links:
+  - name: DOI
+    url: ''
+  - name: PDF
+    url: ''
+  - name: Code
+    url: ''
+  - name: BibTeX
+    url: ''
+  - name: GB/T 7714
+    url: ''
 - id: liu2026p3h
   title: 'P3H-I and P3H-II: Dual-Mode Privacy-Preserving Hierarchical Heavy Hitters Detection with Matrix Storage and Tree Optimization'
   date: '2026-6-25'

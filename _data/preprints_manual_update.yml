@@ -27,33 +27,6 @@
     url: ''
   - name: GB/T 7714
     url: ''
-- id: xie2026doubleagent
-  title: 'DoubleAgent: Agent-Driven Egress Abuse in LLM Agent Ecosystems'
-  date: '2026-8-1'
-  type: conference
-  publisher: The Network and Distributed System Security (NDSS) (Under Review)
-  abbr: NDSS
-  year: 2027
-  authors:
-  - Xuanchao Xie
-  - Lutong Chen*
-  - Kunjie Shang
-  - Jian Li
-  - Huanjie Zhang
-  - Kaiping Xue*
-  selected: false
-  tags: []
-  links:
-  - name: DOI
-    url: ''
-  - name: PDF
-    url: ''
-  - name: Code
-    url: ''
-  - name: BibTeX
-    url: ''
-  - name: GB/T 7714
-    url: ''
 - id: chen2026effective
   title: 'Effective Bell-state Entanglement Distribution using GHZ States in Quantum Networks'
   date: '2026-7-9'
