@@ -1,3 +1,32 @@
+- id: liu2026p3h
+  title: 'P3H-I and P3H-II: Dual-Mode Privacy-Preserving Hierarchical Heavy Hitters Detection with Matrix Storage and Tree Optimization'
+  date: '2026-9-3'
+  type: journal
+  publisher: IEEE Transactions on Information Forensics and Security
+  abbr: TIFS
+  year: 2026
+  authors:
+  - Wenjian Liu
+  - Kaiping Xue*
+  - Yuyang Fu
+  - Yaxuan Huang
+  - Jingcheng Zhao
+  - Yingjie Xue
+  - Jian Li
+  - David S.L. Wei
+  selected: false
+  tags: []
+  links:
+  - name: DOI
+    url: ''
+  - name: PDF
+    url: ''
+  - name: Code
+    url: ''
+  - name: BibTeX
+    url: ''
+  - name: GB/T 7714
+    url: ''
 - id: xie2026doubleagent
   title: 'DoubleAgent: Agent-Driven Egress Abuse in LLM Agent Ecosystems'
   date: '2026-9-2'
@@ -12,35 +41,6 @@
   - Jian Li
   - Huanjie Zhang
   - Kaiping Xue*
-  selected: false
-  tags: []
-  links:
-  - name: DOI
-    url: ''
-  - name: PDF
-    url: ''
-  - name: Code
-    url: ''
-  - name: BibTeX
-    url: ''
-  - name: GB/T 7714
-    url: ''
-- id: liu2026p3h
-  title: 'P3H-I and P3H-II: Dual-Mode Privacy-Preserving Hierarchical Heavy Hitters Detection with Matrix Storage and Tree Optimization'
-  date: '2026-6-25'
-  type: journal
-  publisher: IEEE Transactions on Information Forensics and Security
-  abbr: TIFS
-  year: 2026
-  authors:
-  - Wenjian Liu
-  - Kaiping Xue*
-  - Yuyang Fu
-  - Yaxuan Huang
-  - Jingcheng Zhao
-  - Yingjie Xue
-  - Jian Li
-  - David S.L. Wei
   selected: false
   tags: []
   links:
