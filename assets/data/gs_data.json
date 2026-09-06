@@ -1,21 +1,21 @@
 {
   "source": "serpapi",
-  "fetched_at": "2026-09-02T14:26:40.427338+00:00",
+  "fetched_at": "2026-09-06T09:11:47.647745+00:00",
   "author_id": "ZuP2MtEAAAAJ",
   "profile_url": "https://scholar.google.com/citations?user=ZuP2MtEAAAAJ",
   "author_name": "Jian Li",
-  "total_citations": 2562,
+  "total_citations": 2567,
   "raw": {
     "search_metadata": {
-      "id": "6a98321f0a9156e870b2e243",
+      "id": "6a9d2e4db333eed266a11399",
       "status": "Success",
-      "json_endpoint": "https://serpapi.com/searches/UzFngtWb0zih3S9J46pRuVALaI_iPtv1xX328CTd7oc/6a98321f0a9156e870b2e243.json",
-      "markdown_endpoint": "https://serpapi.com/searches/UzFngtWb0zih3S9J46pRuVALaI_iPtv1xX328CTd7oc/6a98321f0a9156e870b2e243.md",
-      "created_at": "2026-09-02 14:26:39 UTC",
-      "processed_at": "2026-09-02 14:26:39 UTC",
+      "json_endpoint": "https://serpapi.com/searches/xUnshfksAXTTna8x7qWeY3UuTa5m8F4wRxfta5RqD5w/6a9d2e4db333eed266a11399.json",
+      "markdown_endpoint": "https://serpapi.com/searches/xUnshfksAXTTna8x7qWeY3UuTa5m8F4wRxfta5RqD5w/6a9d2e4db333eed266a11399.md",
+      "created_at": "2026-09-06 09:11:41 UTC",
+      "processed_at": "2026-09-06 09:11:41 UTC",
       "google_scholar_author_url": "https://scholar.google.com/citations?user=ZuP2MtEAAAAJ&hl=en&view_op=list_works",
-      "raw_html_file": "https://serpapi.com/searches/UzFngtWb0zih3S9J46pRuVALaI_iPtv1xX328CTd7oc/6a98321f0a9156e870b2e243.html",
-      "total_time_taken": 1.29
+      "raw_html_file": "https://serpapi.com/searches/xUnshfksAXTTna8x7qWeY3UuTa5m8F4wRxfta5RqD5w/6a9d2e4db333eed266a11399.html",
+      "total_time_taken": 5.88
     },
     "search_parameters": {
       "engine": "google_scholar_author",
@@ -333,8 +333,8 @@
       "table": [
         {
           "citations": {
-            "all": 2562,
-            "since_2021": 2486
+            "all": 2567,
+            "since_2021": 2491
           }
         },
         {
@@ -385,7 +385,7 @@
         },
         {
           "year": 2026,
-          "citations": 547
+          "citations": 552
         }
       ]
     },
