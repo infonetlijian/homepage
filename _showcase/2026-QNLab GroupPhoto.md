@@ -6,8 +6,8 @@ group: Gallery
 # 每张图展开为一个画廊卡片；date 相同的多图会连在一起展示
 images:
   - image: /assets/images/photos/2026-QNLab GroupPhoto.jpg
-    caption: QNLab Group Photo
+    caption: 2026-QNLab Group Photo
   - image: /assets/images/photos/2026-QNLab GroupPhoto2.jpg
-    caption: QNLab Group Photo
+    caption: 2026-QNLab Group Photo
 ---
 多图条目示例：front matter 用 images 列表，正文可写任意说明（画廊不渲染正文，仅作备注）。
