@@ -355,7 +355,7 @@
   tags: []
   links:
   - name: DOI
-    url: '10.1109/INFOCOM59046.2026.11571220
+    url: '10.1109/INFOCOM59046.2026.11571220'
   - name: PDF
     url: 'https://infonetlijian.github.io/homepage/PDF_files/2026-【INFOCOM】-LR2_Accelerating_Long-Distance_RDMA_Recovery_via_In-Network_Retransmission_Decoupling.pdf'
   - name: Code
