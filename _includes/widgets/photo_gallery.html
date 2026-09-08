@@ -1,4 +1,8 @@
-{%- assign gallery_items = site.showcase | where: "show", true | sort: "date" | reverse -%}
+{%- comment -%}
+Gallery 条目排序: 按 _showcase/*.md 的 date 字段"时间顺序"(升序, 早→晚)排列循环。
+若希望"最新在前"(降序), 把下方 | reverse 加回即可: sort: "date" | reverse
+{%- endcomment -%}
+{%- assign gallery_items = site.showcase | where: "show", true | sort: "date" -%}
 {%- if gallery_items.size > 0 -%}
 <div class="row mt-3">
     <div class="col">
