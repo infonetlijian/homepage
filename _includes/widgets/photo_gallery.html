@@ -1,0 +1,70 @@
+{%- assign gallery_items = site.showcase | where: "show", true | sort: "date" | reverse -%}
+{%- if gallery_items.size > 0 -%}
+<div class="row mt-3">
+    <div class="col">
+        <div class="card border-0 shadow-sm bg-white">
+            <div class="card-body p-4">
+                <h6 class="mb-3"><i class="fas fa-images"></i> Gallery</h6>
+                <div class="photo-gallery">
+                    <div class="gallery-viewport">
+                        <div class="gallery-track">
+                            {%- comment -%}
+                            条目格式（_showcase/*.md）两种兼容：
+                            A. 单图: image: 路径 + caption: 说明
+                            B. 多图: images: [{image: 路径, caption: 说明}, ...]（每张图展开为一个卡片）
+                            {%- endcomment -%}
+                            {%- for item in gallery_items -%}
+                                {%- if item.images and item.images.size > 0 -%}
+                                    {%- for img in item.images -%}
+                            <figure class="gallery-item">
+                                <img src="{{ img.image | relative_url }}" alt="{{ img.caption | default: item.caption | strip_html | escape }}" loading="lazy">
+                                <figcaption>{{ img.caption | default: item.caption }}</figcaption>
+                            </figure>
+                                    {%- endfor -%}
+                                {%- else -%}
+                            <figure class="gallery-item">
+                                <img src="{{ item.image | relative_url }}" alt="{{ item.caption | strip_html | escape }}" loading="lazy">
+                                <figcaption>{{ item.caption }}</figcaption>
+                            </figure>
+                                {%- endif -%}
+                            {%- endfor -%}
+                            {%- comment -%} 第二组（隐藏副本）用于无缝循环滚动 {%- endcomment -%}
+                            {%- for item in gallery_items -%}
+                                {%- if item.images and item.images.size > 0 -%}
+                                    {%- for img in item.images -%}
+                            <figure class="gallery-item" aria-hidden="true">
+                                <img src="{{ img.image | relative_url }}" alt="" loading="lazy">
+                                <figcaption>{{ img.caption | default: item.caption }}</figcaption>
+                            </figure>
+                                    {%- endfor -%}
+                                {%- else -%}
+                            <figure class="gallery-item" aria-hidden="true">
+                                <img src="{{ item.image | relative_url }}" alt="" loading="lazy">
+                                <figcaption>{{ item.caption }}</figcaption>
+                            </figure>
+                                {%- endif -%}
+                            {%- endfor -%}
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{%- endif -%}
+<script>
+/* 移动端: 触摸时暂停自动滚动, 3 秒后恢复 */
+(function () {
+    document.querySelectorAll(".photo-gallery").forEach(function (g) {
+        var timer = null;
+        g.addEventListener("touchstart", function () {
+            g.classList.add("paused");
+            clearTimeout(timer);
+        });
+        g.addEventListener("touchend", function () {
+            clearTimeout(timer);
+            timer = setTimeout(function () { g.classList.remove("paused"); }, 3000);
+        });
+    });
+})();
+</script>

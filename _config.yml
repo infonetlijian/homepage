@@ -20,8 +20,6 @@ google_scholar_stats_use_cdn: true  # 使用CDN（推荐）或设为false使用R
 
 # Build settings
 markdown: kramdown
-plugins:
-  - jekyll-email-protect
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -43,4 +41,5 @@ collections:
   - publications
   - patents
   - teaching
+  - showcase
 

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="240" viewBox="0 0 400 240">
+  <defs>
+    <linearGradient id="g4" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#546e7a"/>
+      <stop offset="100%" stop-color="#263238"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="240" fill="url(#g4)"/>
+  <circle cx="200" cy="60" r="110" fill="#ffffff" opacity="0.07"/>
+  <text x="200" y="108" text-anchor="middle" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="22" fill="#ffffff">加密流量检测研究组</text>
+  <text x="200" y="145" text-anchor="middle" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="14" fill="#cfdce2">Traffic Analysis · 占位图</text>
+  <text x="200" y="215" text-anchor="middle" font-family="Microsoft YaHei, sans-serif" font-size="11" fill="#9fb3bd">placeholder — replace with real photo</text>
+</svg>
