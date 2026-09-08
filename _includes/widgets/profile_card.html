@@ -54,6 +54,12 @@
                         {%- assign scholar_id = site.data.profile.gscholar | split: '&' | first -%}
                         {%- endif -%}
                         {%- endif -%}
+                        <!-- Publications 已发表论文数徽章: 数字由 assets/data/publications_count.json 构建时生成
+                             (数据源与 publications 页面一致, 不含 preprints); 与页面同源自动同步 -->
+                        {%- assign pubs_json = site.url | default: 'https://infonetlijian.github.io' | append: site.baseurl | append: '/assets/data/publications_count.json' -%}
+                        <img alt="publications" loading="lazy"
+                             src="https://img.shields.io/endpoint?url={{ pubs_json | uri_escape }}&style=flat&cacheSeconds=86400"
+                             onerror="this.style.display='none'" />
                         <!-- Homepage 历史总计访客徽章 (类似 citations 徽章; 数据源 visitor-badge.laobi.icu,
                              零配置按 page_id 计数, 页面每次加载 +1; 服务不可用时徽章自动隐藏) -->
                         <img alt="homepage visitors" loading="lazy"

@@ -1,0 +1,7 @@
+---
+# 已发表论文数计数文件 (供 shields.io endpoint 徽章读取)
+# 由 Jekyll 构建时动态渲染: message = publications_manual_update.yml 条目数(不含 preprints_manual_update)
+# 页面 publications.html 与徽章共用同一数据源, 数字永远一致, 无需手动维护
+layout: null
+---
+{"schemaVersion": 1, "label": "publications", "message": "{{ site.data.publications_manual_update | size }}", "color": "9cf"}
