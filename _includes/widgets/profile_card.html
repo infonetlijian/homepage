@@ -54,6 +54,11 @@
                         {%- assign scholar_id = site.data.profile.gscholar | split: '&' | first -%}
                         {%- endif -%}
                         {%- endif -%}
+                        <!-- Homepage 历史总计访客徽章 (类似 citations 徽章; 数据源 visitor-badge.laobi.icu,
+                             零配置按 page_id 计数, 页面每次加载 +1; 服务不可用时徽章自动隐藏) -->
+                        <img alt="homepage visitors" loading="lazy"
+                             src="https://visitor-badge.laobi.icu/badge?page_id=infonetlijian.github.io.homepage"
+                             onerror="this.style.display='none'" />
                         {% if site.data.profile.cv_link %}
                             <a target="_blank" href="{{ site.data.profile.cv_link | relative_url }}"><i class="fas fa-file-alt"></i> Curriculum Vitae</a> <br/>
                         {% endif %}
