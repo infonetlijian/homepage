@@ -58,11 +58,13 @@
                              (数据源与 publications 页面一致, 不含 preprints); 与页面同源自动同步 -->
                         {%- assign pubs_json = site.url | default: 'https://infonetlijian.github.io' | append: site.baseurl | append: '/assets/data/publications_count.json' -%}
                         <img alt="publications" loading="lazy"
+                             style="margin-left: 0.6rem;"
                              src="https://img.shields.io/endpoint?url={{ pubs_json | uri_escape }}&style=flat&cacheSeconds=86400"
                              onerror="this.style.display='none'" />
                         <!-- Homepage 历史总计访客徽章 (类似 citations 徽章; 数据源 visitor-badge.laobi.icu,
                              零配置按 page_id 计数, 页面每次加载 +1; 服务不可用时徽章自动隐藏) -->
                         <img alt="homepage visitors" loading="lazy"
+                             style="margin-left: 0.6rem;"
                              src="https://visitor-badge.laobi.icu/badge?page_id=infonetlijian.github.io.homepage"
                              onerror="this.style.display='none'" />
                         {% if site.data.profile.cv_link %}
