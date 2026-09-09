@@ -1,21 +1,21 @@
 {
   "source": "serpapi",
-  "fetched_at": "2026-09-08T06:00:56.819652+00:00",
+  "fetched_at": "2026-09-09T09:48:55.093356+00:00",
   "author_id": "ZuP2MtEAAAAJ",
   "profile_url": "https://scholar.google.com/citations?user=ZuP2MtEAAAAJ",
   "author_name": "Jian Li",
-  "total_citations": 2572,
+  "total_citations": 2577,
   "raw": {
     "search_metadata": {
-      "id": "6a9fa498e9639b9b85f08aaf",
+      "id": "6aa12b7e31a601f3136957b4",
       "status": "Success",
-      "json_endpoint": "https://serpapi.com/searches/wqW6KJaqOas_oB9ji2D1QmWFJ-UvAK7RiDkH1HgHPqo/6a9fa498e9639b9b85f08aaf.json",
-      "markdown_endpoint": "https://serpapi.com/searches/wqW6KJaqOas_oB9ji2D1QmWFJ-UvAK7RiDkH1HgHPqo/6a9fa498e9639b9b85f08aaf.md",
-      "created_at": "2026-09-08 06:00:56 UTC",
-      "processed_at": "2026-09-08 06:00:56 UTC",
+      "json_endpoint": "https://serpapi.com/searches/GE4ZYKUu_5wVC5sarb6uhr6nWHk2fuMgeiEWtfQlyxI/6aa12b7e31a601f3136957b4.json",
+      "markdown_endpoint": "https://serpapi.com/searches/GE4ZYKUu_5wVC5sarb6uhr6nWHk2fuMgeiEWtfQlyxI/6aa12b7e31a601f3136957b4.md",
+      "created_at": "2026-09-09 09:48:46 UTC",
+      "processed_at": "2026-09-09 09:48:46 UTC",
       "google_scholar_author_url": "https://scholar.google.com/citations?user=ZuP2MtEAAAAJ&hl=en&view_op=list_works",
-      "raw_html_file": "https://serpapi.com/searches/wqW6KJaqOas_oB9ji2D1QmWFJ-UvAK7RiDkH1HgHPqo/6a9fa498e9639b9b85f08aaf.html",
-      "total_time_taken": 0.34
+      "raw_html_file": "https://serpapi.com/searches/GE4ZYKUu_5wVC5sarb6uhr6nWHk2fuMgeiEWtfQlyxI/6aa12b7e31a601f3136957b4.html",
+      "total_time_taken": 8.34
     },
     "search_parameters": {
       "engine": "google_scholar_author",
@@ -55,7 +55,7 @@
         "authors": "J Li, M Wang, K Xue, R Li, N Yu, Q Sun, J Lu",
         "publication": "IEEE Transactions on Communications 70 (10), 6748-6763, 2022",
         "cited_by": {
-          "value": 186,
+          "value": 187,
           "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1242018360737215654",
           "serpapi_link": "https://serpapi.com/search.json?cites=1242018360737215654&engine=google_scholar&hl=en",
           "cites_id": "1242018360737215654"
@@ -265,7 +265,7 @@
         "authors": "M Li, X Luo, K Xue, Y Xue, W Sun, J Li",
         "publication": "IEEE Transactions on Information Forensics and Security 19, 5911-5924, 2024",
         "cited_by": {
-          "value": 45,
+          "value": 46,
           "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12629304879438369607",
           "serpapi_link": "https://serpapi.com/search.json?cites=12629304879438369607&engine=google_scholar&hl=en",
           "cites_id": "12629304879438369607"
@@ -333,8 +333,8 @@
       "table": [
         {
           "citations": {
-            "all": 2572,
-            "since_2021": 2496
+            "all": 2577,
+            "since_2021": 2501
           }
         },
         {
@@ -373,7 +373,7 @@
         },
         {
           "year": 2023,
-          "citations": 299
+          "citations": 300
         },
         {
           "year": 2024,
@@ -385,7 +385,7 @@
         },
         {
           "year": 2026,
-          "citations": 557
+          "citations": 561
         }
       ]
     },
