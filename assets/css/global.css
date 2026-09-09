@@ -149,3 +149,76 @@ div.lazy {
     from { transform: translateX(0); }
     to   { transform: translateX(-50%); }
 }
+/* 缩略图可点击提示 */
+.gallery-item img {
+    cursor: zoom-in;
+}
+
+/* ========== Gallery Lightbox (点击缩略图放大查看原图) ========== */
+.gallery-lightbox {
+    position: fixed;
+    inset: 0;
+    z-index: 2000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.gallery-lightbox[hidden] {
+    display: none;
+}
+.gl-backdrop {
+    position: absolute;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.88);
+    animation: gl-fade-in 0.2s ease;
+}
+.gl-figure {
+    position: relative;
+    z-index: 1;
+    margin: 0;
+    max-width: 94vw;
+    max-height: 94vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.gl-figure img {
+    max-width: 94vw;
+    max-height: 86vh;
+    object-fit: contain;
+    border-radius: 4px;
+    box-shadow: 0 8px 40px rgba(0, 0, 0, 0.5);
+    opacity: 0;
+    transition: opacity 0.25s ease;
+    background: #111;
+}
+.gl-figure figcaption {
+    margin-top: 10px;
+    color: #ddd;
+    font-size: 0.9rem;
+    text-align: center;
+    max-width: 94vw;
+    line-height: 1.4;
+}
+.gl-close {
+    position: absolute;
+    top: -44px;
+    right: -6px;
+    background: transparent;
+    border: none;
+    color: #fff;
+    font-size: 2rem;
+    line-height: 1;
+    cursor: pointer;
+    padding: 4px 10px;
+    opacity: 0.85;
+    z-index: 2;
+}
+.gl-close:hover {
+    opacity: 1;
+}
+@keyframes gl-fade-in {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+

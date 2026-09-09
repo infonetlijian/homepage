@@ -1,13 +1,13 @@
 ---
 show: true
-date: 2026-06-06 12:00:00 +0800
+date: 2026-09-06 12:00:00 +0800
 group: Gallery
-# 多图示例：一个 md 文件放多张图片（复制本文件改名、show 改为 true 即可）
-# 每张图展开为一个画廊卡片；date 相同的多图会连在一起展示
+# 多图条目：一个 md 放多张图, 每张图展开为画廊卡片; 点击卡片图片可放大查看原图
+# 列表页加载缩略图(assets/images/gallery/thumbs/), 原图在 assets/images/photos/ 由 lightbox 点击时加载
 images:
-  - image: /assets/images/photos/2026-QNLab GroupPhoto.jpg
-    caption: 2026-QNLab Group Photo
-  - image: /assets/images/photos/2026-QNLab GroupPhoto2.jpg
-    caption: 2026-QNLab Group Photo
+  - image: /assets/images/gallery/2026-QNLab GroupPhoto.jpg
+    caption: 2026 量子网络组合影（一）
+  - image: /assets/images/gallery/2026-QNLab GroupPhoto2.jpg
+    caption: 2026 量子网络组合影（二）
 ---
-多图条目示例：front matter 用 images 列表，正文可写任意说明（画廊不渲染正文，仅作备注）。
+2026 量子网络组合影

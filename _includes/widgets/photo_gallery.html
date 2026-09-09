@@ -1,6 +1,10 @@
 {%- comment -%}
 Gallery 条目排序: 按 _showcase/*.md 的 date 字段"时间顺序"(升序, 早→晚)排列循环。
 若希望"最新在前"(降序), 把下方 | reverse 加回即可: sort: "date" | reverse
+条目格式(_showcase/*.md)两种兼容:
+  A. 单图: image: 路径 + caption: 说明
+  B. 多图: images: [{image: 路径, caption: 说明}, ...] (每张图展开为一个卡片)
+列表显示 thumbs 缩略图; 点击图片弹出 lightbox 加载原图(photos/, 由 gallery/ 小图路径自动映射到 photos/ 原图)
 {%- endcomment -%}
 {%- assign gallery_items = site.showcase | where: "show", true | sort: "date" -%}
 {%- if gallery_items.size > 0 -%}
@@ -12,38 +16,41 @@ Gallery 条目排序: 按 _showcase/*.md 的 date 字段"时间顺序"(升序, �
                 <div class="photo-gallery">
                     <div class="gallery-viewport">
                         <div class="gallery-track">
-                            {%- comment -%}
-                            条目格式（_showcase/*.md）两种兼容：
-                            A. 单图: image: 路径 + caption: 说明
-                            B. 多图: images: [{image: 路径, caption: 说明}, ...]（每张图展开为一个卡片）
-                            {%- endcomment -%}
                             {%- for item in gallery_items -%}
                                 {%- if item.images and item.images.size > 0 -%}
                                     {%- for img in item.images -%}
                             <figure class="gallery-item">
-                                <img src="{{ img.image | relative_url }}" alt="{{ img.caption | default: item.caption | strip_html | escape }}" loading="lazy">
+                                {%- assign img_src = img.image | relative_url -%}
+                                {%- assign img_zoom = img.image | replace: "/assets/images/gallery/", "/assets/images/photos/" | relative_url -%}
+                                <img src="{{ img_src }}" data-zoom="{{ img_zoom }}" alt="{{ img.caption | default: item.caption | strip_html | escape }}" loading="lazy">
                                 <figcaption>{{ img.caption | default: item.caption }}</figcaption>
                             </figure>
                                     {%- endfor -%}
                                 {%- else -%}
                             <figure class="gallery-item">
-                                <img src="{{ item.image | relative_url }}" alt="{{ item.caption | strip_html | escape }}" loading="lazy">
+                                {%- assign img_src = item.image | relative_url -%}
+                                {%- assign img_zoom = item.image | replace: "/assets/images/gallery/", "/assets/images/photos/" | relative_url -%}
+                                <img src="{{ img_src }}" data-zoom="{{ img_zoom }}" alt="{{ item.caption | strip_html | escape }}" loading="lazy">
                                 <figcaption>{{ item.caption }}</figcaption>
                             </figure>
                                 {%- endif -%}
                             {%- endfor -%}
-                            {%- comment -%} 第二组（隐藏副本）用于无缝循环滚动 {%- endcomment -%}
+                            {%- comment -%} 第二组(无缝循环副本, 点击同样可放大) {%- endcomment -%}
                             {%- for item in gallery_items -%}
                                 {%- if item.images and item.images.size > 0 -%}
                                     {%- for img in item.images -%}
                             <figure class="gallery-item" aria-hidden="true">
-                                <img src="{{ img.image | relative_url }}" alt="" loading="lazy">
+                                {%- assign img_src = img.image | relative_url -%}
+                                {%- assign img_zoom = img.image | replace: "/assets/images/gallery/", "/assets/images/photos/" | relative_url -%}
+                                <img src="{{ img_src }}" data-zoom="{{ img_zoom }}" alt="" loading="lazy" tabindex="-1">
                                 <figcaption>{{ img.caption | default: item.caption }}</figcaption>
                             </figure>
                                     {%- endfor -%}
                                 {%- else -%}
                             <figure class="gallery-item" aria-hidden="true">
-                                <img src="{{ item.image | relative_url }}" alt="" loading="lazy">
+                                {%- assign img_src = item.image | relative_url -%}
+                                {%- assign img_zoom = item.image | replace: "/assets/images/gallery/", "/assets/images/photos/" | relative_url -%}
+                                <img src="{{ img_src }}" data-zoom="{{ img_zoom }}" alt="" loading="lazy" tabindex="-1">
                                 <figcaption>{{ item.caption }}</figcaption>
                             </figure>
                                 {%- endif -%}
@@ -55,20 +62,71 @@ Gallery 条目排序: 按 _showcase/*.md 的 date 字段"时间顺序"(升序, �
         </div>
     </div>
 </div>
+
+<!-- Gallery Lightbox: 点击缩略图放大查看原图 -->
+<div class="gallery-lightbox" id="gallery-lightbox" hidden aria-hidden="true">
+    <div class="gl-backdrop" data-gl-close></div>
+    <figure class="gl-figure">
+        <img id="gl-img" src="" alt="">
+        <figcaption id="gl-caption"></figcaption>
+        <button type="button" class="gl-close" data-gl-close aria-label="关闭">&times;</button>
+    </figure>
+</div>
 {%- endif -%}
 <script>
-/* 移动端: 触摸时暂停自动滚动, 3 秒后恢复 */
+/* Gallery 交互: 触摸暂停自动滚动 + Lightbox 点击放大原图 */
 (function () {
-    document.querySelectorAll(".photo-gallery").forEach(function (g) {
-        var timer = null;
-        g.addEventListener("touchstart", function () {
-            g.classList.add("paused");
-            clearTimeout(timer);
-        });
-        g.addEventListener("touchend", function () {
-            clearTimeout(timer);
-            timer = setTimeout(function () { g.classList.remove("paused"); }, 3000);
-        });
+    var gallery = document.querySelector(".photo-gallery");
+    if (!gallery) return;
+
+    /* --- 1) 移动端: 触摸时暂停自动滚动, 3 秒后恢复 --- */
+    var timer = null;
+    gallery.addEventListener("touchstart", function () {
+        gallery.classList.add("paused");
+        clearTimeout(timer);
+    });
+    gallery.addEventListener("touchend", function () {
+        clearTimeout(timer);
+        timer = setTimeout(function () { gallery.classList.remove("paused"); }, 3000);
+    });
+
+    /* --- 2) Lightbox: 点击缩略图 -> 放大显示原图(data-zoom) --- */
+    var lb = document.getElementById("gallery-lightbox");
+    var lbImg = document.getElementById("gl-img");
+    var lbCap = document.getElementById("gl-caption");
+    if (!lb || !lbImg) return;
+
+    function openLightbox(imgEl) {
+        var zoom = imgEl.getAttribute("data-zoom") || imgEl.src;   // 原图(若无映射则回退当前图)
+        lbImg.style.opacity = "0";                                  // 先隐藏, 待原图加载完成淡入
+        lbImg.src = zoom;
+        lbImg.setAttribute("data-fallback", imgEl.src);
+        lbImg.setAttribute("data-fallback", imgEl.src);
+        lbCap.textContent = imgEl.closest("figure").querySelector("figcaption").textContent || "";
+        lb.hidden = false;
+        lb.setAttribute("aria-hidden", "false");
+        document.body.style.overflow = "hidden";                     // 锁定背景滚动
+    }
+    function closeLightbox() {
+        lb.hidden = true;
+        lb.setAttribute("aria-hidden", "true");
+        lbImg.src = "";                                              // 释放大图内存
+        document.body.style.overflow = "";
+    }
+    lbImg.onload = function () { lbImg.style.opacity = "1"; };       // 原图就绪后淡入
+    lbImg.onerror = function () {                                    // 原图缺失(404)时回退列表图, 避免破图
+        var fb = lbImg.getAttribute("data-fallback");
+        if (fb && lbImg.src !== fb) { lbImg.src = fb; }
+        lbImg.style.opacity = "1";
+    };
+    gallery.querySelectorAll(".gallery-item img").forEach(function (img) {
+        img.addEventListener("click", function () { openLightbox(img); });
+    });
+    lb.querySelectorAll("[data-gl-close]").forEach(function (el) {
+        el.addEventListener("click", closeLightbox);
+    });
+    document.addEventListener("keydown", function (e) {              // Esc 关闭
+        if (e.key === "Escape" && !lb.hidden) closeLightbox();
     });
 })();
 </script>
