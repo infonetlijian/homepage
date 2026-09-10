@@ -1,21 +1,21 @@
 {
   "source": "serpapi",
-  "fetched_at": "2026-09-09T09:48:55.093356+00:00",
+  "fetched_at": "2026-09-10T04:38:25.908075+00:00",
   "author_id": "ZuP2MtEAAAAJ",
   "profile_url": "https://scholar.google.com/citations?user=ZuP2MtEAAAAJ",
   "author_name": "Jian Li",
   "total_citations": 2577,
   "raw": {
     "search_metadata": {
-      "id": "6aa12b7e31a601f3136957b4",
+      "id": "6aa23441f7ae8dcb79b99d33",
       "status": "Success",
-      "json_endpoint": "https://serpapi.com/searches/GE4ZYKUu_5wVC5sarb6uhr6nWHk2fuMgeiEWtfQlyxI/6aa12b7e31a601f3136957b4.json",
-      "markdown_endpoint": "https://serpapi.com/searches/GE4ZYKUu_5wVC5sarb6uhr6nWHk2fuMgeiEWtfQlyxI/6aa12b7e31a601f3136957b4.md",
-      "created_at": "2026-09-09 09:48:46 UTC",
-      "processed_at": "2026-09-09 09:48:46 UTC",
+      "json_endpoint": "https://serpapi.com/searches/v7w3AR-1Y6KNng3zxiQ188-2E2gmFpITZd8D4EAZaGg/6aa23441f7ae8dcb79b99d33.json",
+      "markdown_endpoint": "https://serpapi.com/searches/v7w3AR-1Y6KNng3zxiQ188-2E2gmFpITZd8D4EAZaGg/6aa23441f7ae8dcb79b99d33.md",
+      "created_at": "2026-09-10 04:38:25 UTC",
+      "processed_at": "2026-09-10 04:38:25 UTC",
       "google_scholar_author_url": "https://scholar.google.com/citations?user=ZuP2MtEAAAAJ&hl=en&view_op=list_works",
-      "raw_html_file": "https://serpapi.com/searches/GE4ZYKUu_5wVC5sarb6uhr6nWHk2fuMgeiEWtfQlyxI/6aa12b7e31a601f3136957b4.html",
-      "total_time_taken": 8.34
+      "raw_html_file": "https://serpapi.com/searches/v7w3AR-1Y6KNng3zxiQ188-2E2gmFpITZd8D4EAZaGg/6aa23441f7ae8dcb79b99d33.html",
+      "total_time_taken": 0.47
     },
     "search_parameters": {
       "engine": "google_scholar_author",
