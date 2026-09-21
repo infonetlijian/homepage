@@ -83,6 +83,12 @@
     date: 2025
     links: "https://iwcmc.net/2025/"
   - position: TPC Member
+    conference: IEEE International Conference on Communications (ICC)
+    highlight: false
+    multipleYears: 2027
+    date: 2027
+    links:
+  - position: TPC Member
     conference: IEEE Global Communications Conference (GLOBECOM)
     highlight: false
     multipleYears: 2026/2025/2024

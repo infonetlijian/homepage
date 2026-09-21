@@ -29,7 +29,7 @@
     url: ''
 - id: xie2026doubleagent
   title: 'DoubleAgent: Agent-Driven Egress Abuse in LLM Agent Ecosystems'
-  date: '2026-9-2'
+  date: '2026-9-18'
   type: conference
   publisher: The Network and Distributed System Security (NDSS)
   abbr: NDSS
