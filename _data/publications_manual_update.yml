@@ -1242,7 +1242,7 @@
   type: journal
   publisher: IEEE Transactions on Network and Service Management
   abbr: TNSE
-  year: 3919
+  year: 2024
   authors:
   - Rui Zhuang
   - Jiangping Han*
@@ -1862,7 +1862,7 @@
     url: ''
 - id: xue2023make
   title: 'Make Rental Reliable: Blockchain-based Network Slice Management Framework
-    with SLA Guarantee Series Mobile Communications and Networks'
+    with SLA Guarantee'
   date: '2023-03-01'
   type: journal
   publisher: IEEE Communications Magazine
@@ -1955,7 +1955,7 @@
   - name: GB/T 7714
     url: ''
 - id: han2023edar
-  title: 'EdAR: An Experience-driven Multipath Schedulerfor Seamless Handoff in Mobile
+  title: 'EdAR: An Experience-driven Multipath Scheduler for Seamless Handoff in Mobile
     Networks'
   date: '2023-02-01'
   type: journal
