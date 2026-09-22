@@ -9,7 +9,7 @@ positions:
 
 
 email: lijian9@ustc.edu.cn
-# cv_link: link-to-your-cv-file
+cv_link: /assets/files/Jian_Li_CV.pdf  # 个人 CV PDF（相对仓库路径，relative_url 自动补 /homepage 前缀）
 gscholar: ZuP2MtEAAAAJ  # Google Scholar ID (removed &hl suffix)
 github: QNLab-USTC  # GitHub username
 # twitter: your_twitter_id  # Do not include the '@' symbol
