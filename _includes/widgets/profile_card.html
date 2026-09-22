@@ -80,6 +80,12 @@
                 </div>
                 <div class="row mt-3">
                     <div class="col">
+                        {% if site.data.profile.cv_link %}
+                        <a class="pr-3 no-break" target="_blank" href="{{ site.data.profile.cv_link | relative_url }}">
+                            <i class="fas fa-file-pdf"></i> CV
+                        </a>
+                        {% endif %}
+
                         {% if site.data.profile.gscholar %}
                         {%- if site.data.profile.gscholar contains 'scholar.google' -%}
                         {%- assign gscholar_url = site.data.profile.gscholar -%}
@@ -118,12 +124,6 @@
                         {% if site.data.profile.orcid %}
                         <a class="pr-3 no-break" target="_blank" href="https://orcid.org/{{ site.data.profile.orcid }}">
                             <i class="fab fa-orcid"></i> ORCID
-                        </a>
-                        {% endif %}
-
-                        {% if site.data.profile.cv_link %}
-                        <a class="pr-3 no-break" target="_blank" href="{{ site.data.profile.cv_link | relative_url }}">
-                            <i class="fas fa-file-pdf"></i> CV
                         </a>
                         {% endif %}
 
