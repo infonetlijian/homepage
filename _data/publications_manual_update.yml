@@ -1,3 +1,28 @@
+- id: zheng2026probabilistic
+  title: 'A Probabilistic Demand-Aware Routing Scheme for Real-Time Services in QKD Networks'
+  date: '2026-10-1'
+  type: conference
+  publisher: 2026 International Conference on Wireless Communications and Signal Processing
+  abbr: WCSP
+  year: 2026
+  authors:
+  - Haijun Zheng
+  - Yuxin Chen
+  - Zhongxiang Cai
+  - Jian Li*
+  selected: false
+  tags: []
+  links:
+  - name: DOI
+    url: ''
+  - name: PDF
+    url: ''
+  - name: Code
+    url: ''
+  - name: BibTeX
+    url: ''
+  - name: GB/T 7714
+    url: ''
 - id: liu2026p3h
   title: 'P3H-I and P3H-II: Dual-Mode Privacy-Preserving Hierarchical Heavy Hitters Detection with Matrix Storage and Tree Optimization'
   date: '2026-9-3'
