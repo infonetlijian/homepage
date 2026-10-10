@@ -1,21 +1,21 @@
 {
   "source": "serpapi",
-  "fetched_at": "2026-10-04T04:28:33.557011+00:00",
+  "fetched_at": "2026-10-10T06:11:39.389540+00:00",
   "author_id": "ZuP2MtEAAAAJ",
   "profile_url": "https://scholar.google.com/citations?user=ZuP2MtEAAAAJ",
   "author_name": "Jian Li",
-  "total_citations": 2659,
+  "total_citations": 2670,
   "raw": {
     "search_metadata": {
-      "id": "6ac1d5f0a8dce6ba5b537674",
+      "id": "6ac9d71a65f70100d3121b74",
       "status": "Success",
-      "json_endpoint": "https://serpapi.com/searches/NX4QizCChAsBfeI9Zw5OmgIMpGO5RuaVNbd8udxHBRk/6ac1d5f0a8dce6ba5b537674.json",
-      "markdown_endpoint": "https://serpapi.com/searches/NX4QizCChAsBfeI9Zw5OmgIMpGO5RuaVNbd8udxHBRk/6ac1d5f0a8dce6ba5b537674.md",
-      "created_at": "2026-10-04 04:28:32 UTC",
-      "processed_at": "2026-10-04 04:28:32 UTC",
+      "json_endpoint": "https://serpapi.com/searches/3RquQZS8xifppxJJeNCm0iudNHC1uwyktOlGacO7J-8/6ac9d71a65f70100d3121b74.json",
+      "markdown_endpoint": "https://serpapi.com/searches/3RquQZS8xifppxJJeNCm0iudNHC1uwyktOlGacO7J-8/6ac9d71a65f70100d3121b74.md",
+      "created_at": "2026-10-10 06:11:38 UTC",
+      "processed_at": "2026-10-10 06:11:38 UTC",
       "google_scholar_author_url": "https://scholar.google.com/citations?user=ZuP2MtEAAAAJ&hl=en&view_op=list_works",
-      "raw_html_file": "https://serpapi.com/searches/NX4QizCChAsBfeI9Zw5OmgIMpGO5RuaVNbd8udxHBRk/6ac1d5f0a8dce6ba5b537674.html",
-      "total_time_taken": 0.96
+      "raw_html_file": "https://serpapi.com/searches/3RquQZS8xifppxJJeNCm0iudNHC1uwyktOlGacO7J-8/6ac9d71a65f70100d3121b74.html",
+      "total_time_taken": 0.58
     },
     "search_parameters": {
       "engine": "google_scholar_author",
@@ -97,7 +97,7 @@
         "authors": "J Li, K Xue, DSL Wei, J Liu, Y Zhang",
         "publication": "IEEE Transactions on Wireless Communications 19 (4), 2367-2381, 2020",
         "cited_by": {
-          "value": 155,
+          "value": 156,
           "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9198512611683145971",
           "serpapi_link": "https://serpapi.com/search.json?cites=9198512611683145971&engine=google_scholar&hl=en",
           "cites_id": "9198512611683145971"
@@ -111,7 +111,7 @@
         "authors": "J Li, K Xue, J Liu, Y Zhang",
         "publication": "IEEE Wireless Communications Letters 9 (11), 1904-1908, 2020",
         "cited_by": {
-          "value": 118,
+          "value": 119,
           "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18404178649641265770",
           "serpapi_link": "https://serpapi.com/search.json?cites=18404178649641265770&engine=google_scholar&hl=en",
           "cites_id": "18404178649641265770"
@@ -153,7 +153,7 @@
         "authors": "L Chen, K Xue, J Li, N Yu, R Li, Q Sun, J Lu",
         "publication": "IEEE Network 37 (5), 182-189, 2023",
         "cited_by": {
-          "value": 73,
+          "value": 74,
           "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4261256352718225778",
           "serpapi_link": "https://serpapi.com/search.json?cites=4261256352718225778&engine=google_scholar&hl=en",
           "cites_id": "4261256352718225778"
@@ -333,14 +333,14 @@
       "table": [
         {
           "citations": {
-            "all": 2659,
-            "since_2021": 2583
+            "all": 2670,
+            "since_2021": 2594
           }
         },
         {
           "h_index": {
-            "all": 28,
-            "since_2021": 28
+            "all": 29,
+            "since_2021": 29
           }
         },
         {
@@ -377,7 +377,7 @@
         },
         {
           "year": 2024,
-          "citations": 563
+          "citations": 564
         },
         {
           "year": 2025,
@@ -385,7 +385,7 @@
         },
         {
           "year": 2026,
-          "citations": 642
+          "citations": 652
         }
       ]
     },
