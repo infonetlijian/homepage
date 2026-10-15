@@ -1,3 +1,28 @@
+- id: li2026tree
+  title: 'Tree-based Networking Scheme: Towards Future Large-scale Quantum Local Area Networks with High Entanglement Connectivity'
+  date: '2026-10-15'
+  type: journal
+  publisher: IEEE Journal on Selected Areas in Communications
+  abbr: JSAC
+  year: 2026
+  authors:
+  - Zhonghui Li
+  - Yang Yang*
+  - Jian Li*
+  - Kaiping Xue
+  selected: false
+  tags: []
+  links:
+  - name: DOI
+    url: ''
+  - name: PDF
+    url: ''
+  - name: Code
+    url: ''
+  - name: BibTeX
+    url: ''
+  - name: GB/T 7714
+    url: ''
 - id: zheng2026probabilistic
   title: 'A Probabilistic Demand-Aware Routing Scheme for Real-Time Services in QKD Networks'
   date: '2026-10-1'
