@@ -1,20 +1,21 @@
 - title: 'our paper "MulTho: Enabling Seamless Multipath Transmission with High-Accuracy Handover Detection in LEO Satellite Networks" is accepted by IEEE Transactions on Mobile Computing!'
   tag: Paper
-  date: '2026-11-3'
+  date: '2026-11-03'
+  feature: true
 - title: 'our paper "Tree-based Networking Scheme: Towards Future Large-scale Quantum Local Area Networks with High Entanglement Connectivity" is accepted by IEEE Journal on Selected Areas in Communications (JSAC)'
   tag: Paper
   date: '2026-10-15'
 - title: 'our paper "A Probabilistic Demand-Aware Routing Scheme for Real-Time Services in QKD Networks" is accepted by 2026 International Conference on Wireless Communications and Signal Processing (WCSP)'
   tag: Paper
-  date: '2026-10-1'
+  date: '2026-10-01'
 - title: 'our paper "DoubleAgent: Agent-Driven Egress Abuse in LLM Agent Ecosystems" is accepted by the Network and Distributed System Security (NDSS) 2027'
   tag: Paper
-  date: '2026-9-18'
+  date: '2026-09-18'
 - title: 'our paper "P3H-I and P3H-II: Dual-Mode Privacy-Preserving Hierarchical Heavy Hitters Detection with Matrix Storage and Tree Optimization" is accepted by IEEE Transactions on Information Forensics and Security!'
   tag: Paper
-  date: '2026-9-3'
+  date: '2026-09-03'
 - title: 'I am invited to present a talk titled "The Research on Development of Quantum Networks and Core Technologies (量子网络发展与核心技术研究) " in GoInc2026 (第九届光信息与光网络大会，量子通信与内生安全论坛).' 
-  date: '2026-8-16'
+  date: '2026-08-16'
   tag: Activity
   feature: true
   links:
@@ -22,30 +23,30 @@
     url: https://mp.weixin.qq.com/s/A-VxwlbCZC7AovoCshGhfg
 - title: 'our paper "QDCR: DNS–QUIC Cross-Protocol Traffic Amplification for Denial-of-Service Attacks" is accepted by IEEE Transactions on Networking!'
   tag: Paper
-  date: '2026-8-9'
+  date: '2026-08-09'
 - title: 'our paper "CompactDB: Compact and Secure Collaborative Relational Data Analytics" is accepted by IEEE Transactions on Dependable and Secure Computing!'
   tag: Paper
-  date: '2026-8-8'
+  date: '2026-08-08'
 - title: 'our paper "MixED: A Mixed Entanglement Distribution Design for Efficient Quantum Teleportation in Quantum Communication Networks" is accepted by IEEE Transactions on Communications!'
   tag: Paper
-  date: '2026-5-22'
+  date: '2026-05-22'
 - title: 'our paper "TrimCaching: Parameter-sharing Edge Caching for AI Model Downloading" is accepted by IEEE Transactions on Networking!'
   tag: Paper
-  date: '2026-4-15'
+  date: '2026-04-15'
 - title: 'our paper "RT-MD: Host-Centric Real-Time Detection of Multi-Domain DNS Data Exfiltration" is accepted by ACM Conference on Computer and Communications Security (CCS) 2026!'
   tag: Paper
-  date: '2026-4-10'
+  date: '2026-04-10'
 - title: 'our paper "CoCaTS: A Cooperative Caching-enabled Transmission Scheme in Ultra-dense LEO Satellite Networks" is accepted by IEEE Transactions on Mobile Computing!'
   tag: Paper
-  date: '2026-4-8'
+  date: '2026-04-08'
 - title: 'our paper "PUF-Based Lightweight Decentralized Authentication for UAV Networks" is accepted by IEEE Transactions on Mobile Computing!'
   tag: Paper
-  date: '2026-3-19'
+  date: '2026-03-19'
 - title: 'our paper "DynNet: A Lightweight Distributed Framework for Topology Obfuscation in Dynamic Networks" is accepted by IEEE Transactions on Network Science and Engineering!'
   tag: Paper
-  date: '2025-3-5'
+  date: '2025-03-05'
 - title: 'I am promoted to Associate Professor (tenured) in USTC! Thank you for the support and encouragement from my colleagues, students, and collaborators!' 
-  date: '2026-3-2'
+  date: '2026-03-02'
   tag: Experience
   feature: true
 - title: 'I am invited to serve as TPC Co-Chair in IEEE IWCMC 2026 QNC! Welcome to submit your valuable work!' 

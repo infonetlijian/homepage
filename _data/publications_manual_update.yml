@@ -1,6 +1,6 @@
 - id: long2026multho
   title: 'MulTho: Enabling Seamless Multipath Transmission with High-Accuracy Handover Detection in LEO Satellite Networks'
-  date: '2026-11-3'
+  date: '2026-11-03'
   type: journal
   publisher: IEEE Transactions on Mobile Computing
   abbr: TMC
@@ -52,7 +52,7 @@
     url: ''
 - id: zheng2026probabilistic
   title: 'A Probabilistic Demand-Aware Routing Scheme for Real-Time Services in QKD Networks'
-  date: '2026-10-1'
+  date: '2026-10-01'
   type: conference
   publisher: International Conference on Wireless Communications and Signal Processing (WCSP)
   abbr: WCSP
@@ -77,7 +77,7 @@
     url: ''
 - id: liu2026p3h
   title: 'P3H-I and P3H-II: Dual-Mode Privacy-Preserving Hierarchical Heavy Hitters Detection with Matrix Storage and Tree Optimization'
-  date: '2026-9-3'
+  date: '2026-09-03'
   type: journal
   publisher: IEEE Transactions on Information Forensics and Security
   abbr: TIFS
@@ -106,7 +106,7 @@
     url: ''
 - id: xie2026doubleagent
   title: 'DoubleAgent: Agent-Driven Egress Abuse in LLM Agent Ecosystems'
-  date: '2026-9-18'
+  date: '2026-09-18'
   type: conference
   publisher: The Network and Distributed System Security (NDSS)
   abbr: NDSS
@@ -217,7 +217,7 @@
     url: ''
 - id: qu2025trimcaching
   title: 'TrimCaching: Parameter-sharing Edge Caching for AI Model Downloading'
-  date: '2026-4-15'
+  date: '2026-04-15'
   type: journal
   publisher: IEEE Transactions on Networking
   abbr: ToN
@@ -245,7 +245,7 @@
     url: ''
 - id: ren2026rtmd
   title: 'RT-MD: Host-Centric Real-Time Detection of Multi-Domain DNS Data Exfiltration'
-  date: '2026-4-10'
+  date: '2026-04-10'
   type: conference
   publisher: ACM Conference on Computer and Communications Security (CCS)
   abbr: CCS
@@ -273,7 +273,7 @@
     url: ''
 - id: li2026cocats
   title: 'CoCaTS: A Cooperative Caching-enabled Transmission Scheme in Ultra-dense LEO Satellite Networks'
-  date: '2026-4-8'
+  date: '2026-04-08'
   type: journal
   publisher: IEEE Transactions on Mobile Computing
   abbr: TMC
@@ -301,7 +301,7 @@
     url: ''
 - id: ding2025puf
   title: 'PUF-Based Lightweight Decentralized Authentication for UAV Networks'
-  date: '2026-3-19'
+  date: '2026-03-19'
   type: journal
   publisher: IEEE Transactions on Mobile Computing
   abbr: TMC
@@ -332,7 +332,7 @@
     url: ''
 - id: huang2026dynnet
   title: 'DynNet: A Lightweight Distributed Framework for Topology Obfuscation in Dynamic Networks'
-  date: '2026-3-5'
+  date: '2026-03-05'
   type: journal
   publisher: IEEE Transactions on Network Science and Engineering
   abbr: TNSE
@@ -390,7 +390,7 @@
     url: ''
 - id: chen2026quiks
   title: 'QuIKS: Near-Zero Latency Key Supply with Adaptive Buffering for Resource-Efficient Quantum Key Distribution Networks'
-  date: '2026-5-21'
+  date: '2026-05-21'
   type: conference
   publisher: IEEE Conference on Computer Communications (INFOCOM)
   abbr: INFOCOM
@@ -417,7 +417,7 @@
     url: ''
 - id: long2026lr2
   title: 'LR2: Accelerating Long-Distance RDMA Recovery via In-Network Retransmission Decoupling'
-  date: '2026-5-21'
+  date: '2026-05-21'
   type: conference
   publisher: IEEE Conference on Computer Communications (INFOCOM)
   abbr: INFOCOM
