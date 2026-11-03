@@ -1,3 +1,30 @@
+- id: long2026multho
+  title: 'MulTho: Enabling Seamless Multipath Transmission with High-Accuracy Handover Detection in LEO Satellite Networks'
+  date: '2026-11-3'
+  type: journal
+  publisher: IEEE Transactions on Mobile Computing
+  abbr: TMC
+  year: 2026
+  authors:
+  - Qiuqing Long
+  - Jian Li*
+  - Jiangping Han
+  - Yuanxin Yan
+  - Kaiping Xue*
+  selected: false
+  tags: []
+  links:
+  - name: DOI
+    url: ''
+  - name: PDF
+    url: ''
+  - name: Code
+    url: ''
+  - name: BibTeX
+    url: ''
+  - name: GB/T 7714
+    url: ''
+
 - id: li2026tree
   title: 'Tree-based Networking Scheme: Towards Future Large-scale Quantum Local Area Networks with High Entanglement Connectivity'
   date: '2026-10-15'
