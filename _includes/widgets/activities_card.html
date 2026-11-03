@@ -1,4 +1,5 @@
 {% assign type = include.type %}
+{% assign display_type = include.title | default: type %}
 {% assign limit = include.limit | default: 1000 %}
 {% assign data = site.data.activities_manual_update | where: "type", type | first %}
 
@@ -13,7 +14,7 @@
             {% when 'Membership' %}id-card
             {% when 'Invited Talk' %}microphone
             {% else %}star
-        {% endcase %}"></i> {{ type }}
+        {% endcase %}"></i> {{ display_type }}
     </h6>
     <div class="p-3">
         {% assign sorted_items = data.list | sort: "date" | reverse %}
