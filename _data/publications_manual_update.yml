@@ -1,3 +1,31 @@
+- id: yan2026pattern
+  title: 'A Pattern-Aware Congestion Control Algorithm with Dynamic Resilience in LEO Satellite Networks'
+  date: '2026-11-18'
+  type: journal
+  publisher: IEEE Transactions on Mobile Computing
+  abbr: TMC
+  year: 2026
+  authors:
+  - Yuanxin Yan
+  - Jian Li*
+  - Qiuqing Long
+  - Jiangping Han
+  - Kaiping Xue
+  - Hao Chen
+  - Naiqiang Qiao
+  selected: false
+  tags: []
+  links:
+  - name: DOI
+    url: ''
+  - name: PDF
+    url: ''
+  - name: Code
+    url: ''
+  - name: BibTeX
+    url: ''
+  - name: GB/T 7714
+    url: ''
 - id: huang2026flowetc
   title: 'FlowETC: Behavioral Modeling and Adaptive Decision for Encrypted Traffic Classification'
   date: '2026-11-18'
