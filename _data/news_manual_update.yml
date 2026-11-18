@@ -1,3 +1,14 @@
+- title: Our paper received the Distinguished Artifact Award at ACM CCS 2026 (杰出技术成果奖，四大网络安全顶会之一)!
+  tag: Award
+  feature: true
+  date: '2026-11-18'
+- title: I receive Outstanding Young Scientist Award from Anhui Computer Society (安徽省计算机学会优秀青年科学家奖)!
+  tag: Award
+  feature: true
+  date: '2026-11-18'
+- title: 'our paper "FlowETC: Behavioral Modeling and Adaptive Decision for Encrypted Traffic Classification" is accepted by IEEE Transactions on Networking!'
+  tag: Paper
+  date: '2026-11-18'
 - title: 'our paper "MulTho: Enabling Seamless Multipath Transmission with High-Accuracy Handover Detection in LEO Satellite Networks" is accepted by IEEE Transactions on Mobile Computing!'
   tag: Paper
   date: '2026-11-03'

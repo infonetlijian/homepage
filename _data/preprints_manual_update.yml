@@ -29,10 +29,10 @@
     url: ''
 - id: wu2026adaptive
   title: 'Adaptive Quantum Memory Allocation for Memory-assisted MDI-QKD: A Theoretical Framework for Scalable Multi-User Key Generation'
-  date: '2026-3-1'
+  date: '2026-11-18'
   type: journal
-  publisher: npj Quantum Information (Under Review)
-  abbr: npjQI
+  publisher: OSA Optica (Under Review)
+  abbr: optica
   year: 2026
   authors:
   - Jiaqi Wu#

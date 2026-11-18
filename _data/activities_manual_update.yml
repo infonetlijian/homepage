@@ -1,22 +1,28 @@
 - type: Award
   list:
+  - title:  Distinguished Artifact Award, ACM CCS 2026 (杰出技术成果奖，四大网络安全顶会之一)
+    date: 2026
+    links:
+  - title:  Outstanding Young Scientist Award, Anhui Computer Society (安徽省计算机学会优秀青年科学家奖)
+    date: 2026
+    links:
   - title: Stanford/Elsevier Top 2% Scientists List (single-year impact)
     date: 2025
     multipleYears: "2024, 2025"
     links: https://guz.suat-sz.edu.cn/top2pct/entry/2842829?year=2025&list=single
-  - title: 2025 Original Open Source Security Award, First Prize (China Society for Cybersecurity, Adviser, 中国网络空间安全学会原创开源软件赛道一等奖，指导老师)
+  - title: 2025 Original Open Source Security Award, China Society for Cybersecurity (First Prize, Adviser, 中国网络空间安全学会原创开源软件赛道一等奖，指导老师)
     date: 2026
     links: http://news.ustc.edu.cn/info/1055/96358.htm
-  - title: ITC Early Career Award (IEEE ComSoc)
+  - title: ITC Early Career Award, IEEE ComSoc
     date: 2025
     links:
   - title: Second Class Prize in the Seventeenth National College Student Information Security Contest (Adviser)
     date: 2024
     links:
-  - title: Outstanding Scientific and Technological Paper Award (China Association for Science and Technology)
+  - title: Outstanding Scientific and Technological Paper Award, China Association for Science and Technology
     date: 2022
     links:
-  - title: Mozi Outstanding Youth Award (University of Science and Technology of China)
+  - title: Mozi Outstanding Youth Award, University of Science and Technology of China
     date: 2021
     links:
 - type: Editorial Board
