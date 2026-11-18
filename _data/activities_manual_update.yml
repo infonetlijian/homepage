@@ -3,7 +3,7 @@
   - title:  Distinguished Artifact Award, ACM CCS 2026 (杰出技术成果奖，四大网络安全顶会之一)
     date: 2026
     links:
-  - title:  Outstanding Young Scientist Award, Anhui Computer Society (安徽省计算机学会优秀青年科学家奖)
+  - title:  Outstanding Young Scientist Award, Anhui Computer Federation (安徽省计算机学会优秀青年科学家奖)
     date: 2026
     links:
   - title: Stanford/Elsevier Top 2% Scientists List (single-year impact)
@@ -37,6 +37,10 @@
     links: 
 - type: Invited Talk
   list:
+  - title: From Trusted Relays to Fully Quantum Networks: The research on Quantum Networking Technologies (从可信中继到全量子网络：量子组网技术研究)
+    conference: CCF ChinaNet 2026, Xiamen, China
+    date: 2026
+    links: https://mp.weixin.qq.com/s/UCe4w7GwmokL77jhF-RBFA
   - title: The Research on Development of Quantum Networks and Core Technologies (量子网络发展与核心技术研究)
     conference: GoInc2026 (第九届光信息与光网络大会), Hohhot, China
     date: 2026
