@@ -6,8 +6,8 @@ group: Gallery
 # 列表页加载缩略图(assets/images/gallery/thumbs/), 原图在 assets/images/photos/ 由 lightbox 点击时加载
 images:
   - image: /assets/images/gallery/2026-QNLab GroupPhoto.jpg
-    caption: 2026 量子网络组合影（一）
+    caption: 2026 Group photo of QNLab
   - image: /assets/images/gallery/2026-QNLab GroupPhoto2.jpg
-    caption: 2026 量子网络组合影（二）
+    caption: 2026 Group photo of QNLab
 ---
 2026 量子网络组合影
