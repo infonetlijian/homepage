@@ -1,3 +1,10 @@
+- title: 'I am invited to present a talk titled "From Trusted Relays to Fully Quantum Networks: The research on Quantum Networking Technologies (从可信中继到全量子网络：量子组网技术研究)  " in CCF ChinaNet 202 (CCF中国网络大会，量子互联网论坛)!' 
+  date: '2026-11-20'
+  tag: Activity
+  feature: true
+  links:
+  - name: Link
+    url: https://mp.weixin.qq.com/s/UCe4w7GwmokL77jhF-RBFA
 - title: 'our paper "A Pattern-Aware Congestion Control Algorithm with Dynamic Resilience in LEO Satellite Networks" is accepted by IEEE Transactions on Mobile Computing!'
   tag: Paper
   date: '2026-11-18'
@@ -15,7 +22,7 @@
 - title: 'our paper "MulTho: Enabling Seamless Multipath Transmission with High-Accuracy Handover Detection in LEO Satellite Networks" is accepted by IEEE Transactions on Mobile Computing!'
   tag: Paper
   date: '2026-11-03'
-- title: 'our paper "Tree-based Networking Scheme: Towards Future Large-scale Quantum Local Area Networks with High Entanglement Connectivity" is accepted by IEEE Journal on Selected Areas in Communications (JSAC)'
+- title: 'our paper "Tree-based Networking Scheme: Towards Future Large-scale Quantum Local Area Networks with High Entanglement Connectivity" is accepted by IEEE Journal on Selected Areas in Communications (JSAC)!'
   tag: Paper
   date: '2026-10-15'
 - title: 'our paper "A Probabilistic Demand-Aware Routing Scheme for Real-Time Services in QKD Networks" is accepted by 2026 International Conference on Wireless Communications and Signal Processing (WCSP)'
@@ -27,7 +34,7 @@
 - title: 'our paper "P3H-I and P3H-II: Dual-Mode Privacy-Preserving Hierarchical Heavy Hitters Detection with Matrix Storage and Tree Optimization" is accepted by IEEE Transactions on Information Forensics and Security!'
   tag: Paper
   date: '2026-09-03'
-- title: 'I am invited to present a talk titled "The Research on Development of Quantum Networks and Core Technologies (量子网络发展与核心技术研究) " in GoInc2026 (第九届光信息与光网络大会，量子通信与内生安全论坛).' 
+- title: 'I am invited to present a talk titled "The Research on Development of Quantum Networks and Core Technologies (量子网络发展与核心技术研究) " in GoInc2026 (第九届光信息与光网络大会，量子通信与内生安全论坛)!' 
   date: '2026-08-16'
   tag: Activity
   feature: true

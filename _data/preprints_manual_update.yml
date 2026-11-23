@@ -90,19 +90,20 @@
   - name: GB/T 7714
     url: ''
 - id: xiao2025hybrid
-  title: 'Hybrid Error Correction Design for High-fidelity Entanglement Distribution in Quantum Communication Networks'
-  date: '2025-06-01'
+  title: 'HybridEC: Hybrid Error Correction Design for High-Fidelity Entanglement Distribution in Quantum Communication Networks'
+  date: '2026-11-01'
   type: journal
   publisher: IEEE Transactions on Communications (Under Review)
   abbr: TCOM
-  year: 2025
+  year: 2026
   authors:
+  - Kaiping Xue
+  - Jianfeng Niu
   - Zirui Xiao
-  - Kaiping Xue*
   - Zhonghui Li
-  - Jian Li
+  - Jian Li*
   - Lutong Chen
-  - Ruidong Li
+  - Hyundong Shin*
   selected: false
   tags: []
   links:
